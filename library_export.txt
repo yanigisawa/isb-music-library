@@ -1,11 +1,13 @@
 Title	Composer	Arranger	Publisher	Copies	Cost	Grade Level	State List	Media Link	Media Link 2	Music Type	Voicing	Library ID	Date Purchased	Purchased From	Performance Info	Last Performance Date	Comments	
 American Rhapsody, An	Wood, Hayden											0						
 Begin the beguine												0						
+Singin in the rain												0						
 Peter and the Wolf	Bruckner, Anton											0						
 Drummer's Delight	Mancini, Henry	Erickson, Frank				4					Concert Band	0						
+Singin in the rain	Brown											0						
+The waltzing cat												0						
 Leo justiniu kauffman												99						
 Gopak (the Fair at Soro	Mussorgsky, Modest											160						
-Golden Friendships	Fillmore, Henry											176						
 Glory Of The Trumpet	Brockenshire											184						
 Golden Anniversary	Akers											185						
 Goldregen	Waldteufel, Emil von											186						
@@ -271,7 +273,7 @@ Commedia	Rosenthal, Laurence											999
 Chorus Fr. Prince Igor	Borodin, Alexander	Hirsch										999						
 Christmas 40 Bar Medley	Various	Howard, Sharron										999						
 Christmas Medley 	Various	Holmes, Jeff										999						
-Christmas Suite	Sclater, James S.									Christmas		999						
+Christmas Suite	Sclater, James S.											999						
 Cassation OP.45	Arnell, Richard											999						
 Candelaria	Mario Kuri-Aldana											999						
 Canon in D	Pachelbel, Johann	Dorff, Daniel										999						
@@ -429,7 +431,7 @@ Parade of the Wooden Soldiers	Jessel, Leon	Kickmann, F. Henri										999
 Parodies	Iannaccone, Anthony											999						
 Partita for Wind Quintet	Fine, Irving											999						
 Academic Festival Overture	Brahms, Johannes	Safranek, V.F.	Carl Fischer, LLC			6				Overture	Concert Band	A-1						
-Academic Procession	Williams, Clifton											A-2						
+Academic Procession	Williams, Clifton										MISSING	A-2						
 Adagio	Albinoni	Dupont, P.										A-3						
 Adagio	Haydn, Franz Joseph	Shuman, Davis & Byrns,										A-4						
 Agua, Azucarillos Y Aguardiente	Chueca, F.										Concert Band	A-6						
@@ -450,13 +452,12 @@ Amparito Roca	Texidor, Jamie		Boosey & Hawkes, Inc.	3							Concert Band	A-20			
 Andalucia	Lecuona, Ernesto	Yoder, Paul										A-21						
 Romance 	Rubenstein, Anton 	Cheyette, Irving 										A-22						
 Andantino (from Op. 10)	DeBussy, Claude 	Arlen, Bruce 	Kendor Music, Inc.									A-23						
-Friendly Rivals, The 	Godfrey, Charles 		Chappell Music Company								Concert Band	A-24					Cornet Duet	
 American Civil War Fantasy	Bilik, Jerry H.		Southern Music Company			4					Concert Band	A-25						
 American Variations	Bilik, Jerry H.		Alfred Publishing Company	2		5					Concert Band	A-26						
 Arioso (fr. Conc. for vln)	Bach, Johann Sebastian	Lawshe, Wilford										A-27						
 Athletic Festival March	Prokofiev, Sergei 	Goldman, Richard Franko 	C.L. Barnhouse Company			4				March	Concert Band	A-28						
 Atlantis (The Lost Continent)	Safranek, V. F. 		Carl Fischer, LLC			4					Concert Band	A-29						
-April in Paris	Duke, Vernon	Maltby, Richard									Concert Band	A-30						
+April in Paris	Duke, Vernon	Maltby, Richard									MISSING	A-30						
 Arabesque #1	Debussy, Claude	Walter, Daniel									Concert Band	A-31						
 Arioso	Williams, Clifton		Masters Music Publications, Inc.			3					Concert Band	A-32						
 Autumn in New York	Duke, Vernon	Krance, John Paul										A-33						
@@ -466,7 +467,7 @@ Bacchanale (from Samson & Delila)	Saint-Saens, Camille	Egner, Philip	Carl Fische
 Bachianas Brasileiras No. 4 Suite	Villa-Lobos, Heitor	Reed, Alfred	Alfred Publishing Company			5					Concert Band	A-37						
 Aria from Bachianas Brasilieras No. 5	Villa-Lobos, Heitor	Hebert, William										A-38						
 Percussion Espagnole	Prince, Robert											A-39						
-Baile do Luis Alonso, El	Gimenez, G.											A-40						
+El Baile de Luis Alonso	Gimenez, G.										Concert Band	A-40						
 Ballade in D Minor	Brahms, Johannes	Walters, Harold L.	Rubank									A-41						
 Ballad for Brass & Percussion	Maltby, Richard											A-42						
 Saul Overture	Bazzini, Antonio	Fanciulli, F.	Carl Fischer, LLC									A-43						
@@ -488,10 +489,10 @@ Les Biches	Poulenc, Francis		Theodore Presser Company								Concert Band	A-57
 Symphonic Prelude, A (Based on Black is the Color of My True Love's Hair)	Reed, Alfred		Hal Leonard Corporation			4				Folk	Concert Band	A-58						
 Blue Danube Waltz	Strauss, Johann, Jr.	Leedzen, Erik	Carl Fischer, LLC							Waltz	Concert Band	A-59						
 Glider Pilot's Reunion March	Werle, Floyd E,		Bourne Company Music Publishing							March	Concert Band	A-60						
-Boda de Luis Alonso, La	Gimenez, G.											A-61						
+La Boda de Luis Alonso	Gimenez, G.										Concert Band	A-61						
 Batuque	Fernandez, Oscar Lorenzo	Wolfson, Richard I.									Concert Band	A-62						
 Overture to Beatrice and Benedict	Berlioz, Hector	Henning, Franz	Carl Fischer, LLC			5					Concert Band	A-63						
-Beguine for Band	Osser, Glenn		Educational Programs Publications			3					Concert Band	A-64						
+Beguine for Band	Osser, Glenn		Educational Programs Publications			3					MISSING	A-64						
 Bohemia Girl	Balfe, Michael	Moses-Tobani, Theo 	Carl Fischer, LLC							Opera	Concert Band	A-65						
 Bolero Espanol	Lecuona, Ernesto		Edward B. Marks Music Company									A-66						
 Overture to 	Sacchini-Franko	Clark, Tom	G. Schirmer, Inc.									A-67						
@@ -506,7 +507,7 @@ Manzoni Requiem (Excerpts)	Verdi, Giuseppe	Mollenhauer, Emil	Belwin-Mills Publis
 Canope 	Debussy, Claude	Verhofstad, A.										A-77						
 Canto Yoruba	Sanjuan, Pedro											A-78						
 Canzona	Hasse, Johann Adolph	Moehlmann, Roland L.										A-79						
-Canzona	Mennin, Peter											A-80						
+Canzona	Mennin, Peter										MISSING	A-80						
 Capriccio	Poot, Marcel											A-81						
 Caprice Italien	Tchaikovsky, Piotr Ilyic	Laurendeau, L.P.									Concert Band	A-82						
 Capriol Suite	Warlock, Peter (psdn)	Beeler, Walter	G. Schirmer, Inc.			4					Concert Band	A-83						
@@ -536,10 +537,10 @@ Henry VIII (Ballet)	Saint-Saens, Camille	Laurendeau, L.P.	Carl Fischer, LLC					
 Circus Overture	Schuman, William	Owens, Don	G. Schirmer, Inc.			6					Concert Band	A-107						
 Circus Polka	Stravinsky, Igor		Schott Music International									A-108						
 Two Chorales	Karg-Elert, Siegfried	Hastings, Ross										A-109						
-Chorale Prelude 	Persichetti, Vincent											A-110						
-Cole Porter Songs 	Porter, Cole 	Bennett, Robert Russell 	Chappell Music Company								Concert Band	A-111						
+Chorale Prelude 	Persichetti, Vincent										MISSING	A-110						
+Cole Porter Songs 	Porter, Cole 	Bennett, Robert Russell 	Chappell Music Company								Concert Band	A-111					No score	
 Cole Porter, A Symphonic Portrait	Porter, Cole 	Robinson, Wayne 	Chappell Music Company			3				Musical	Concert Band	A-112				2022-04-30		
-Colossus of Columbia	Alexander, Russell	Bainum, Glenn C.	C.L. Barnhouse Company								Concert Band	A-113						
+Colossus of Columbia	Alexander, Russell	Bainum, Glenn C.	C.L. Barnhouse Company	2							Concert Band	A-113						
 Trombone Country	Christensen, James		Hal Leonard Corporation									A-114						
 Colonel Bogey on Parade	Alford, Kenneth J.		Boosey & Hawkes, Inc.							March	Concert Band	A-115						
 Come Thou Fount	Wyeth, James	Gardner, Maurice										A-116						
@@ -584,7 +585,7 @@ Gods go a Begging, The	Handel, George Friedric	Beecham, Thomas										A-155
 Golden Crockerel (Intro.	Rimsky- Korsakov, Nicolai 	Harding, A. Austin	Neil A. Kjos Music Company									A-156						
 Golden Ear, The (Paso Doble)	San Miguel, Mariano	Walters, Harold L.	Rubank								Concert Band	A-157						
 Golden Jubilee	Sousa, John Philip											A-158						
-Good Soldier Schweik Suite, The	Kurka, Robert					5				Opera	Concert Band	A-159						
+Good Soldier Schweik Suite, The	Kurka, Robert					5				Opera	MISSING	A-159						
 Russian Dance	Mussorgsky, Modest	Chilton, R.T.	Boosey & Hawkes, Inc.									A-160						
 Carnival of Melody	Various	Hawkins, Robert										A-161						
 Granada	Agustin, Lara											A-162						
@@ -598,19 +599,19 @@ Gypsy Selections	Styne, Jule	Yoder, Paul	Williamson Music Co.							Musical	Conc
 Courts of Granada Overture	Chapi, Roberto 	Pintado, G.	Carl Fischer, LLC								Concert Band	A-170						
 Hammersmith: Prelude and Scherzo	Holst, Gustav		Boosey & Hawkes, Inc.			6					Concert Band	A-171						
 Harlem Nocturne	Hagen, Earle 	Krance, John	Shapiro, Bernstein & Co., Inc.			4.5				Jazz	Concert Band	A-172						
-Handel in the Strand	Grainger, Percy Aldridge	Goldman, Richard Franko				5					Concert Band	A-173						
+Handel in the Strand	Grainger, Percy Aldridge	Goldman, Richard Franko				5					MISSING	A-173						
 Sine Nomine (Processional March in the English Style)	Vaughan-Williams, Ralph	Houseknecht, Bruce H.	Carl Fischer, LLC			3				March	Concert Band	A-174						
 Entrance of the Emperor	Kodaly, Zoltan	DeJonge, Rick				4					Concert Band	A-175						
 Ein Heldenleben (A Hero's Life)	Strauss, Richard	Harding, A. Austin	Neil A. Kjos Music Company									A-176						
 Hanedans	Neilsen, Carl	Moller, Paul Ivan	G. Schirmer, Inc.									A-177						
 H.M.S Pinafore Highlights	Sullivan, Sir Arthur 	Bennett, Robert Russell									Concert Band	A-178						
 Bouree	Bach, Johann Sebastian	Chiaffarelli, Albert										A-179						
-Concerto #2	Weber, Carl Maria von											A-180						
+Concerto #2	Weber, Carl Maria von										MISSING	A-180						
 Huntingtower (Ballad for Band)	Respighi, Ottorino					5				Ballad	Concert Band	A-181						
 I do! I do!	Schmidt, Harvey	Erickson, Frank								Musical	Concert Band	A-182						
 If Thou Be Near (Chorale Prelude)	Bach, Johann Sebastian	Moehlmann, Roland L.										A-183						
 I Got Rhythm	Gershwin, George	Moss, Leonard	New World Enterprises of Montrose							Pops		A-184						
-I Left My Heart in San Francisco	Cory, George	Reed, Alfred	Hansen House			3.5				Pops	Concert Band	A-185						
+I Left My Heart in San Francisco	Cory, George & Cross, Douglass	Reed, Alfred	Hansen House			3.5				Pops	Concert Band	A-185						
 Symphony #3 	Gliere, Rienhold											A-186						
 In a Clock Store	Orth, Charles J.	Vitto, Ben	Carl Fischer, LLC									A-187						
 Psyche and Eros, Symphonic Poem	Franck, Cesar	Harding, A. Austin	Neil A. Kjos Music Company								Concert Band	A-188						
@@ -729,8 +730,8 @@ Elsa's Procession to the Cathedral	Wagner, Richard											A-300
 Emperor Waltzes 	Strauss Jr., Johann		Boosey & Hawkes, Inc.									A-301						
 England's Carol	Lewis, John	Phillips, Peter								Christmas		A-302						
 English Dances, Book One	Arnold, Malcolm	Johnstone, Maurice				4					Concert Band	A-303						
-Enigma Variations	Elgar, Edward 	Slocum, Earl	TRN Music Publisher			5					Concert Band	A-304						
-Erie Canal	Whitney, Maurice		Theodore Presser Company			3					Concert Band	A-305						
+Enigma Variations	Elgar, Edward 	Slocum, Earl	TRN Music Publisher			5					MISSING	A-304						
+Erie Canal	Whitney, Maurice		Theodore Presser Company			3					MISSING	A-305						
 Espana Cani	Marquina, Pascual									Latin	Concert Band	A-306						
 Estrellita	Ponce, Manuel		Carl Fischer, LLC									A-307						
 Etude Romantique	Chopin, Frederick	Davis, Albert Oliver										A-308						
@@ -749,9 +750,9 @@ Fantasticks, The selection	Schmidt, Harvey		Chappell 									A-321
 Fantasy on American Sailing Songs	Grundman, Clare E.		Boosey & Hawkes, Inc.			3					Concert Band	A-322						
 Father of Victory (La Pere de la Victoire)	Ganne, Louis	Roberts, Charles J.	Carl Fischer, LLC							March	Concert Band	A-323						
 Variations on a Theme 	Schuman, Robert	Jager, Robert										A-324						
-Festival	Williams, Clifton 		Alfred Publishing Company			5					Concert Band	A-325				2017-10-10		
+Festival	Williams, Clifton 		Alfred Publishing Company			5					MISSING	A-325				2017-10-10		
 Kanon	Pachelbel, Johann	Paulson, John										A-327						
-Polonaise Christmas Night)	Rimsky- Korsakov, Nicolai 									Christmas	Concert Band	A-328						
+Polonaise Christmas Night)	Rimsky- Korsakov, Nicolai 									Christmas	MISSING	A-328						
 La Feria 	Lancome, Paul											A-329						
 Festiva	Nelhybel, Vaclav											A-330						
 Fest Marsch	Lendvai, Erwin											A-331						
@@ -767,9 +768,9 @@ Cornish Rhapsody	Bath, Hubert											A-341
 Magic Flute, The (Overture)	Mozart, Wolfgang A.	Barnes, Clifford P.	Tempo Music Publications, Inc.									A-342						
 Mame Highlights	Herman, Jerry	Krance, John	Hal Leonard Corporation	2						Musical	Concert Band	A-343						
 Symphony in Bb (First Movement)	Fauchet, Paul											A-344						
-Mannin Veen: Dear Isle of Man (A Manx Tone Poem)	Wood, Haydn 		Boosey & Hawkes, Inc.			5					Concert Band	A-345				2019-03-26		
+Mannin Veen: Dear Isle of Man (A Manx Tone Poem)	Wood, Haydn 		Boosey & Hawkes, Inc.			5					MISSING	A-345				2019-03-26		
 March and Intermezzo	Bizet, Georges											A-346						
-March (Symphonic Metamorphosis)	Hindemith, Paul											A-347						
+March (Symphonic Metamorphosis)	Hindemith, Paul										MISSING	A-347						
 Marche Joyeuse (a Vincent D'Indy)	Chabrier, Emmanuel											A-348						
 March Carillon	Hanson, Howard											A-349						
 Chester (Overture for Band)	Schuman, William		Theodore Presser Company			5				Patriotic	Concert Band	A-350				2018-05-15		
@@ -804,7 +805,7 @@ Misty	Garner, Erroll											A-377
 Candide Overture	Bernstein, Leonard 									Musical	Concert Band	A-378						
 Mountain Greenery	Rodgers, Richard											A-379						
 Moldau (Ma Vlast), The 	Smetana, Bedrich 											A-380						
-Monument Circle March	Stadler, Dr. Harold 									March		A-381						
+Monument Circle March	Stadler, Dr. Harold 									March	MISSING	A-381						
 Montmatre March (Paris Suite)	Wood, Haydn											A-382						
 Moon River	Mancini, Henry 	Bilik, Jerry H.	Famous Music Publishing								Concert Band	A-383						
 Mooraide Suite	Holst, Gustav											A-384						
@@ -860,10 +861,10 @@ Flores de Espana	Chovi, Riccardo											A-434
 Portrait of a Trumpet (Trumpet solo)	Nestico, Sammy		Kendor Music, Inc.			5 solo, 4 ensemble					Concert Band w/soloist	A-435						
 Pacific National Exhibition	Werle/ Sallade/ Edwards											A-436						
 Pantomime (Le Cid)	Sacchini, Antonio											A-437						
-Pageant	Persichetti, Vincent		Elkan- Vogel Co.			5				Overture	Concert Band	A-438						
+Pageant	Persichetti, Vincent		Elkan- Vogel Co.			5				Overture	MISSING	A-438						
 Passacaglia in c min	Bach, Johann Sebastian											A-439						
 Pastorale	Giovanni Pergolesi											A-440						
-Pas de Deux (Nutcracker)	Tchaikovsky, Pyotr Ilyich	Walter, Daniel	Wynn Music Inc.							Christmas	Concert Band	A-441						
+Pas de Deux (Nutcracker)	Tchaikovsky, Pyotr Ilyich	Walter, Daniel	Wynn Music Inc.							Christmas	MISSING	A-441						
 Passacaglia	Reed, Alfred		Hal Leonard Corporation			4					Concert Band	A-442						
 Passacaglia and Fugue in C minor	Bach, Johann Sebastian	Hunsberger, Donald	G. Schirmer, Inc.								Concert Band	A-443						
 Pageant Overture	LePresti, Ronald											A-444						
@@ -912,7 +913,7 @@ Procession du Rocio	Turina, Joachim											A-487
 Quebec Folk Fantasy	Cable, Howard											A-488						
 Prologue	Williams, Edgar W. Jr.		Ludwig Music Publishing			4					Concert Band	A-489						
 Promise, Promise Selections	Rachmaninoff, Sergei 											A-490						
-Psalm for Band	Persichetti, Vincent		Elkan- Vogel Co.								Concert Band	A-491						
+Psalm for Band	Persichetti, Vincent		Elkan- Vogel Co.	2							Concert Band	A-491						
 Quartal Piece	Velke, Fritz											A-492						
 Queen's Fancy	Lewis, John											A-493						
 Rakoczy March (Damnation of Faust)	Berlioz, Hector											A-494						
@@ -921,7 +922,7 @@ Reflective Mood (Trombone solo)	Nestico, Sammy 		Kendor Music, Inc.			4 soloist,
 Reminscences of Verdi	Verdi, Giuseppe	Godfrey, Dan										A-498						
 Reve Angelique, Romance in Eb	Rubenstein, Anton											A-499						
 Rhapsody in Blue	Gershwin, George	Grofe, Ferde									Concert Band	A-500						
-Procession of the Nobles (Mlada)	Rimsky- Korsakov, Nicolai 											A-501						
+Procession of the Nobles (Mlada)	Rimsky- Korsakov, Nicolai 										MISSING	A-501						
 Ritual Fire Dance	DeFalla, Manuel											A-502						
 Robin Hood suite	Curzon, Sir Clifford											A-503						
 Riksvag 13	Olson											A-504						
@@ -933,7 +934,7 @@ Roi D'Ys, le Overture	Lalo, Edouard											A-509
 Royal March from Sarajevo Suite	Gould, Morton											A-510						
 Royal Palace Music	Bliss, Arthur											A-511						
 Romeo and Juliet	Rota, Nino											A-512						
-Romeo and Juliet Fantasy Overture	Tchaikovsky, Pyotr Ilyich 									Opera	Concert Band	A-513						
+Romeo and Juliet Fantasy Overture	Tchaikovsky, Pyotr Ilyich 									Opera	MISSING	A-513						
 Ronda Espanola	Suarez, Jose											A-514						
 La Roquina	Green, William B.		Hal Leonard Corporation							March	Concert Band	A-515						
 Eight Russian Folk Song	Liadov, Anatol											A-516						
@@ -946,7 +947,7 @@ Salon Mexico	Copland, Aaron	Hindsley, Mark H.	Boosey & Hawkes, Inc.									A-52
 Samson Overture	Handel, George Friedric	Whear, Paul W,	Ludwig Music Publishing									A-523						
 Saul and David, Prelude to Act II	Neilson, Carl	Boyd, John	G. Schirmer, Inc.									A-524						
 Sari Selection	Kalaman, Emmerich	Clark, Tom										A-525						
-Scenes from The Louvre	Dello Joio, Norman		Hal Leonard Corporation			5					Concert Band	A-526						
+Scenes from The Louvre	Dello Joio, Norman		Hal Leonard Corporation	2		5					Concert Band	A-526						
 Scheherazade (III & IV)	Rimsky- Korsakov, Nicolai		Boosey & Hawkes, Inc.									A-527						
 Overture to The School for Scandal	Barber, Samuel	Hudson, Frank	G. Schirmer, Inc.			5				Overture	Concert Band	A-528						
 Schon Rosmarin	Kreisler, Fritz	Leidzen, Erik										A-529						
@@ -956,7 +957,7 @@ Two Scriabin Etudes	Scriabin, Alexander 	Davis, Albert Oliver	Ludwig Music Publi
 Sea Bird	Garcia, Russ											A-533						
 Sicilienne and Finale	Vivaldi, Antonio	Brunelli, Louis Jean	Chappell 									A-534						
 Siege of Corinth Overture	Rossini, Gioacchino 	Nelson, Robert E.									Concert Band	A-535						
-Sea Songs	Vaughan-Williams, Ralph		Boosey & Hawkes, Inc.			4					Concert Band	A-536						
+Sea Songs	Vaughan-Williams, Ralph		Boosey & Hawkes, Inc.			4					MISSING	A-536						
 Seascape	Reed, Alfred		Piedmont Music Company, Inc.									A-537						
 Seafarer, The (A Nautical Rhapsody on Shanties)	Wood, Hayden 		Boosey & Hawkes, Inc.			6					Concert Band	A-538						
 Seascape	Osser, Glenn		Leeds Music Company									A-539						
@@ -986,7 +987,7 @@ Sonata Pian e Forte	Gabrieli, Giovanni	Gardner, Maurice	Staff Music Publishing C
 Sonatina (Suite for Band)	Bunton, Eldridge		Kendor Music, Inc.	2							Concert Band	A-564						
 Soirees Musicales	Rossini, Gioacchino	Britten, Benjamin	Boosey & Hawkes, Inc.								Concert Band	A-565						
 Song of Destiny	Brahms, Johannes	Gardner, Maurice	Staff Music Publishing Co. Inc.									A-566						
-Sorcerer's Apprentice	Dukas, Paul											A-567						
+Sorcerer's Apprentice	Dukas, Paul										MISSING	A-567						
 Sound of Music, The (Selections)	Rodgers & Hammerstein	Bennett, Robert Russell 	Williamson Music Co.			3				Soundtrack	Concert Band	A-568						
 March Entracte (Queen of Spades)	Tchaikovsky, Peter Ilyich	Gordon, Philip	Jenson Publications									A-569						
 South Pacific: Selections	Rodgers, Richard	Leidzen, Erik	Williamson Music Co.							Musical	Concert Band	A-570						
@@ -1019,11 +1020,11 @@ Symphony in One Movement	Giovannini, Vittorio	Robinson, Wayne	Highland/Etling Pu
 Havendance	Holsinger, David R.		TRN Music Publisher			4					Concert Band	A-598						
 Symphony #3	Giannini, Vittorio										Concert Band	A-599						
 Symphony #3	Brahms, Johannes	Evman										A-600						
-Symphony for Band	Gould, Morton											A-601						
+Symphony for Band	Gould, Morton										MISSING	A-601						
 Symphony in Bb	Hindemith, Paul		Schott Music International			7					Concert Band	A-602						
 Symphonic Suite	Williams, Clifton		Alfred Publishing Company			5					Concert Band	A-603						
 Student Prince selections	Romberg, Sigmund	Wright										A-604						
-Symphonic Concert March	Bonelli, Giouse	Falcone, Nicholas	Southern Music Company			4				March	Concert Band	A-605						
+Symphonic Concert March	Bonelli, Giouse	Falcone, Nicholas	Southern Music Company			4				March	MISSING	A-605						
 Symphony #1 in G minor (Finale)	Kalinnikov	Bainum, Glenn C.	Educational Programs Publications								Concert Band	A-606					With Antiphonal Brass Choirs	
 Symphony #1 (Nordic) second movement	Hanson, Howard	Maddy, Joseph										A-607						
 Symphony #2 (Romantic)	Hanson, Howard										Concert Band	A-608						
@@ -1048,9 +1049,9 @@ Tango Americano	Mancini, Henry											A-627
 Tchaikovsky Waltzes	Tchaikovsky, Pyotr Ilyich	Wright, Denis										A-628						
 Tenderly	Gross, Lawrence	Applebaum										A-629						
 Theme & Variations, Op 43a	Schoenberg, Arnold 		G. Schirmer, Inc.			6					Concert Band	A-630						
-Third Suite	Jager, Robert		Alfred Publishing Company			5					Concert Band	A-631				2019-03-26		
+Third Suite	Jager, Robert		Alfred Publishing Company			5					MISSING	A-631				2019-03-26		
 Theme and Variations (Finale - Suite #3)	Tchaikovsky, Pyotr Ilyich	Winterbotton, Frank										A-632						
-Grant Them Rest	Faure, Gabriel	Buehlman, Barbara	Shawnee Press, Inc.								Concert Band	A-633						
+Grant Them Rest	Faure, Gabriel	Buehlman, Barbara	Shawnee Press, Inc.								MISSING	A-633						
 Theme and Variations	O'Donnell											A-634						
 Clemenza di Tito Overture	Mozart, Wolfgang A.	Lotterer										A-635						
 Three Dances from Nell Gwynn	German, Edward	Leidzen, Erik										A-636						
@@ -1060,16 +1061,16 @@ Tiger's Tail	Thurban, T. W.											A-639
 Timpat (Solo Timpani and Band)	Leist, Robert L.			2							Concert Band w/soloist	A-640						
 Toros y Soi	Umeneta	Pihet										A-641						
 Three Japanese Dances	Rogers, Bernard											A-642						
-Tocatta	Frescobaldi, Girolamo	Slocum, Earl										A-643						
+Tocatta	Frescobaldi, Girolamo	Slocum, Earl									MISSING	A-643						
 Toccata Marziale	Vaughan-Williams, Ralph		Boosey & Hawkes, Inc.			6					Concert Band	A-644				2018-10-09		
 Train Ride, OP 122`	Prokofiev, Sergei	Cable, Howard										A-645						
-Trauersinfonie	Wagner, Richard 	Leidzen, Erik	Associated Music Publishers, Inc.			4					Concert Band	A-646				2019-03-26		
+Trauersinfonie	Wagner, Richard 	Leidzen, Erik	Associated Music Publishers, Inc.			4					MISSING	A-646				2019-03-26		
 Trauermusik	Mozart, Wolfgang A.	Osterling, Eric										A-647						
 Troika en Traineaux	Tchaikovsky, Pyotr Ilyich	O'Neill										A-648						
 Tres Jolie Waltzes	Waldteufel, Emil von	Coquelet										A-650						
 Tribute to Romberg	Romberg, SIgmund	Beeler, Walter										A-651						
 Trilogy	Williams, Clifton											A-652						
-Troika (Lt. Kije Suite)	Prokofiev, Sergei	Walters, Harold L.	Rubank			4					Concert Band	A-653						
+Troika (Lt. Kije Suite)	Prokofiev, Sergei	Walters, Harold L.	Rubank			4				Christmas	MISSING	A-653						
 Triumphal March (Quo Vadis)	Rozsa, Miklos	Leidzen, Erik										A-654						
 Traume (Dreams)	Wagner, Richard	Buehlman, Barbara										A-655						
 Concerto in Eb	Hummel, Johann Nepo	Corley										A-656						
@@ -1092,9 +1093,9 @@ Verdiana	Camerata, Toots	Reed, Alfred										A-672
 Ave Verum Corpus	Mozart, Wolfgang A.											A-673						
 Vilabella	Williams, Kenneth	Reed, Alfred										A-674						
 Victor Herbert Favorites	Herbert, Victor	Lake, Mathew L.	Carl Fischer, LLC								Concert Band	A-675						
-Victory at Sea (Symphonic Scenario)	Rodgers, Richard	Bennett, Robert Russell	Williamson Music Co.			4				Soundtrack	Concert Band	A-676						
+Victory at Sea (Symphonic Scenario)	Rodgers, Richard	Bennett, Robert Russell	Williamson Music Co.			4				Soundtrack	MISSING	A-676						
 Vienna Blood (Sangue	Strauss, Johann Jr.	Turriani										A-677						
-Virgin de la Macarena	Monterde	Koff										A-678						
+La Virgin de la Macarena (Trumpet solo)	Monterde	Koff, Charles								Latin	Concert Band w/soloist	A-678						
 Vocalise	Rachmaninoff, Sergei 	Moehlmann, Roland L.										A-679						
 Voices of Spring	Strauss Jr., Johann	Hibbert, A.										A-680						
 Voluntary	Purcell, Henry											A-681						
@@ -1113,11 +1114,11 @@ William Byrd Suite	Byrd, William	Jacob, Gordon										A-693
 Wine, Women, and Song	Strauss Jr, Johann									Waltz	Concert Band	A-694						
 Te Deum	Puccini, Giacomo											A-695						
 Wycliffe Variations	Whear, Paul W.											A-696						
-World is waiting for the Sunrise	Lockhart-Seitz											A-697						
+World Is Waiting for the Sunrise	Lockhart-Seitz										MISSING	A-697						
 Yankee Doodle - Fugue and Chorale	Thompson, Virgil											A-698						
 Ye Banks and Braes O' Bonnie Doon	Grainger, Percy											A-699						
 Zampa Overture	Harold, L.J.F.	Safranek, V.F.	Carl Fischer, LLC							Overture	Concert Band	A-700						
-Zanoni	Creston, Paul											A-701						
+Zanoni	Creston, Paul										MISSING	A-701						
 Zuegnung (Dedication) OP 10	Strauss, Richard	Davis, Albert Oliver 	Ludwig Music Publishing	1							Concert Band	A-702						
 Severn Suite	Elgar, Sir Edward											A-703						
 Do Not Go Gentle Into That Good Night	Del Borgo, Elliot A.		Shawnee Press, Inc.			4					Concert Band	A-704						
@@ -1203,7 +1204,7 @@ Francesca da Rimini	Tchaikovsky, Pyotr Ilyic											A-786
 No, No, Nanette	Youmana, Vincent									Musical		A-787						
 Jazz Waltz	Maltby, Richard											A-788						
 Pique Deme (Queen of Spades) Overture	Suppe, Franz von											A-789						
-Jalousie	Gade, Jacob										Concert Band	A-790				2022-03-08		
+Jalousie	Gade, Jacob										Concert Band	A-790				2022-05-17		
 Cakewalk Suite	Gottschalk, Louis More	Kay, Hershey										A-791						
 Golden Sonata, The	Purcell, Henry											A-792						
 Black Maskers (Finale)	Sessions, Roger 											A-793						
@@ -1218,7 +1219,7 @@ Swan Lake Ballet (March)	Tchaikovsky, Peter Ilyich											A-801
 Chorale Prelude on Sleepers Wake!	Bach, Johann Sebastian	Gordon, Philip									Concert Band	A-802						
 Gipsy Baron Overture, The	Strauss, Johann	Nelson, Robert E.									Concert Band	A-803						
 Close Every Door (Tenor Vocal)	Webber, Andrew Lloyd	Rhodes, Steve									Concert Band w/soloist	A-804						
-Hopak Raskolniki	Holsinger, David R.		C.L. Barnhouse Company			4					Concert Band	A-805						
+Hopak Raskolniki	Holsinger, David R.		C.L. Barnhouse Company			4					MISSING	A-805						
 Shenandoah	Bilik, Jerry H.											A-806						
 Gershwin (A Medley for Concert Band	Gershwin, George	Bennett, Robert Russell	New World Music Corporation								Concert Band	A-807						
 Sinfonietta	Jager, Robert											A-808						
@@ -1238,7 +1239,7 @@ Suite in a min Part 2	Telemann, Georg Philipp											A-821
 Richard Rodgers Selections	Rodgers, Richard									Musical		A-823						
 Oriental March	Glinka, Mikhail											A-824						
 Flight of the Bumblebee (Flute/Mallet solo)	Rimsky- Korsakov, Nicolai 	Davis, Albert O.	Ludwig Music Publishing								Concert Band w/soloist	A-825						
-HRH Duke of Cambridge	Arnold, Malcolm		Music Sales Corporation			3				March	Concert Band	A-826						
+HRH Duke of Cambridge	Arnold, Malcolm		Music Sales Corporation			3				March	MISSING	A-826						
 That's Entertainment	Various	Gilman										A-827						
 Music for Hamlet	Reed, Alfred 		Theodore Presser Company			5					Concert Band	A-828						
 Symphony #3 (Organ) Finale	Saint-Saens, Camille											A-829						
@@ -1255,7 +1256,7 @@ American Pageant	Knox, Thomas		Ludwig Music Publishing	3						Patriotic	Concert 
 Chrestomathy for Band	Gorohovsky											A-840						
 Waltz (Age of Gold Ballet)	Shostakovich, Dmitri											A-841						
 Polovtsian Dances (Prince Igor)	Borodin, Alexander											A-842						
-Final Waltz (Nutcracker)	Tchaikovsky, Pyotr Ilyic											A-843						
+Final Waltz (Nutcracker)	Tchaikovsky, Pyotr Ilyic									Christmas	MISSING	A-843						
 Festive Overture	Kapp, Eugene											A-844						
 Nutcracker Suite	Tchaikovsky, Peter Ilyich									Christmas		A-845						
 Sousa on Parade	Sousa, John Philip											A-846						
@@ -1264,7 +1265,7 @@ House of the Rising Sun	Holcombe, Bill											A-848
 Contrasts	Christensen, James											A-849						
 Suite in a min Part 1	Telemann, Georg Philipp											A-850						
 Lento	Scott, Cyril											A-851						
-Riders For The Flag	Sousa, John Philip									March	Concert Band	A-852				2017-10-10		
+Riders For The Flag	Sousa, John Philip									March	MISSING	A-852				2017-10-10		
 Variations on a Theme by Haydn	Brahms, Johannes											A-853						
 Londonderry Air	Anonymous											A-854						
 Sarabande (French Suite d min)	Bach, Johann Sebastian											A-855						
@@ -1292,7 +1293,7 @@ Fantasy in the Baroque Manner	Johnston, Donald O.											A-876
 Night Soliloquy (flute solo)	Kennan, Kent		Carl Fischer, LLC								Concert Band w/soloist	A-877						
 Folk Festival (The Gadfly)	Shostakovich, Dmitri											A-878						
 Twentiana	Ades, Hawley		Warner Brothers			4					Concert Band	A-879						
-American Patrol	Gray, Jerry	Gray, Jerry										A-880						
+American Patrol	Gray, Jerry	Gray, Jerry									MISSING	A-880						
 Bing Crosby Hits	Various	Duthoit, W.J. 									Concert Band	A-881						
 Shield of Empire	Various	Duthoit, W.J.										A-881						
 Mikado Selections	Sullivan, Sir Arthur											A-882						
@@ -1308,7 +1309,7 @@ Anacreon Overture	Cherubini, Luigi 											A-891
 Olivia Newton John Selections	Various	Nowak, John									Concert Band	A-892						
 Duke Ellington in Concert	Ellington, Duke 	Scott, Wayne 	Robert King Music Sales, Inc.								Concert Band	A-893						
 Danse Slave (Le Roi Malgre' lui)	Chabrier, Emmanuel											A-894						
-Broadway Show-Stoppers Overature	Various	Barker, Warren	Hal Leonard Corporation			3				Musical	Concert Band	A-895						
+Broadway Show-Stoppers Overture	Various	Barker, Warren	Hal Leonard Corporation			3				Musical	Concert Band	A-895						
 Vaquero	Nestico, Sammy											A-896						
 Concertino for Trumpet (III Movement)	Riisager, Knudage	Haugland										A-897						
 Orb and Sceptre Coronation March	Walton, Sir William									March		A-898						
@@ -1345,7 +1346,7 @@ NY Light Guards Quick Step	Brown, Francis H.	Smith, Roger									Concert Band	A
 Antonito (Paso Doble)	Wiley, Charles A.											A-926						
 Coronation March (Nicholas Alexander)	Tchaikovsky, Peter Ilyich	Nierenberg										A-927						
 Capriccio Espanol	Rimsky- Korsakov, Nicolai 	Winterbottom, Frank	Studio Music Publishing Co. Inc.			3					Concert Band	A-928						
-Brassmen's Holiday	Armengol	Nestico, Sammy										A-929						
+Brassmen's Holiday (Trumpet Trio)	Armengol, Mario Ruiz	Nestico, Sammy		1							Concert Band w/soloist	A-929						
 La Danza (Tarantella Napoletana)	Rossini, Gioacchino	Lang, Philip J.									Concert Band	A-930						
 O Store Gud (Almighty God)	Scandinavian Folksong											A-931						
 Battle Symphony	Purcell, Henry	Schaefer, William A.	Piedmont Music Company, Inc.								Concert Band	A-932						
@@ -1363,7 +1364,7 @@ Roman Carnival Overture	Berlioz, Hector	Safranek, V.F.	Carl Fischer, LLC			5				
 Spring (The Seasons)	Vivaldi, Antonio	Cacavas, John										A-944						
 Symphony #7 (Adagio)	Bruckner, Anton	Gordon, Philip										A-945						
 Nocturne (Midsummer Night's Dream)	Mendelssohn, Felix											A-946						
-Come Back to Sorrento	DeCurtis 	Nestico, Sammy										A-947						
+Come Back to Sorrento	DeCurtis 	Nestico, Sammy									MISSING	A-947						
 Mighty Fortress, A	Bach, J.S. (Luther)	Lillya										A-948						
 Clematis, Mazurka	Kappey	Unknown or Original										A-950						
 Son and Stranger Overture, Opus 89	Mendelssohn, Felix										Concert Band	A-950						
@@ -1401,13 +1402,13 @@ First Symphony (In One Movement)	Barber, Samuel	Duker, Guy M.	G. Schirmer, Inc.	
 Old Scottish Melody: Auld Lang Syne	Anonymous											A-980						
 Two Salvic Dances	Dvorak, Antonin											A-981						
 Symphony London (First Movement)	Haydn, Franz Joseph											A-982						
-Blessed Are They from A German Requiem	Brahms, Johannes	Buehlman, Barbara	Ludwig Music Publishing			3					Concert Band	A-983						
+Blessed Are They (from A German Requiem)	Brahms, Johannes	Buehlman, Barbara	Ludwig Music Publishing			3					MISSING	A-983						
 Poor Wayfaring Stranger	Anonymous											A-984						
 Finale: Symphony No.1	Tchaikovsky, Peter Ilyich											A-985						
 Symphony No. 5 (First Movement)	Prokofiev, Sergei											A-986						
 Oxford Symphony Finale	Haydn, Franz Joseph											A-987						
 Yankee Doodle (Fantastic Humoresque)	Reeves, D.W.	Brion, Keith								Patriotic	Concert Band	A-988						
-Tsar's Bride Overture, The 	Rimsky- Korsakov, Nicolai 											A-989						
+Tsar's Bride Overture, The 	Rimsky- Korsakov, Nicolai 										MISSING	A-989						
 Alborada del gracioso (from Miroirs)	Ravel, Maurice										Concert Band	A-990						
 Andante et Allegro	Barat, J. Ed. 											A-991						
 Irish Washerwoman (from the Irish Suite)	Anderson, Leroy 		Alfred Publishing Company			3					Concert Band	A-992						
@@ -1418,7 +1419,7 @@ Overture: Abu Hassan	Weber, Carl Maria von											A-996
 Austrian Hymn 	Haydn, Franz Joseph 											A-997						
 23 Skidoo!	Whitcomb, Kenneth											A-998						
 Marches Blue and Grey	Various									March		A-999						
-Wiz, the	Smalls, Charlie	Lowden, Bob										B-1						
+Wiz, The (Selections from)	Smalls, Charlie	Lowden, Bob		2						Soundtrack	Concert Band	B-1						
 Gregorian Overture	Elwell, Herbert & Nelson											B-2						
 Incidental Suite	Smith, Claude T.		Wingert-Jones Publications			4					Concert Band	B-3						
 Gypsy Love Song (Fortune Teller)	Herbert, Victor	Campbell-Watson, F.										B-4						
@@ -1444,7 +1445,7 @@ Danza Negra, Quadrett	Marchesini, G. A.											B-22
 Sommergibili Impressei	Marchesini, G.A.											B-22						
 Vannita, Danze Spagnola	Marchesini											B-22						
 Rakes of Mallow, The (from the Irish Suite)	Anderson, Leroy		Alfred Publishing Company			4					Concert Band	B-23	2021-10-26			2021-10-26		
-Tamboo	Cavez, Francisco	Werle, Floyd E.								Latin	Concert Band	B-24						
+Tamboo	Cavez, Francisco	Werle, Floyd E.								Latin	MISSING	B-24						
 Overture to The Improvisator	D'Albert, Eugen	Hindsley, Mark				5				Overture	Concert Band	B-28						
 Coppelia, Suite de Ball	Delibes, Leo	Lake, Mayhew										B-29						
 Mignon Overture	Thomas, Ambroise	Moses-Tobani, Theo.										B-30						
@@ -1461,7 +1462,6 @@ Two Verdi Preludes (Aida/ La Traviata, III)	Verdi, Giuseppi	Falcone, Leonard	Nei
 Pearl Fishers Overture, The 	Bizet, Georges 	Cailliet, Lucien 	Sam Fox Publishing Company	2		4				Overture	Concert Band	B-42						
 Carnival Suite	Tansman, Alexandre		Labeth Music									B-43						
 Caucasian Sketches, op. 10	Ippolitov-Ivanov, Mikhail	Safranek, V.F./Kent	Carl Fischer, LLC								Concert Band	B-44						
-Petite Suite for Concert Band	Berio, Luciano 	Marciniak, Thad 										B-44						
 Scherzo for Band	Rossini, Gioacchino	Schaeffer, William	Edward B. Marks Music Company			5					Concert Band	B-45						
 Scherzo from Piano Quintet	Brahms, Johannes	McKay, Fredrick	Boston Music Company									B-46						
 Rollon Overture	Pares, Gabriel	Chidester, L.W.										B-47						
@@ -1473,7 +1473,7 @@ Concertino (for Marimba and Band)	Creston, Paul		G. Schirmer, Inc.								Concer
 Maid of Pskov Overture (Ivan the Terrible)	Rimsky- Korsakov, Nicolai 											B-53						
 Favorite, The	Hartman, John	Laurendeau, L.P.										B-55						
 Fete	Hermann, Ralph											B-56						
-Othello (A Symphonic Portrait in Five Scenes)	Reed, Alfred		Hal Leonard Corporation			6					Concert Band	B-57						
+Othello (A Symphonic Portrait in Five Scenes)	Reed, Alfred		Hal Leonard Corporation			6					MISSING	B-57						
 Music for Two Wind Bands	Handel, George Frideric	Schaefer, William A.	Belwin-Mills Publishing Corp.	2		6					Concert Band	B-58					With 2 Brass Choirs	
 Lethar Melodies	Lethar, Franz											B-59						
 Prelude Fugue and Varations	Franck, Cesar	Gordon, Philip										B-60						
@@ -1487,9 +1487,9 @@ Scene Du Bai from 	Coates, Eric											B-66
 Symphonic Triptych	Curnow, James		Volkwein	2							Concert Band	B-67						
 Le Cid	Massenet, Jules	Odom, Lawrence										B-68						
 Martinique	Morrissey, John											B-69						
-Four Scottish Dances	Arnold, Malcolm	Paynter, John P.	Carl Fischer, LLC			6					Concert Band	B-70				2022-03-08		
-Die Wacht am Rhein	Blon, Franz von	Wiley, Charles A.	TRN Music Publisher			3				March	Concert Band	B-71						
+Four Scottish Dances	Arnold, Malcolm	Paynter, John P.	Carl Fischer, LLC			6					Concert Band	B-70				2022-05-17		
 Exaltation	Swearingen, James		C.L. Barnhouse Company			3				Overture	Concert Band	B-71						
+Die Wacht am Rhein	Blon, Franz von	Wiley, Charles A.	TRN Music Publisher			3				March	Concert Band	B-72						
 March with Flourishes	Cheetham, J.											B-73						
 Zigeunerweisen	deSarasate, Pablo 											B-74						
 Azrael	Lotti, Antonio	Reed, Alfred										B-75						
@@ -1557,7 +1557,7 @@ On Hearing the First Cuckoo in Spring	Delius, Frederick											B-138
 Cornet Carillon	Binge, Ronald	Werle, Floyd E.										B-139						
 Choral March and Fugue	Guilmant, Alexandre	Righter, Charles B.										B-140						
 Mountain Concerto	Schaum, John											B-141						
-Florentiner March	Fucik, Julius 	Lake, Mathew L.	Carl Fischer, LLC			4				March	Concert Band	B-142						
+Florentiner March	Fucik, Julius 	Lake, Mathew L.	Carl Fischer, LLC			4				March	MISSING	B-142						
 Variations on a Theme by Prokofieff	Prokofeiv, Sergei	Stuart, Hugh M.										B-143						
 Alladin's Lamp	O'Neill, Charles											B-144						
 Springtime	Leidzen, Erik											B-145						
@@ -1622,13 +1622,11 @@ Three Dances Dances from 	Kachaturian	Leidzen, Erik										B-203
 Albanian March	Hall, R. B.											B-204						
 Mardi Gras 	Grofe, Ferde											B-205						
 For This	Dekoven	Beissenherz										B-206						
-Album Leaf	Wagner, Richard	Moses-Tobani, Theo.	Carl Fischer, LLC							Waltz	Concert Band	B-207						
-Entr'acte et Valse from	Delibes, Leo	Moses-Tobani, Theo.										B-207						
 Symphony in Bb III S	Fauchet, Paul											B-208						
-Concert Piece	Phillips											B-209						
+Concert Piece	Phillips										MISSING	B-209						
 London Again	Coates, Eric	Wright, Dennis										B-210						
 Andante and Rondo Oncharese	Weber, Carl Maria von											B-211						
-Ellington Festival, An	Ellington, Duke	Nestico, Sammy										B-212						
+Ellington Festival, An	Ellington, Duke	Nestico, Sammy									MISSING	B-212						
 Symphony #5- Minuetto	Schubert, Franz	Schoff										B-213						
 Swedish Folk March	Rhoades											B-214						
 Thus Do You Fare, My Jesus	Bach, Johann Sebastian	Reed, Alfred	C.L. Barnhouse Company			3					Concert Band	B-215						
@@ -1663,7 +1661,7 @@ Benny Goodman in Concert	Various	Scott, Wayne									Concert Band	B-244
 Andante and Allegro	Ropartz	LaBauve									Concert Band	B-245						
 Palm Leaf Rag	Joplin, Scott										Concert Band	B-246						
 Pavane and March	Poulenc	Ahronheim									Concert Band	B-247						
-Annie Laurie Air Varie	Pryor, Arthur	Smith/Davis				5 solo, 3 ensemble					Concert Band w/soloist	B-248						
+Annie Laurie (Air Varie)	Pryor, Arthur	Smith/Davis				5 solo, 3 ensemble					Concert Band w/soloist	B-248						
 Trinity	Unknown	Zanielli										B-249						
 Cole Porter, A Medley for Concert Band	Porter, Cole 	Bennett, Robert Russell 	Hal Leonard Corporation							Musical	Concert Band	B-250						
 Scenes Napolitaines	Massenet, Jules	Laurendeau, L.P.	Carl Fischer, LLC								Concert Band	B-251						
@@ -1688,7 +1686,7 @@ Armanian Dances	Kachaturian	Staz										B-272
 March Sarcastique from Hamlet	Shostakovich, Dmitri	Cary									Concert Band	B-273						
 Gesu Bambino	Yon, Pietro	Leidzen, Erik								Christmas	Concert Band	B-274						
 Brazilian Festival	Cable											B-275						
-Schrezo Alla Marcia	Vaughan-Williams, Ralph		Oxford University Press			5					Chamber Orchestra	B-277						
+Schrezo Alla Marcia	Vaughan-Williams, Ralph		Oxford University Press			5					MISSING	B-277						
 March of Homage	Liszt, Franz	Lake, Mathew L.									Concert Band	B-278						
 Peer Gynt Suite #2	Grieg, Edvard	Lake, Mathew L.									Concert Band	B-279						
 Amourette (Cornet solo)	Burke	Leidzen									Concert Band w/soloist	B-280						
@@ -1717,7 +1715,7 @@ Pan Americana	Herbert, Victor	Walters, Harold L.	Rubank								Concert Band	B-30
 Magic Trumpet, The	Burke, James F.										Concert Band	B-304						
 Pop Goes The Weasel	Caillet, Lucian										Concert Band	B-305						
 Serenade For a Picket Fence (Mallet solo, duet etc.)	Leyden, Norman 		Hal Leonard Corporation			4					Concert Band w/soloist	B-306						
-Dance Intermezzo	Sibelius, Jean	Henning, Franz										B-307						
+Dance Intermezzo	Sibelius, Jean	Henning, Franz									Concert Band	B-307				2022-05-17		
 Carnival of Venice, The	Arban, Jean-Baptiste	Leidzen, Erik									Concert Band	B-308						
 Tripoli	Darcy, Thomas F.											B-309						
 Prelude and Processional (from Henry VIII Opera)	Saint-Saens, Camille	Elkus, Jonathan	Edward B. Marks Music Company			4					Concert Band	B-310						
@@ -1731,7 +1729,7 @@ Cantus Firmus and Fugue	Couperin, Francois	Scott, Richard										B-317
 Juarez	Mendez, Rafael	Mendez, Rafael										B-318						
 Robin Hood	DeKoven, Reginald	Reibold, Bruno 										B-319						
 Overture to Paris and Helena	Gluck, Christoph Willibald	Barnes, Clifford P.								Opera		B-320						
-American Folk Rapsody	Grundman, Clare E.	Grundman, Clare E.										B-321						
+American Folk Rapsody	Grundman, Clare E.										MISSING	B-321						
 Jimala Beguine	Burke, James	Burke, James										B-322						
 Serenade for Band	Borodin, Alexander	Norman, Robert										B-323						
 Big Beat Dixieland Concerto	Various	Ployhar, James D.	Alfred Publishing Company								Concert Band	B-324						
@@ -1758,7 +1756,7 @@ Second Suite for Band (Latino-Mexicano)	Reed, Alfred		Piedmont Music Company, In
 Review of the Allied-Af...	Maganini, Quinto 											B-345						
 Baroque and Blue (Flutes & Band)	Bolling, Claude	O'Brien, Robert									Concert Band	B-346						
 Mariner's Odyssey, A	Conley, Lloyd										Concert Band	B-347						
-Wonderful World of Disney	Various	Edmonson, John	Alfred Publishing Company			3				Soundtrack	Concert Band	B-348						
+Wonderful World of Disney	Various	Edmonson, John	Alfred Publishing Company			3				Soundtrack	MISSING	B-348						
 Santiago Carnival	Smith, Claude T.					4					Concert Band	B-349						
 Chorale and Capriccio	Running, Arne	Running, Arne										B-351						
 Collage for Band (five...	Curnow, James	Curnow, James										B-352						
@@ -1769,12 +1767,12 @@ Impressions of Cairo	Washburn, Robert	Washburn, Robert										B-356
 Great Muppet Caper, The	Raposo, Joe	Barker, Warren										B-357						
 Hounds of Spring, The 	Reed, Alfred 		Edward B. Marks Music Company			5				Overture	Concert Band	B-358						
 Allegro Vivace	Barker, Warren										Concert Band	B-359						
-Beguine Again	Osser, Glenn	Osser, Glenn									Concert Band	B-360						
+Beguine Again	Osser, Glenn	Osser, Glenn									MISSING	B-360						
 Airs De Ballet D'Ascani	Saint-Saens, Camille	Wilson, John										B-361						
 Nocturne	Scriabin, Alexander										Concert Band	B-362						
 Toccata For Band	Erickson, Frank		Bourne Company Music Publishing			3					Concert Band	B-363				2019-03-26		
 Yelva Overture	Reissiger, Karl										Concert Band	B-364						
-Lyric Interlude	Barnes, James		Alfred Publishing Company			3					Concert Band	B-364						
+Lyric Interlude	Barnes, James		Alfred Publishing Company			3					Concert Band	B-365						
 Hansel and Gretel	Humperdinck, Engelbert	Caillet, Lucien	Sam Fox Publishing Company								Concert Band	B-367						
 Mirella Overture	Gounod, Charles										Concert Band	B-368						
 Orlando Paladino Overture	Hayden, Franz Joseph		Hal Leonard Corporation			4				Overture	Concert Band	B-369						
@@ -1784,7 +1782,6 @@ Fackeltanz in Bb	Meyerbeer, G.	Meyrelles, M.C.	Carl Fischer, LLC								Concert 
 Jubel Overture	Weber, Carl Maria von	Brown, T. Conway	Boosey & Hawkes, Inc.								Concert Band	B-373						
 Accelerations Waltz	Strauss, Johann	Duthoit, W.J.								Waltz	Concert Band	B-375						
 Spellbound Concerto	Rozsa, Miklos	Bennett, Robert Russell										B-376						
-Organ Symphony No. 3, 2nd Movement	Saint-Saens, Camille	Hindsley, Mark H.				6					Concert Band	B-377						
 Triumphal March	Miaskovsky, Nicolas	Miaskovsky, Nicolas										B-379						
 March and Chorus (Cant	Bach, Johann Sebastian	LaBauve, Jack										B-380						
 El Cid March	Rozsa, Miklos	Hawkins, Robert								March	Concert Band	B-381						
@@ -1846,6 +1843,7 @@ Le Chant Du Depart	Allier, Gabriel	Wiley, Charles A.										B-441
 Neebrit Suite	Wetzler, Robert											B-442						
 Agnus Dei	Faure, Gabriel											B-443						
 Sousa!	Sousa, John Philip	Barker, Warren										B-444						
+Petite Suite for Concert Band	Berio, Luciano 	Marciniak, Thad 	Associated Music Publishers, Inc.								Concert Band	B-445						
 Adagietto (Theme from	Mahler, Gustav	Nowak, Jerry										B-447						
 Joy to the World Variations	Kay, Hershy	Grundman, Clare E.	Boosey & Hawkes, Inc.							Christmas	Concert Band	B-448						
 Prologue from West Side Story	Bernstein, Leonard	Gilmore, B.								Musical	Concert Band	B-449						
@@ -1854,7 +1852,7 @@ Cortege and Fanfare	Rimsky- Korsakov, Nicolai 	Cacavas, John										B-451
 El Capeo	Parera, Antonio	Walters, Harold L.										B-452						
 Blow, Gabriel, Blow	Porter, Cole	Beck, John Ness										B-453						
 Wenceslas Variations	Anonymous	Dawson, Jay	Shawnee Press, Inc.			4				Christmas	Concert Band	B-454						
-Cantus Choralis and Fugue	Mendelssohn, Felix	Brunelli, Louis Jean										B-455						
+Cantus Choralis & Fugue	Mendelssohn, Felix	Brunelli, Louis Jean	Chappell Music Company							Sacred	Concert Band	B-455						
 Three Pieces for Americ...	Bridge, Timothy	Bridge, Timothy 										B-456						
 Cockaigne Overture	Elgar, Edward											B-457						
 Country Wedding Symp	Goldmark, Karl	Armbruster, C.										B-458						
@@ -1874,15 +1872,16 @@ Wrong Note Rag, The (from Wonderful Town)	Bernstein, Leonard	Maltby, Richard				
 Allegro from the Brandenburg	Bach, Johann Sebastian											B-472						
 Prelude, Siciliano, and Rondo	Arnold, Malcolm 	Paynter, John P. 	Carl Fischer, LLC			5					Concert Band	B-473						
 Phaeton (Symphonic Poem)	Saint-Saens, Camille 	Laurendeau, L.P.									Concert Band	B-474						
-Entr'acte Et Valse	Delibes, Leo	Moses-Tobani, Theo. 										B-475						
+Album Leaf	Wagner, Richard	Moses-Tobani, Theo.	Carl Fischer, LLC							Waltz	Concert Band	B-475						
+Entr'acte Et Valse (from Coppelia)	Delibes, Leo	Moses-Tobani, Theo. 	Carl Fischer, LLC								Concert Band	B-475						
 Siege of Rochell	Balfe,											B-476						
 Dansa Brasileira	Guarnieri, Camargo	Brandebury, Chas.										B-477						
 Suite in B Flat	Jacob, Gordon	Jacob, Gordon										B-478						
 Dionysiaques	Schmitt, Florent					6					Concert Band	B-479						
 Le Roi s'amuse	Delibes, Leo	Chidester, L.W.										B-480						
-Concert Overture	Hadley, Henry	Clark, Tom										B-481						
+Concert Overture	Hadley, Henry	Clark, Tom									MISSING	B-481						
 Marching Song	Holst, Gustav											B-482						
-Scherzo from Symph....	Shostakovich, Dmitri 	Smith, Roger										B-483						
+Scherzo from Symph....	Shostakovich, Dmitri 	Smith, Roger									MISSING	B-483						
 Prelude on Three Welsh Hymn Tunes	Vaughn-Williams, Ralph											B-484						
 Palcinella Suite	Stravinsky, Igor											B-485						
 Symphonic Episode	Fourdrain, Felix	De Rubertis, N.										B-486						
@@ -1900,7 +1899,7 @@ Bolero Ritmico	Longas, Federico 	Yoder, Paul 										B-498
 Win, Place or Show	Freed, Arnold	Freed, Arnold										B-499						
 Four Ways Suite	Coates, Eric	Godfrey, Dan										B-500						
 Three Quarter Blues	Holcombe, Bill	Holcombe, Bill										B-501						
-Irish Rhapsody												B-502						
+Irish Rhapsody	Grundman, Clare		Boosey & Hawkes, Inc.	2							Concert Band	B-502						
 Three Inventions	Scheffer, Pi											B-503						
 Burlesque Overture	Chappell, Herbert	Fuchs, Kenneth	Edward B. Marks Music Company								Concert Band	B-504						
 Gay Viena Ballet Suite	Strauss, Johann	Isaac, Merle										B-505						
@@ -1965,6 +1964,7 @@ Crux Fidelis( Adapted)	Liszt, Franz	Erickson, Frank										B-570
 IL Re Pastore Overture	Mozart, Wolfgang A.	Barnes, Clifford P.	Ludwig Music Publishing							Overture	Concert Band	B-571						
 El Anillo Guatemalteco (The Guatemalan Ring)	Dvorak, Robert J.		Alliance Publications, Inc.			6					Concert Band	B-573						
 Mexcian Hat Dance	Traditional											B-574						
+Marche Indienne (from L' Africaine)	Meyerbeer, G.	Lake, M.L.	Carl Fischer, LLC								Concert Band	B-576						
 Theme and Variations (f	Tchaikovsky, Peter Ilyich	Gardner, Maurice										B-577						
 American Spice	Nestico, Sammy		Charter Publications								Concert Band	B-578						
 Sarabande and Polka	Nestico, Sammy											B-579						
@@ -2015,7 +2015,7 @@ Symphony No. 3	Gliere, Reinhold 	Bainum, Glenn  C.										B-626
 Chorale and Fugue	Buxtehude, Dietrich	Schaefer, William										B-627						
 Variations on a Theme	Sousa, John Philip 	Watson, Walter										B-628						
 Foundation March, The	Goldman, Richard Franko	Goldman, Richard, Franko								March	Concert Band	B-629						
-American Folk Rapsody No, 4	Grundman, Clare E.		Boosey & Hawkes, Inc.			3				Folk	Concert Band	B-631						
+American Folk Rhapsody No, 4	Grundman, Clare E.		Boosey & Hawkes, Inc.			3				Folk	MISSING	B-631						
 Fanfare, Chorale and F	Giovannini, Caesar	Robinson, Wayne										B-632						
 Trilogy	Curnow, James	Curnow, James										B-633						
 Three Bach Pieces	Bach, Johann Sebastian	Thornton, James										B-635						
@@ -2062,6 +2062,7 @@ Concerto for Trumpet	Larsson, Lars-Erik	Gustafson, Stig										B-684
 Danse	Debussy, Claude	Boyd, John										B-685						
 Wait Till the Sun Shines	Tilzer, Harry Von	Conley, Lloyd										B-686						
 Carnival of Venice	Manning-Brasch	Manning-Brasch										B-688						
+Yankee Doodle (Solo cornet, Pic or Baritone)	Levy, J.	de Ville, Paul	Carl Fischer, LLC								Concert Band w/soloist	B-689						
 Fantasie Originale (Euphonium solo)	Picchi, Ermano	Mantia, Simone				5					Concert Band w/soloist	B-690						
 Marche des Rogations	Gigout, Eugene											B-691						
 Cornelius March	Mendelssohn, Felix	O'Brien, Robert	Hansen House							March	Concert Band	B-692						
@@ -2088,6 +2089,7 @@ Prelude on Greensleeves	Anonymous											B-715
 John Williams: The Symphonic Marches	Williams, John	Higgins, John	Hal Leonard Corporation			3				Soundtrack	Concert Band	B-716						
 Prelude	Franck, Cesar 	Slocum, Earl 										B-717						
 Pavane	Faure, Gabriel											B-718						
+Poem	Elwell, Herbert	Nelson, Robert E.									Concert Band	B-720						
 Praeludium	Jarnefelt, Armas 	Slocum, Earl 	Shawnee Press, Inc.			4					Concert Band	B-721						
 Symphony from The Fairy Queen	Purcell, Henry	Cipolls, Frank J.										B-722						
 Scherzo and Finale	Beethoven, Ludwig van	Godfrey, Dan										B-723						
@@ -2125,7 +2127,7 @@ Othello	Verdi,											B-755
 Fanfare for Feedom	Gould, Morton		Chappell Music Company							Patriotic	Concert Band	B-756						
 German Masters Suite	Haydn/Mozart/Beethoven	Gordon, Philip										B-757						
 Golden Years, The	Anderson, Leroy										Concert Band	B-758						
-Variations on Joy to the World	Various	Christenson, James								Christmas		B-759						
+Variations on Joy to the World	Various	Christenson, James								Christmas	MISSING	B-759						
 Liturgical Dances	Holsinger, David R.		Southern Music Company			5					Concert Band	B-760						
 Intermezzo	Puccini, Giacomo											B-761						
 Fantasy and Variations (Clarinet solo)	Spohr, Ludwig	Hermann, Ralph	Southern Music Company	2							Concert Band w/soloist	B-762						
@@ -2167,6 +2169,7 @@ Anything Goes	Porter, Cole	Jennings, Paul	Warner Brothers							Musical	Concert 
 In Thee Is Gladness	Bach, Johann Sebastian											B-802						
 Seventies, The	Various	Jennings & Lavender	Hal Leonard Corporation							Pops	Concert Band	B-803						
 Remembrances	Mutchler, Ralph	Mutchler, Ralph										B-804						
+Porgy and Bess Medley	Gershwin, George	Lowden, Bob	Hal Leonard Corporation							Musical	Concert Band	B-805						
 Intrada: Adoration and Praise	Smith, Claude T.										Concert Band	B-807						
 Three Dances For Band	Schorer, Freek	Shorer, Freek										B-808						
 Tancredi Overture	Rossini, Gioacchino	Falcone, Leonard	Neil A. Kjos Music Company			4				Overture	Concert Band	B-809						
@@ -2191,7 +2194,7 @@ Balletzabuer	Engel, Herbert											B-827
 Coriolan Overture	Beethoven, Ludwig van	Schroder, Martin										B-828						
 Die Schonbrunner Waltz	Lanner, Joseph	Weingartner, Fr.										B-829						
 Hereinspaziert Waltz	Ziehrer, Michael	Dieter Paul, Heinz										B-830						
-Memories of Cole Porter	Porter, Cole											B-831						
+Memories of Cole Porter	Porter, Cole	Treves, Jean	Chappell Music Company								Concert Band	B-831						
 Petite Fleur	Bechet, Sidney	Sobon, Kurt										B-832						
 Silvana Overture	von Weber, Carl Maria											B-833						
 Das Nachtlager in Granada	Kreutzer, Conradin	von Herm Schmidt										B-834						
@@ -2238,7 +2241,7 @@ Wachet auf-a Chorale	Bach, Johann Sebastian	Williams, Leslie										B-879
 Alla Marcia from Karelia	Sibelius, Jean	Goldman, Richard Franko										B-880						
 Vaudeville Spectacular	Various	Jennings, Paul										B-881						
 Scene and Triumphal Dance of the Coolies	Gliere, Reinhold											B-882						
-Songs for America	Berlin, Irving											B-883						
+Songs for America	Berlin, Irving										MISSING	B-883						
 Le Mariage Aux Lantern	Offenbach, Jacques	Arend, A.										B-884						
 Luxenberg Wals	Lehar, Franz											B-885						
 Boccaccio	Suppe, Franz von	Veenendaal, Karel										B-886						
@@ -2249,7 +2252,7 @@ Grande Duchesse de G	Offenbach, Jacques	Arend, A.										B-890
 Tchaikovskyana	Tchaikovsky, Peter Ilyich	Daehn, Larry	C.L. Barnhouse Company			3.5					Concert Band	B-892						
 Pepito Overture	Offenbach, Jacques	Freed, Arnold										B-893						
 Tribute to the Count	Basie, Count	Nestico, Sammy	Hal Leonard Corporation			4				Jazz	Concert Band	B-894						
-Hebrew Folk Song Suite No. 2	Osmon, Leroy											B-895						
+Hebrew Folk Song Suite No. 2	Osmon, Leroy										MISSING	B-895						
 Downland Suite, A	Ireland, John	Steadman-Allen, R.	G and M Brand			3.5					Concert Band	B-896						
 Symphonic March from	Rimsky- Korsakov, Nicolai 	Curnow, James										B-897						
 Coronation March	Tchaikovsky, Peter Ilyich	Boyd, John										B-898						
@@ -2274,9 +2277,10 @@ Joan of Arc Overture	Verdi, Giuseppe	Rollinson, T. H.	Ludwig Music Publishing			
 Danzas Espanolas	Granados, Enrique	Navarro, Jose M.										B-918						
 Isabella Overture	Suppe, Franz von	Laurendeau, L.P.										B-919						
 Roberta	Kern, Jerome 	Leidzen, Erik										B-920						
-Wedding March (from 	Nessler, V.E.	Laurendeau, L.P.										B-921						
-Robert Le Diable	Meyerbeer, Giacomo	Retford, M.J.										B-922						
+Wedding March (from The Ratcharmer of Hameln)	Nessler, V.E.	Laurendeau, L.P.								Opera	Concert Band	B-921						
+Minuetto e Gavotta (from Pagliacci)	Leoncavallo, R.	Laurendeau, L.B.	Carl Fischer, LLC							Opera	Concert Band	B-921						
 Sylvia	Delibes, Leo	Laurendeau, L.P.										B-923						
+Military Symphony	Haydn, Franz Joseph	Hindsley, Mark H.									Concert Band	B-923						
 Queen of Sheba	Gounod, Charles 	Rollinson, T.H. 										B-924						
 Concerto for Alto Trombone	Mozart, Leopold	Adler, Samuel										B-925						
 Till Eulenspiegel's Merry Pranks	Strauss, Richard	Hindsley, Mark				6					Concert Band	B-926						
@@ -2288,7 +2292,7 @@ Danse Espagnole	Lacome, Paul	Lake, Mathew L.										B-933
 Intermezzo	Granados, Enrique	Dupont, Pierre										B-934						
 Chasseur Maudit, Le (The Cursed Hunter)	Franck, Cesar	Stauffer, Donald W.	Alfred Publishing Company								Concert Band	B-935						
 Passacaille	Lalande	Beeler, Walter										B-936						
-Symphony No. 1 (March	Saint-Saens, Camille 	Fromentin, l. 										B-938						
+Symphony No. 1 (March	Saint-Saens, Camille 	Fromentin, l. 									MISSING	B-938						
 Symphony No. 1	Saint-Saens, Camille	Stalmeier, Piet										B-940						
 Symphony No. 2	Borodin, Alexander 	Konogaya, Soichi 										B-941						
 Grand Choir	Dubois	Vitto, Ben										B-942						
@@ -2299,7 +2303,6 @@ Die Czardas-Furstin	Kalman, Emmerich	Mellema, C.M.										B-946
 Czardas-Furstin, Die	Kalman, Emmerich	Mellema, C.M.										B-946						
 Yeoman of the Guard	Sullivan, Arthur	Mellema, C.M.										B-947						
 Le Duc d' Olonne	Auber, D.E.F.	Mellema, C.M.										B-948						
-Duc d'Olonne, Le	Auber, D.E.F.	Mellema, C.M.										B-948						
 Diamants de la Couron	Auber, D.F.E.	Desprey, Paul										B-950						
 Sakuntala Overture	Goldmark, Karl 	Fall, E.										B-951						
 Alegria	Pearson, Robert H.	Pearson, Robert H.										B-952						
@@ -2315,7 +2318,7 @@ Gigi	Lerner & Loewe	Herfurth, C. Paul								Soundtrack		B-960
 Fanfare and Celebration	Smith, Jerry Neil 		C.L. Barnhouse Company	2							Concert Band	B-961						
 Toboggan	Nestico, Sammy		Kendor Music, Inc.								Concert Band	B-962						
 With Sounding Trumpets	McBeth, William Francis											B-963						
-Hermitage, The	Williams, Clifton		C.L. Barnhouse Company			4					Concert Band	B-964						
+Hermitage, The	Williams, Clifton		C.L. Barnhouse Company			4				Concert March	Concert Band	B-964						
 Liturgical Music for Win	Anonymous	Rhoads, William E.										B-965						
 Magic of Sammy Cahn	Cahn, Sammy	Moss, John										B-966						
 Norwegian Folk Rhapsody	Snesrud, Arlin										Concert Band	B-968						
@@ -2358,7 +2361,7 @@ Symphony #6, Presto	Shostakovich, Dmitri	Curnow, James										C-8
 Caccia	Clark, Reber											C-9						
 Gershwin Portrait!, A	Gershwin, George	Higgins, John	Warner Brothers								Concert Band	C-10						
 Purple Carnival, The	Alford, Harry L.	Erickson, Frank	G. Schirmer, Inc.			4					Concert Band	C-11						
-Gwendolyn Prelude	Chabrier, Emmanuel	Meister										C-12						
+Gwendolyn Prelude	Chabrier, Emmanuel	Meister									MISSING	C-12						
 Jubilance	Giovannin, Caesar	Robinson, Wayne	Sam Fox Publishing Company			4				Overture	Concert Band	C-13						
 Reejouissance (Fantasia on Ein Feste Burg)	Curnow, James		Hal Leonard Corporation			4					Concert Band	C-14						
 Overture for Band	Heine, John										Concert Band	C-15						
@@ -2380,7 +2383,7 @@ Disney at the Oscars	Various	Moss, John	Hal Leonard Corporation			4				Soundtrac
 Copland Portrait, A	Copland, Aaron	Grundman, Clare E.	Boosey & Hawkes, Inc.			5					Concert Band	C-31						
 Fanfare and Steeplechase	Cheetham, John 											C-32						
 Flight	Debussy, Claude											C-33						
-All I Ask of You	Webber, Andrew Lloyd	Conrad, Charles										C-34						
+All I Ask of You	Webber, Andrew Lloyd	Conrad, Charles									MISSING	C-34						
 Beauty and the Beast	Menken, Alan 	Moss, John	Jenson Publications							Soundtrack	Concert Band	C-35						
 Concert Etude	Goedicke, Alexander											C-36						
 Curtain Up! (A Theater Overature for Winds)	Reed, Alfred		Hal Leonard Corporation			4					Concert Band	C-37						
@@ -2390,17 +2393,17 @@ Long May It Wave	Nestico, Sammy											C-40
 Mikado March	Sousa, John Philip										Concert Band	C-41						
 Selections from Annie	Schoenberg-Boubfit	Barker, Warren								Musical	Concert Band	C-42						
 Musetta's Waltz (from La Boheme)	Puccini, Giacomo	Barrow, Edgar L.									Concert Band	C-43						
-Olympia's Aria, from T	Offenbach, Jacques	Conrad, Charles									Concert Band	C-44						
+Olympia's Aria, from T	Offenbach, Jacques	Conrad, Charles									MISSING	C-44						
 Vesti La Giubba from Pagliacci (Tenor solo)	Leoncavallo, Ruggiero	Smith, Leonard B.				3				Opera	Concert Band w/soloist	C-45						
 Back Home Again in Indiana	Handley, James F.	Rhodes, Steve									Concert Band	C-46						
-I've Made My Plans For	Sousa, John Philip										Concert Band	C-47						
+I've Made My Plans For Summer	Sousa, John Philip	Rhodes, Steve									Concert Band	C-47						
 1812 Overture 	Tchaikowsky, Pyotr Ilyich	Lake, Mathew L.	Carl Fischer, LLC								Concert Band	C-48						
 To Tame The Perilous Skies	Holsinger, David R.					6					Concert Band	C-49						
-Dixieland on Stage (With Dixieland combo)	Various	Lowden,Bob	C.L. Barnhouse Company			4					Concert Band w/soloist	C-50						
+Dixieland on Stage (With Dixieland combo)	Various	Lowden,Bob	C.L. Barnhouse Company			4					MISSING	C-50						
 Songs of Abelard (Vocal)	Dello Joio, Norman		Edward B. Marks Music Company			6					Concert Band w/soloist	C-51						
 Golden Dragon Overture	King, Karl L.											C-52						
 Fanfare and Prelude on We	Anonymous	Curnow, James										C-53						
-Holiday Greetings	Anonymous	McGinty, Anne								Christmas		C-54						
+Holiday Greetings	Anonymous	McGinty, Anne								Christmas	MISSING	C-54						
 Christmas Bandfare	Various	Schaeffer, Don								Christmas		C-55						
 Novena (Rhapsody for Band)	Swearington, James		C.L. Barnhouse Company			3					Concert Band	C-56						
 Of Sailors and Whales (Five Scenes from Melville)	McBeth, William Francis		Southern Music Company			5					Concert Band	C-57						
@@ -2418,7 +2421,7 @@ Tramp	Jewell, Fred											C-68
 American Boy, The	Wells, J.E.									March	Concert Band	C-69						
 Jewell March, The	Mutchler, Erdell										Concert Band	C-70						
 Revelry	Jewell, Fred 					5					Concert Band	C-71						
-Lincoln Portrait	Copland, Aaron									Patriotic	Concert Band	C-72						
+Lincoln Portrait	Copland, Aaron									Patriotic	MISSING	C-72						
 Battle of San Juan Hill	Sweet, Al											C-73						
 Hail to Old Glory	Jewell, Fred											C-74						
 Folk Songs For Band	Stanhope, David											C-75						
@@ -2443,10 +2446,10 @@ Easy Walker	Jewell, Fred											C-93
 Passing Fancy	Jewell, Fred									March	Concert Band	C-94						
 Symphony #4 (Finale)	Tchaikovsky, Peter Ilyich	Safranek, V.F.										C-95						
 La Donna a Mobile	Verdi, Giuseppi	Smith, Leonard B.									Concert Band	C-96						
-Rainbow Ripples (solo xylophone)	Green, George Hamilton	Werle, Floyd E.	Meredith Music Publications								Concert Band w/soloist	C-98						
-Broadway Vocal Medley	Various	Conrad, Charles								Musical		C-99						
+Rainbow Ripples (solo xylophone)	Green, George Hamilton	Werle, Floyd E.	Meredith Music Publications								MISSING	C-98						
+Broadway Vocal Medley	Various	Conrad, Charles								Musical	MISSING	C-99						
 Bravura	Duble, Charles E.		Church Publishing Inc.			4				March	Concert Band	C-100						
-Entry of the Gladiators	Fucik, Julius	Laurendau/Seredy	Carl Fischer, LLC			4				March	Concert Band	C-101						
+Entry of the Gladiators (Thunder and Blazes)	Fucik, Julius	Laurendau/Seredy	Carl Fischer, LLC			4				March	Concert Band	C-101						
 Barnum & Bailey's Favorites	King, Karl L.		C.L. Barnhouse Company			4				March	Concert Band	C-102						
 Canine Capers	Stauffer, Dr. Donald W.											C-104						
 Stars and Stripes Forever	Sousa, John Philip 	Brion/Schissel	C.L. Barnhouse Company							March	Concert Band	C-105						
@@ -2491,7 +2494,7 @@ Request March, The 	Jewell, Fred 											C-143
 Sabbath Morn	Jewell, Fred											C-144						
 Skidoo Galop	Jewell, Fred											C-145						
 Imp O'Luck	Wells, J. E.											C-146						
-At Break of Dawn	Jewell, Fred										Concert Band	C-148						
+At Break of Dawn	Jewell, Fred										MISSING	C-148						
 High and Mighty	Jewell, Fred										Concert Band	C-149						
 Officer of the Guard	Jewell, Fred										Concert Band	C-150						
 Roses of Memory	Jewell, Fred											C-151						
@@ -2513,7 +2516,7 @@ Tillana	Stauffer, Dr. Donald W.											C-166
 Danse Vilageoise	Chabrier, Emmanuel	Stauffer, Donald W.										C-167						
 Symphony #5 (first Mov	Beethoven, Ludwig van	Stauffer, Donald W.										C-168						
 Passacaglia & Fugue in F Minor	Stauffer, Dr. Donald W.										Concert Band	C-169						
-Spitfire Fugue	Walton, Sir William	Wallace, J.L.	Boosey & Hawkes, Inc.								Concert Band	C-170						
+Spitfire Fugue	Walton, Sir William	Wallace, J.L.	Boosey & Hawkes, Inc.								MISSING	C-170						
 Scherzo Polka	Strauss, Johann	Stauffer, Donald W.									Concert Band	C-171						
 Old Gold & Glory	Stadler, Dr. Harold	Phillips, Robert A.									Concert Band	C-172						
 Passacaglia & Fugue	Makacov, E.										Concert Band	C-173						
@@ -2542,7 +2545,7 @@ Occidental March, The	Sousa, John Philip										Concert Band	C-195
 Corcoran Cadets March, The	Sousa, John Philip		Carl Fischer, LLC								Concert Band	C-196						
 Cinema Showcase I	Tiomkin, Dimitri	Taylor, Les								Soundtrack		C-197						
 Semper Fidelis March	Sousa, John Philip		Carl Fischer, LLC							March	Concert Band	C-198						
-Valdres	Hanssen, Johannes	Bainum, Glenn C.	Boosey & Hawkes, Inc.			4				March	Concert Band	C-199						
+Valdres	Hanssen, Johannes	Bainum, Glenn C.	Boosey & Hawkes, Inc.			4				March	MISSING	C-199						
 Naxir Grotto	King, Karl L.										Concert Band	C-200						
 Prelude & Sunset	Anonymous	McDermott									Concert Band	C-201						
 Thin Red Line, The	Alford, Kenneth J.					4				March	Concert Band	C-202						
@@ -2553,8 +2556,8 @@ Thunderer, The	Sousa, John Philip		Carl Fischer, LLC							March	Concert Band	C-
 Three Symphonic Sket	Dawson, Carl											C-208						
 C Jam Blues	Ellington, Duke	Custer, Calvin									Concert Band	C-209						
 Star Spangled Banner	Key, Francis Scott	Bennett, Robert Russell										C-210						
-Vanished Army, The	Alford, Kenneth J.	Fennell, Frederick	Boosey & Hawkes, Inc.			4				March	Concert Band	C-211						
-Army of The Nile 	Alford, Kenneth J. 		P.A. System, Inc.							March	Concert Band	C-212						
+Vanished Army, The	Alford, Kenneth J.	Fennell, Frederick	Boosey & Hawkes, Inc.			4				March	MISSING	C-211						
+Army of The Nile 	Alford, Kenneth J. 		P.A. System, Inc.							March	MISSING	C-212						
 Americans We	Fillmore, Henry									March	Concert Band	C-213						
 Dunedin	Alford, Kenneth J.											C-214						
 King Cotton	Sousa, John Philip		Church Publishing Inc.							March	Concert Band	C-215						
@@ -2612,7 +2615,7 @@ O Soave Fanciulla (from La Boheme)	Puccini, Giacomo	Stauffer, Dr. Donald W.					
 Un bel di vedremo (fro	Puccini, Giacomo	Stauffer, Dr. Donald W.										C-268						
 Minuetto - Symphony #25	Mozart, Wolfgang A.	Stauffer, Dr. Donald W.									Concert Band	C-269						
 Legion Band of Beaver Dam	Burkholder, D.C.										Concert Band	C-270						
-U.S.S. Kennedy March	Stauffer, Dr. Donald W.											C-271						
+U.S.S. Kennedy March	Stauffer, Dr. Donald W.									March	MISSING	C-271						
 Fugue N' Swing	Stauffer, Dr. Donald W.										Concert Band	C-272						
 Old Timer	Davis, J. Gus									March	Concert Band	C-273						
 Neath the Palms	Eisenberg, R.B.										Concert Band	C-274						
@@ -2635,7 +2638,7 @@ Balloonograph	Eisenberg, R.B.										Concert Band	C-291
 Under United Banners	Rosenkrans, George											C-292						
 Brazil Special	Davis, J. Gus 									March	Concert Band	C-293						
 Bonita	Davis, J. Gus 											C-294						
-Cavalry of the Clouds	Rosenkrans, George										Concert Band	C-295						
+Cavalry of the Clouds	Rosenkrans, George		Fred Jewell							March	Concert Band	C-295						
 Emblematic	Eisengarg, R.B.											C-296						
 Black Hawk Trail	Davis, J. Gus 											C-297						
 Indiana State Band March	Farrar, Orion R.	Roberts, Charles J.	Carl Fischer, LLC			3				March	Concert Band	C-298				2022-04-30	IN Composer	
@@ -2725,7 +2728,6 @@ Princess of India	King, Karl L.										Concert Band	C-383
 Rolling Thunder March	Fillmore, Henry		Fillmore Music House							March	Concert Band	C-384						
 Softly As I Leave You	De Vita, Alfred	Catherall, Alan										C-385						
 Storming of El Caney March	Alexander, Russell 	Glover, Andrew	C.L. Barnhouse Company							March	Concert Band	C-386						
-Thunder and Blazes	Fucik-Laurendeau	Seredy, Julius S.										C-387						
 Beautiful Colorado	DeLuca, Joseph	Roberts, Charles J.										C-388						
 Marche Militaire Francaise (Finale from Algerian Suite)	Saint-Seans, Camille	Lake, M.L.									Concert Band	C-389						
 Fifth Suite for Band (International Dances)	Reed, Alfred		Hal Leonard Corporation			5					Concert Band	C-390						
@@ -2733,9 +2735,9 @@ Homefront, The (Musical Memories from WW II)	Various	Christenson, James	Hal Leon
 King of Love My Shephard Is, The	Reed, Alfred		C.L. Barnhouse Company			3				Sacred	Concert Band	C-392						
 Melody Shop	King, Karl L.										Concert Band	C-393						
 Shoutin' Liza Trombone	Fillmore, Henry										Concert Band	C-394						
-La Virgin de Macarena	Bautista, Bernadino	Custer, Calvin 	Hal Leonard Corporation			4				Latin	Concert Band	C-395					No Score	
+La Virgen de la Macarena (Trumpet & Clarinet Solo)	Bautista, Bernadino	Custer, Calvin 	Hal Leonard Corporation			4				Latin	Concert Band w/soloist	C-395						
 Porto Rican Dance	Missud, Jean M.										Concert Band	C-396						
-Untitled March, The	Sousa, John Philip	Brion/Schissell								March		C-397						
+Untitled March, The	Sousa, John Philip	Brion/Schissell	C.L. Barnhouse Company							March	Concert Band	C-397						
 Cyrus The Great 	King, Karl L.											C-398						
 Attorney General, The	King, Karl L.										Concert Band	C-399						
 Elsa's Dream (Lohengrin	Wagner, Richard	Barrow, Edgar L.										C-400						
@@ -2745,7 +2747,7 @@ Walther's Prize Song	Wagner, Richard	Barrow, Edgar L.										C-401
 On the Campus	Sousa, John Philip		Sam Fox Publishing Company							March	Concert Band	C-402					No Score or percussion	
 Christmas Greeting, A	Various	Cheetham, John								Christmas	Concert Band	C-403						
 Christmas Festival, A	Anderson, Leroy		Belwin-Mills Publishing Corp.			4				Christmas	Concert Band	C-404						
-Padstow Lifeboat, The	Arnold, Malcolm	Woodfield, Ray				4				March	Concert Band	C-405						
+Padstow Lifeboat, The	Arnold, Malcolm	Woodfield, Ray				4				March	MISSING	C-405						
 Traumerei	Schumann, Robert	Baumann, Gerhard										C-406						
 I'm Just Wild About Harr	Sissle, Noble & Blake,	Halle, R. L.										C-407						
 O Come Holy Night!	Melilo, Stephen		Stormworks			4				Christmas	Concert Band	C-408						
@@ -2756,19 +2758,19 @@ Charleston	Mack & Johnson	Schoenfeld, William C.										C-412
 Tarantella	Reed, Alfred		C.L. Barnhouse Company			3.5				Folk	Concert Band	C-413						
 I Love My Love	Holst, Gustav	Singleton, Kenneth									Concert Band	C-414						
 As Time Goes By	Hupfeld, Herman	Barker, Warren	Alfred Publishing Company			5				Musical	Concert Band w/soloist	C-415					Vocal/Instrument Solo	
-Boys of the Old Brigade	Chambers, William Paris 		Carl Fischer, LLC			4				March	Concert Band	C-416				2018-10-09		
-Hunchback of Notre Dame	Menken & Schwartz	Custer, Calvin 								Soundtrack	Concert Band	C-417						
+Boys of the Old Brigade	Chambers, William Paris 		Carl Fischer, LLC			4				March	MISSING	C-416				2018-10-09		
+Hunchback of Notre Dame	Menken & Schwartz	Custer, Calvin 								Soundtrack	MISSING	C-417						
 Africana	Lake, M.L.										Concert Band	C-418						
 Celebrations (Cantata No. 3)	Persichetti, Vincent 		Elkan- Vogel Co.			5					Concert Band	C-419						
 Escape from Plato's Cave	Melillo, Stephen					4					Concert Band	C-420						
 JEFKA Triumphal	Carr, Henry										Concert Band	C-421						
 Magic City	Schwartz, Ira										Concert Band	C-422						
 Morning, Noon & Night in Vienna	Suppe, Franz von	Moses-Tobani, Theo.	Carl Fischer, LLC			5					Concert Band	C-423						
-Comedy Club March	Alexander, Russell									March	Concert Band	C-424						
+Comedy Club March	Alexander, Russell									March	MISSING	C-424						
 Cantico di Frate Sole	Mertens, Hardy											C-425						
 Pall Mall Famous March	Alexander, Russell										Concert Band	C-426						
-Gavorkna Fanfare	Stamp, Jack		Neil A. Kjos Music Company			5					Concert Band	C-427				2019-03-05		
-Belkis, Regina Di Saba	Respighi, Ottorino	Kimura, Yoshihiro	DeHaske Music			6					Concert Band	C-428						
+Gavorkna Fanfare	Stamp, Jack		Neil A. Kjos Music Company			5					MISSING	C-427				2019-03-05		
+Belkis, Regina Di Saba	Respighi, Ottorino	Kimura, Yoshihiro	DeHaske Music	2		6					Concert Band	C-428						
 Our Glorious Emblem	DeLuca, Joseph										Concert Band	C-429						
 U.S. Field Artillery March, The	Sousa, John Philip	Lake, Mathew L.	Carl Fischer, LLC	1						March	Concert Band	C-430						
 Royal Welch Fusiliers	Sousa, John Philip										Concert Band	C-431						
@@ -2779,15 +2781,15 @@ Circus Bee, The	Fillmore, Henry										Concert Band	C-435
 Escapade, The	Eisenburg, R.B.											C-436						
 Nobles of the Mystic Shrine	Sousa, John Philip	Bullock, Jack	Belwin-Mills Publishing Corp.								Concert Band	C-436						
 Beowulf	McBeth, William Francis 		Southern Music Company			5					Concert Band	C-437						
-Armed Forces Medley	Various	Knox, Tom								Patriotic		C-438						
-Meadowlark, The	Brockenshire, J.O.										Concert Band	C-439						
+Armed Forces Medley	Various	Knox, Tom								Patriotic	MISSING	C-438						
+Meadowlark, The	Brockenshire, J.O.										MISSING	C-439						
 Down South	Myddleton, William H.	Lampe, Fred										C-440						
 Merry Wives of Windsor Overture	Nicolai, Otto	Laurendeau, L.P.	Carl Fischer, LLC								Concert Band	C-441						
 Glorioso	Montague, L.											C-442						
 Mayor of Tokyo, The	Peters, Wm. Frederick	O'Hare, C.O.									Concert Band	C-443						
 Manana Chilian Dance	Missud, Jean M.											C-444						
 Postcard	Ticheli, Frank		Manhattan Beach Music			5					Concert Band	C-445						
-Christmas Intrada 	Reed, Alfred		Hal Leonard Corporation			4				Christmas	Concert Band	C-446					With Antiphonal Brass	
+Christmas Intrada 	Reed, Alfred		Hal Leonard Corporation			4				Christmas	MISSING	C-446					With Antiphonal Brass	
 Symphony #3	Kozhevnikov, Boris 	Borgeois, John R.										C-447						
 Serengeti	Higgins, John		Hal Leonard Corporation			2					Concert Band	C-448						
 Tenth Regiment March	Hall, R.B.	Walters, Harold L.	Rubank			3				March	Concert Band	C-449						
@@ -2814,19 +2816,19 @@ My Lady Greensleeves	Anonymous	Richardson, Norman									Concert Band	C-470
 Chicago Tribune	Chambers, William Paris	Roberts, Charles J.										C-471						
 Old Comrades March	Teike, Carl	Laurendeau, L.P.	Carl Fischer, LLC			4				March	Concert Band	C-472						
 Star Wars Medley	Williams, John	Burden, James	Alfred Publishing Company			4				Soundtrack	Concert Band	C-473						
-St. Louis Blues March	Handy, W.C. 	Gray, Jerry 	Handy Brothers Music Co. Inc.							Jazz	Concert Band	C-474						
+St. Louis Blues March	Handy, W.C. 	Rhodes, Steve								Jazz	Concert Band	C-474						
 Gay Nineties Medley	Various	Holcombe, Bill										C-475						
 Standard of St. George, The	Alford, Kenneth J. 					3				March	Concert Band	C-476						
 Summon the Heroes	Williams, John	Lavender, Paul	Hal Leonard Corporation			4					Concert Band	C-477						
-On a Hymnsong of Philip Bliss	Holsinger, David R,		TRN Music Publisher			3				Sacred	Concert Band	C-478						
+On a Hymnsong of Philip Bliss	Holsinger, David R,		TRN Music Publisher			3				Sacred	MISSING	C-478						
 Magic of Andrew Lloyd Webber, The	Webber, Andrew Lloyd	Barker, Warren	Hal Leonard Corporation			4				Musical	Concert Band	C-479						
-Instant Concert	Walters, Harold L.		Rubank			3					Concert Band	C-480						
-Dance of the Jesters	Tchaikovsky, Peter Ilyich	Cramer, Ray E.	Curnow Music Press, Inc.			5					Concert Band	C-481				2018-10-09		
+Instant Concert	Walters, Harold L.		Rubank			3					MISSING	C-480						
+Dance of the Jesters	Tchaikovsky, Peter Ilyich	Cramer, Ray E.	Curnow Music Press, Inc.			5					MISSING	C-481				2018-10-09		
 Resting in the Peace of His Hands	Gibson, John Wesley		Southern Music Company			4					Concert Band	C-482						
 Pathfinders of Panama	Sousa, John Philip									March	Concert Band	C-483						
 Concert Dance and Intermezzo	Smith, Claude T.										Concert Band	C-484						
 Guns Up!	Booker, Jr. Charles L.										Concert Band	C-485						
-Chorale and Shaker Dance	Zdechlik, John P. 		Neil A. Kjos Music Company			5					Concert Band	C-486						
+Chorale and Shaker Dance	Zdechlik, John P. 		Neil A. Kjos Music Company			5					MISSING	C-486						
 Amazones (Brazilian March)	Salutari, Frank	Grechesky, Robert									Concert Band	C-488						
 Music for a Festival	Sparks, Philip			2							Concert Band	C-489						
 Official West Point March, The	Egner, Lt. Philip H.		Shapiro, Bernstein & Co., Inc.			4				March	Concert Band	C-490						
@@ -2844,12 +2846,12 @@ Jubliant Prelude	Smith, Claude T.										Concert Band	C-502
 American Finale	Piato, A.R. 	Custer, Calvin									Concert Band	C-503						
 American Folk Song Suite	Frackenpohl, Arthur		Shawnee Press, Inc.			4				Folk	Concert Band	C-504						
 American Tribute, An	Various	Edmondson, John									Concert Band	C-505						
-Duty, Honor, Country	Walters, Harold L.											C-506						
+Duty, Honor, Country (with Narrator)	Walters, Harold L.									Patriotic	Concert Band w/soloist	C-506						
 In Praise of Freedom	Barker, Warren										Concert Band	C-507						
 Resurgence	Clark, Larry		Carl Fischer, LLC			4					Concert Band	C-508						
 Glenn Miller in Concert	Various	Scott, Wayne									Concert Band	C-509						
 New Comrades	Teike, Carl	Fennell, Frederick	Theodore Presser Company							March	Concert Band	C-510						
-Where Never Lark Or Eagle Flew	Curnow, James		Hal Leonard Corporation			4					Concert Band	C-511						
+Where Never Lark Or Eagle Flew	Curnow, James		Hal Leonard Corporation			4					MISSING	C-511						
 March Imperial	Bagley, E.E.	Gore, Harold R.									Concert Band	C-512						
 Original Dixieland Band	Warrington, Johnny										Concert Band	C-513						
 Red, White & Brass	Various	Wright & Norris								Patriotic	Concert Band	C-514						
@@ -2861,19 +2863,19 @@ Graysondance	Holsinger, David R.		TRN Music Publisher			4.5					Concert Band	C-5
 Hail to the Spirit of Liberty	Sousa, John Philip 	Hunsberger, Donald	Ludwig Music Publishing							March	Concert Band	C-521						
 Civil War Rhapsody, A	Lee, Jack											C-522						
 Band of America March	Lavalle, Paul		Sam Fox Publishing Company							March	Concert Band	C-523						
-Concertino (Solo Bb	Weber, Carl Maria von	Lake, Mathew L.										C-524						
-Lord of the Dance, The	Hardiman, Ronan	Saucedo, Richard								Other	Concert Band	C-527						
+Concertino (Solo Bb Clarinet)	Weber, Carl Maria von	Lake, Mathew L.									Concert Band w/soloist	C-524						
+Lord of the Dance, The	Hardiman, Ronan	Saucedo, Richard								Other	Concert Band	C-527				2022-05-17		
 Jump, Swing Fever	Various	Wasson, John								Swing	Concert Band	C-528						
 Rhapsody	Curnow, James		Studio Music Publishing Co. Inc.								Concert Band	C-529						
 When the Stars Began to Fall	Allen, Fred J.		TRN Music Publisher			2				Other	Concert Band	C-530						
 Barn Dance & Cowboy Hymn	Sparke, Philip		G and M Brand			4.5					Concert Band	C-531						
-Sub-Saharan Rhythm	Gillingham, David R.											C-532						
+Sub-Saharan Rhythm	Gillingham, David R.										MISSING	C-532						
 Celebration	Sparke, Philip		Studio Music Publishing Co. Inc.			6					Concert Band	C-533						
 Brandenburg Jubilee	Custer, Calvin 											C-534						
 Amphion	McGinty, Anne		Queenwood Publications								Concert Band	C-535						
 Amarado	Nestico, Sammy										Concert Band	C-536						
 Five Concord Diversion	Curnow, James											C-537						
-Jubilee Overture	Sparke, Philip		Studio Music Publishing Co. Inc.			4					Concert Band	C-538						
+Jubilee Overture	Sparke, Philip		Studio Music Publishing Co. Inc.			4					MISSING	C-538						
 Night Before Christmas (w/Narrator)	Moss, John		Hal Leonard Corporation			4				Christmas	Concert Band w/soloist	C-539						
 Sonnet and Dance	Root, Thomas											C-540						
 Festival Overture	Spears, Jared											C-541						
@@ -2911,14 +2913,14 @@ Songs of Israel	McGinty, Anne											C-572
 Blue Shades	Ticheli, Frank		Manhattan Beach Music			6					Concert Band	C-573						
 Centennial Ode	Del Borgo, Elliot A.											C-574						
 Reflections on Paris	Tull, Fisher 					6					Concert Band	C-575						
-Lord, Guard and Guide (The Men Who Fly)	Jager, Robert		Neil A. Kjos Music Company			4					Concert Band	C-576						
+Lord, Guard and Guide (The Men Who Fly)	Jager, Robert		Neil A. Kjos Music Company			4				Patriotic	MISSING	C-576						
 Flight of the Flutes (Flute Quartet)	Maltby, Richard		C.L. Barnhouse Company								Concert Band w/soloist	C-577						
 Eventide (A Song of Sunset)	Reed, Alfred										Concert Band	C-578						
 Jerome Robbins Broadway	Various	Barker, Warren	Hal Leonard Corporation			4				Musical	Concert Band	C-579						
 Three Symphonic Fanfares	Barnes, James					4					Concert Band	C-580						
 Hoe Down (from "Rodeo")	Copland, Aaron										Concert Band	C-581						
 Esprit De Corps	Jager, Robert		Edward B. Marks Music Company	2							Concert Band	C-582						
-Folk Song Rhapsody	Rhodes										Concert Band	C-583						
+Folk Song Rhapsody	Rhodes, Tom C.		Southern Music Company								Concert Band	C-583						
 Sun Singer	Knox										Concert Band	C-584						
 Dancing Day (1st Movement Symphony for Winds and Percussion)	Downing, Joseph H.		TRN Music Publisher			4.5					Concert Band	C-585						
 Three Spirituals	Various	Buckley, Lewis J.										C-586						
@@ -2932,7 +2934,7 @@ Nibelungen March	Sonntag, G.	Villinger								March	Concert Band	C-594
 American Centennial M	Wagner, Richard	Munger, Shirley									Concert Band	C-595						
 Einzug der Dorfmusik	Wagner, Josef											C-597						
 Greater Glory, The	Nystedt, Knut										Concert Band	C-598						
-Romance Op. 122	Bourgeois, Derek 											C-600						
+Romance Op. 122	Bourgeois, Derek 										MISSING	C-600						
 Serenade Opus 22	Bourgeois, Derek 											C-601						
 Sinfonia #4	Hartley, Walter S. 		Wingert-Jones Publications			5					Concert Band	C-602						
 Old Home Days Suite	Ives, Charles E.	Elkus, Jonathan	Peermusic Classical			5					Concert Band	C-603						
@@ -2945,7 +2947,7 @@ Sinfonia IX a Concert in 	Broege, Timothy											C-609
 British Isles Suite	Daehn, Larry		Daehn Publications			3				Folk	Concert Band	C-610						
 Cartoon Express	Various	Taylor, Les	Alfred Publishing Company			3					Concert Band	C-612						
 Concerto for 2 Pianos, b	Brown, Raynor											C-613						
-Yorkshire Ballad	Barnes, James		Southern Music Company			3					Concert Band	C-614						
+Yorkshire Ballad	Barnes, James		Southern Music Company			3					MISSING	C-614						
 Fair Moon, To Thee I Sing	Sullivan, A.S.	Erwin, Paul										C-615						
 I'm Called Little Buttercup	Gilbert & Sullivan										Concert Band	C-616						
 Refrain, Audacious Tar	Sullivan, A.S. 	Erwin, Paul 										C-617						
@@ -2954,7 +2956,7 @@ Variations on an American Hymn Tune	Harbinson, William		Alfred Publishing Compan
 Acclamation	Curnow, James											C-620						
 Rhapsody on Christmas Carols, A	Smith, Claude T.		Jenson Publications			4				Christmas	Concert Band	C-621						
 Christmas Fancies	Curnow, James		Curnow Music Press, Inc.			4				Christmas	Concert Band	C-622						
-Fantasia for Christmas (Based on the Ukrainian Bell Carol)	Del Borgo, Elliot A.		Belwin-Mills Publishing Corp.			5				Christmas	Concert Band	C-623						
+Fantasia for Christmas (Based on the Ukrainian Bell Carol)	Del Borgo, Elliot A.		Belwin-Mills Publishing Corp.			5				Christmas	MISSING	C-623						
 Christmas Variants	Del Borgo, Elliot A.		Carl Fischer, LLC							Christmas	Concert Band	C-624	2021-12-14			2021-12-14		
 More Perfect Union, A	Clark, Larry										Concert Band	C-625						
 Semper Paratus (Official Coast Guard Song)	Boskerck, Francis van		Sam Fox Publishing Company							March	Concert Band	C-626						
@@ -2979,7 +2981,7 @@ Mandoline											Concert Band	C-647
 Center Ring	King, Karl L.									March	Concert Band	C-648						
 Slim Trombone	Fillmore, Henry										Concert Band	C-649						
 Invincible Bunbury, The	Cohen, Jerome											C-651						
-Canterbury Chorale	Van der Roost, Jan 		DeHaske Music			4					Concert Band	C-652				2017-05-16		
+Canterbury Chorale	Van der Roost, Jan 		DeHaske Music			4					MISSING	C-652				2017-05-16		
 Spirit of Christmas, The	Cailliet, Lucien									Christmas		C-653						
 Epic March	Ireland, John	Grimo, Steven	Boosey & Hawkes, Inc.	2		4					Concert Band	C-654						
 American Jazz Suite (Trumpet solo)	Vizzutti, Allen 		Alfred Publishing Company			4				Jazz	Concert Band w/soloist	C-655						
@@ -2996,7 +2998,7 @@ Recorded By Sinatra	Various	Barker, Warren		2						Pops	Concert Band	C-666
 Cartoon Symphony	Various	Clark, Larry	Alfred Publishing Company			4					Concert Band	C-667						
 Silverado	Barker, Warren		Alfred Publishing Company	2		4				Soundtrack	Concert Band	C-668						
 Our Director	Bigelow, F.E.	Hildreth, R.E.								March	Concert Band	C-669						
-Noble Commander March, The	Williams, Ernest S,									March	Concert Band	C-670						
+Noble Commander March, The	Williams, Ernest S,									March	MISSING	C-670						
 New Corn Palace, The	King, Karl L.									March	Concert Band	C-671						
 Manhattan Beach	Sousa, John Philip	Walters, Harold L								March	Concert Band	C-672						
 Loyal Legion	Sousa, John Philip											C-673						
@@ -3006,10 +3008,10 @@ Gallant Zouaves	King, Karl L.											C-676
 Columbian March	King, Karl L.		C.L. Barnhouse Company							March	Concert Band	C-678						
 Chimes of Liberty, The	Goldman, Edwin Franko											C-679						
 Charge of the Battalion	Hall, R. B.											C-680						
-Bullets and Bayonets	Sousa, John Philip									March	Concert Band	C-681						
+Bullets and Bayonets	Sousa, John Philip									March	MISSING	C-681						
 Belle of Chicago, The	Sousa, John Philip									March		C-682						
 Army and Marine	Zehle, Wilhelm	Hewitt, C.W,	Boosey & Hawkes, Inc.							March	Concert Band	C-683						
-Let Hope Spring Forth	Hayes, Mark										Concert Band	C-685						
+Let Hope Spring Forth	Hayes, Mark										MISSING	C-685						
 Battle Hymn of the Republic	Wilhousky, Peter J.	Neilson, James									Concert Band	C-686						
 James Bond Suite	Various	Erickson, Frank	Warner Brothers	3		4				Soundtrack	Concert Band	C-687						
 John Williams: Four Symphonic Themes	Williams, John	Lavender, Paul	Hal Leonard Corporation							Soundtrack	Concert Band	C-688						
@@ -3023,13 +3025,13 @@ Athenian Festival	McGinty, Anne										Concert Band	C-696
 Ballad (Theme and Variations for Band)	Nelhybel, Vaclav		J. Christopher Music Company			2.5					Concert Band	C-697						
 Brookville	Russo, William											C-698						
 Correlations	Leckrone, Mike											C-699						
-Corsican Litany	Nelhybel, Vaclav		Bourne Company Music Publishing			3					Concert Band	C-700				2017-10-10		
+Corsican Litany	Nelhybel, Vaclav		Bourne Company Music Publishing			3					MISSING	C-700				2017-10-10		
 Concord Overture	Hermann, Ralph		Carl Fischer, LLC							Overture	Concert Band	C-701						
 Concert Variations	Smith, Claude T.		Wingert-Jones Publications			4					Concert Band	C-702						
-Clarinet Cake	Hermann, Ralph											C-703						
+Clarinet Cake	Hermann, Ralph										Concert Band	C-703						
 Stille Nacht 	Gruber, Franz	Davis, Chip	Hal Leonard Corporation			4				Christmas	Concert Band	C-704						
 Unistrut	Gillis, Don											C-705						
-Chant and Jubilo	McBeth, William Francis		Southern Music Company			4					Concert Band	C-706						
+Chant and Jubilo	McBeth, William Francis		Southern Music Company			4					MISSING	C-706						
 Christmas Waltz, A	Nichols, James	Dedrick, Art								Christmas		C-707						
 Variants on an Early American Hymn Tune	Traditional	Curnow, James	Jenson Publications	2							Concert Band	C-708						
 Canto	McBeth, William Francis		Southern Music Company			2					Concert Band	C-709						
@@ -3037,19 +3039,19 @@ Celebration	Cobine, Al											C-710
 Sentimental Christmas	Bilk, Jerry H.									Christmas	Concert Band	C-711						
 Stonehenge	Whitcomb, Kenneth											C-712						
 Seascape	Whitcomb, Kenneth											C-713						
-Parade of the Icicle	Dedrick, Art 										Concert Band	C-714				2017-12-05		
-Emperata Overture	Smith, Claude T. 										Concert Band	C-715				2018-10-09		
+Parade of the Icicle	Dedrick, Art 										MISSING	C-714				2017-12-05		
+Emperata Overture	Smith, Claude T. 										MISSING	C-715				2018-10-09		
 Dedicatory Overture	Williams, Clifton		Edward B. Marks Music Company			4				Overture	Concert Band	C-716						
 Drammatico	McBeth, William Francis											C-717						
 First Symphony	Osterling, Eric		Carl Fischer, LLC			4					Concert Band	C-718						
-Christmas Suite, The 	Walters, Harold L 									Christmas		C-719						
+Christmas Suite, The 	Walters, Harold L 									Christmas	MISSING	C-719						
 Festive Centennial	McBeth, William Francis											C-720						
 Festive Overture, A	Reed, Alfred		Hal Leonard Corporation			4					Concert Band	C-721						
 Festivo	Nelhybel, Vaclav 		Belwin-Mills Publishing Corp.			3					Concert Band	C-722					Missing several parts	
 Festival Finale	Traditional	Maddy, Joseph										C-723						
 Festival Prelude, A	Reed, Alfred		Hal Leonard Corporation	2		4					Concert Band	C-724						
 Four Hornsmen, The	Bennett, David											C-725						
-White Christmas	Berlin, Irving	Leidzen, Erik	Irving Berlin Music Company							Christmas	Concert Band	C-726						
+White Christmas	Berlin, Irving	Leidzen, Erik	Irving Berlin Music Company							Christmas	MISSING	C-726						
 Wonderland By Night	Gunter-Neumann, Klaus	Reed, Alfred										C-727						
 Wildcat	Leigh,Carolyn, and Cole	Cacavas, John										C-728						
 Hoagy Carmichael in Concert	Carmichael, Hoagy 	Barker, Warren	Alfred Publishing Company			4					Concert Band	C-729				2022-04-30		
@@ -3057,7 +3059,7 @@ Toccata for Band	Washburn, Robert	Washburn, Robert										C-730
 Tamerlane	Erickson, Frank											C-731						
 Satie: Three Gymnopedies	Satie, Erik	McGinty, Anne	Neil A. Kjos Music Company			2					Concert Band	C-732						
 Suite Italienne	Bilik, Jerry H.											C-733						
-Suite Concertante	Nelhybel, Vaclav		Belwin-Mills Publishing Corp.								Concert Band	C-734						
+Suite Concertante	Nelhybel, Vaclav		Belwin-Mills Publishing Corp.								MISSING	C-734						
 Symphony No. 3	Gliere, Reinhold 	Bainum, Glenn C.										C-735						
 Second Symphony for Band	Erickson, Frank										Concert Band	C-736						
 Suite for Band	Hovhaness, Alan											C-737						
@@ -3082,11 +3084,11 @@ Declarations	Del Borgo, Elliot A.											C-756
 Hymn and Allelujah	Curnow, James										Concert Band	C-757						
 Green Domino, The	Grundman, Clare E.		Boosey & Hawkes, Inc.			3					Concert Band	C-758						
 Glory To God	Bach, Johann Sebastian	Wilson, Harry										C-759						
-Flourish for Wind Band	Vaughan-Williams, Ralph		Oxford University Press			3					Concert Band	C-760						
+Flourish for Wind Band	Vaughan-Williams, Ralph		Oxford University Press			3					MISSING	C-760						
 Imperatrix	Reed, Alfred		Hal Leonard Corporation			4				Overture	Concert Band	C-761						
-In Dulci Jubilo	Bach, Johann Sebastian	Goldman, Richard Franko	G. Schirmer, Inc.							Christmas	Concert Band	C-762						
+In Dulci Jubilo	Bach, Johann Sebastian	Goldman, Richard Franko	G. Schirmer, Inc.							Christmas	MISSING	C-762						
 Christmas Tryptich	Curnow, James		Studio Music Publishing Co. Inc.							Christmas	Concert Band	C-764	2014-12-14			2021-12-14		
-Lead On, O King Eternal (A Choral Prelude)	Hymn	Swearingen, James	C.L. Barnhouse Company			3				Sacred	Concert Band	C-765						
+Lead On, O King Eternal (A Choral Prelude)	Hymn	Swearingen, James	C.L. Barnhouse Company			3				Sacred	MISSING	C-765						
 My Hero (from The Chocolate Soldier)	Straus, Oscar	Lampe, J. Bodewalt									Concert Band	C-766						
 Concert in the Park, A	Broege, Timothy											C-767						
 Holy City, The 	Adams, Stephen 											C-768						
@@ -3094,7 +3096,7 @@ Cantique de Noel	Adam, Adolphe	Laurendeau, L.P.								Christmas	Concert Band	C-
 Preghiera 	Tosti, E.P. 	Laurendeau, L.P.										C-768						
 Overture for a Sunday Afternoon	Nagle, Paul										Concert Band	C-769						
 Psalm 46	Zdechlik, John P.		Belwin-Mills Publishing Corp.			4				Sacred	Concert Band	C-770						
-Die Meistersinger von	Wagner, Richard	Barrow, Edgar L.										C-771						
+Die Meistersinger von Nuremberg (Walther's Prize Song)	Wagner, Richard	Barrow, Edgar L.								Opera	Concert Band	C-771						
 Romance for Alto Saxophone and Wind Orchestra	Bourgeois, Derek 					3					Concert Band w/soloist	C-772						
 Prelude on a Hymn of Praise	Curnow, James		Curnow Music Press, Inc.			4					Concert Band	C-773						
 Prelude for a Hymn of Praise											Concert Band	C-773						
@@ -3119,15 +3121,15 @@ Beyond the Higher Skies	Sheldon, Robert 		C.L. Barnhouse Company			3					Concert
 Battle Hymn 2000	Howe, J.W.	Hosay, James L.								Patriotic	Concert Band	C-793						
 Lassus Trombone	Fillmore, Henry											C-794						
 His Honor	Fillmore, Henry		Fillmore Music House							March	Concert Band	C-795						
-Patriotic Salute, A (Symphonic Setting of the Star Spangled Banner)	Hosay, James L.		Curnow Music Press, Inc.			3				Patriotic	Concert Band	C-796						
+Patriotic Salute, A (Symphonic Setting of the Star Spangled Banner) Vocal solo	Hosay, James L.		Curnow Music Press, Inc.			3				Patriotic	Concert Band w/soloist	C-796						
 Fantasy on Yankee Doodle	Williams, Mark		Alfred Publishing Company			4					Concert Band	C-797						
 Hands Across The Sea	Sousa, John Philip 		Church Publishing Inc.								Concert Band	C-798				2017-05-16		
 Mancini Spectacular	Mancini, Henry	Barker, Warren										C-799						
 Big Band Spectacular	Various	Bullock, Jack 	Alfred Publishing Company			4				Jazz	Concert Band	C-800						
 Emmanuel  Varants	Foster, Robert  E.		Wingert-Jones Publications			5				Christmas	Concert Band	C-802						
 Symphonic Prelude On Adeste Fidelis	Smith, Claude T.		Jenson Publications			3				Christmas	Concert Band	C-803						
-Christmas Jazz Suite	Holcombe, Bill		Musicians Publications							Christmas	Concert Band	C-804						
-Fireside Christmas, A	Various	Nestico, Sammy	Hal Leonard Corporation			4				Christmas	Concert Band	C-805				2017-12-05		
+Christmas Jazz Suite	Holcombe, Bill		Musicians Publications							Christmas	MISSING	C-804						
+Fireside Christmas, A	Various	Nestico, Sammy	Hal Leonard Corporation			4				Christmas	MISSING	C-805				2017-12-05		
 Midnight Sleighride	Sauter & Finegan	Wallace, Tom								Christmas	Concert Band	C-806				2021-12-14		
 Symphonic Variations on In Dulico Jubelo	Smith, Claude T.					4				Christmas	Concert Band	C-807						
 Unknown Soldier, The	Ployhar, James D.											C-808						
@@ -3139,62 +3141,62 @@ Jingle Bells	Pierpont, James	Erwin, Paul								Christmas	Concert Band	C-813
 Shepherd's Farewell	Berlioz, Hector	Erwin, Paul								Christmas	Concert Band	C-814						
 Prayer for Peace, A	Vosbein, Terry											C-815						
 Auld Lang Syne	King, Karl L.										Concert Band	C-816						
-Messiah, Overture	Handel, George Frideric	Erwin, Paul								Christmas	Concert Band	C-817						
+Messiah, Overture	Handel, George Frideric	Erwin, Paul								Christmas	MISSING	C-817						
 Messiah, And the Glory of the Lord	Handel, George Frideric	Erwin, Paul								Christmas	Concert Band	C-818						
 Messiah, He Shall Feed His Flock	Handel, George Friderick	Erwin, Paul								Christmas	Concert Band	C-819						
 Messiah, Rejoyce Greatly O Daughter of Zion	Handel, George Frideric	Erwin, Paul								Christmas	Concert Band	C-820						
-Dancin' Into the 20's (A Ragtime Dance Music Review)	Various	Hunsberger, Donald	Belwin-Mills Publishing Corp.			4					Concert Band	C-821						
+Dancin' Into the 20's (A Ragtime Dance Music Review)	Various	Hunsberger, Donald	Belwin-Mills Publishing Corp.			4					Concert Band	C-821				2022-05-17		
 Spirit of America	Traditional	Smith, Dean W.										C-822						
 In Muchen Steht ein Hof	Bauer / Rhodes	Bauer / Rhodes										C-823						
-Westminister Carol	Hosay, James L.		Curnow Music Press, Inc.			4				Christmas	Concert Band	C-824						
+Westminister Carol	Hosay, James L.		Curnow Music Press, Inc.			4				Christmas	MISSING	C-824						
 Celebrate Christmas!	Traditional	Del Borgo, Elliot A.	Carl Fischer, LLC							Christmas	Concert Band	C-825						
-Holiday Rhapsody, A	MacTaggart, Larry 		Wingert-Jones Publications			5				Christmas	Concert Band	C-826	2017-12-05					
+Holiday Rhapsody, A	MacTaggart, Larry 		Wingert-Jones Publications			5				Christmas	MISSING	C-826	2017-12-05					
 Night of Peace	Schubert, Franz	Purifoy, John									Concert Band	C-827						
 By Dawn's Early Light	Dawson, Jay		Arrangers Publishing Company			5					Concert Band	C-828						
 And The Multude With One Voice Spoke	Hosay, James L.		Curnow Music Press, Inc.								Concert Band	C-829						
 Pastime (A Salute To Baseball)	Stamp. Jack		Neil A. Kjos Music Company			5					Concert Band	C-831						
 Jefferson: A Vision for America (With Narration)	Smith, Robert W.		Alfred Publishing Company			4					Concert Band w/soloist	C-832						
 Fugue on Yankee Doodle	Sousa, John Philip	Brion/Schissel										C-833						
-Big Band Signautres	Various	Higgins, John 	Hal Leonard Corporation			4					Concert Band	C-834				2022-03-08		
+Big Band Signautres	Various	Higgins, John 	Hal Leonard Corporation			4					Concert Band	C-834				2022-05-17		
 Harry Potter Symphonic Suite	Williams, John	Smith, Robert	Alfred Publishing Company			3				Soundtrack	Concert Band	C-835						
 Wizard of Oz, The	Arlen and Harburg	Barnes, James								Soundtrack	Concert Band	C-836						
 Salute to Spike Jones	Custer, Calvin 	Custer, Calvin 										C-837						
 Fiddler on the Roof	Bock, Jerry	Barker, Warren	Alfred Publishing Company			4				Musical	Concert Band	C-838						
 Broadway Journey	Various	Christensen, James	Hal Leonard Corporation			4				Musical	Concert Band	C-839						
-Symphonic Dance No. 3 (Fiesta)	Williams, Clifton		Sam Fox Publishing Company			5					Concert Band	C-841						
+Symphonic Dance No. 3 (Fiesta)	Williams, Clifton		Sam Fox Publishing Company	4		5					Concert Band	C-841						
 Perpetuum Mobile (A Musical Joke)	Strauss, Johann Jr.	Reed, Alfred	C.L. Barnhouse Company			3.5					Concert Band	C-843						
 Dedication Overture	Giannini, Vittorio		Belwin-Mills Publishing Corp.								Concert Band	C-844					Missing: Score, Cl, 1,2,3, Sax 1, Bari, Tb 1,2, Tuba	
 Ballad for Benny	Sparke, Philip		DeHaske Music			3				Ballad	Concert Band	C-845						
 Air (Suite in D Major)	Bach, Johann Sebastian	Lang, Philip J.									Concert Band	C-846						
 American Song, An	Fletcher, Alan	Fletcher, Alan									Concert Band	C-847						
 Pavane	Gould, Morton		Alfred Publishing Company			4					Concert Band	C-848						
-Hymn for the Lost and Living	Eazen, Eric										Concert Band	C-849						
+Hymn for the Lost and Living	Eazen, Eric										MISSING	C-849						
 From Sea to Shining Sea (A Fantasy Based on America, the Beautiful)	Ward, Samuel Augustus	Whitney, Maurice	Alfred Publishing Company			2				Patriotic	Concert Band	C-850						
 Sabre and Spurs March	Sousa, John Philip									March	Concert Band	C-851						
 Family Christmas, A	Various	Swearingen, James	Belwin-Mills Publishing Corp.							Christmas	Concert Band	C-852	2021-12-14			2021-12-14		
-Sleigh Ride	Anderson, Leroy		Belwin-Mills Publishing Corp.			3				Christmas	Concert Band	C-853						
+Sleigh Ride	Anderson, Leroy		Belwin-Mills Publishing Corp.			3				Christmas	MISSING	C-853						
 Fantasia on a Hymn by	Praetorius	Foster, Robert										C-854						
 And the Mountains Echoed: Gloria!	Longfield, Robert		C.L. Barnhouse Company			3.5				Christmas	Concert Band	C-855						
 Do You Hear What I Hear?	Regney, Noel	Custer, Calvin	Hal Leonard Corporation			4				Christmas	Concert Band	C-856						
-Jingle Bells Fantasy	Pierpont, James	Wasson, John	Hal Leonard Corporation			4				Christmas	Concert Band	C-857						
+Jingle Bells Fantasy	Pierpont, James	Wasson, John	Hal Leonard Corporation			4				Christmas	MISSING	C-857						
 On a Hymnsong of Robert Lowry	Holsinger, David R.		TRN Music Publisher			3				Sacred	Concert Band	C-858						
 I Wander Deep In 	Grieg, Edvard	Rhea, Timothy									Concert Band	C-859						
 Fantasia on an Irish Ballads	Del Borgo, Elliot A.		Belwin-Mills Publishing Corp.								Concert Band	C-860						
 Persis	Hosay, James L.		Curnow Music Press, Inc.			4					Concert Band	C-861						
-Snowman Overture, The	Klorngold, Erich Wolfga	Erwin, Paul								Christmas		C-862						
+Snowman Overture, The	Klorngold, Erich Wolfga	Erwin, Paul								Christmas	MISSING	C-862						
 O Christmas Tree	Traditional	Erwin, Paul								Christmas	Concert Band	C-863						
 Jour de Fete	Lancen, Serge	Lancen, Serge										C-864						
 While Shepherds Watch	Anonymous	O'Carrol, Fergus										C-866						
 Waltzing Caroler	Erwin, Paul	Erwin, Paul										C-867						
-God Bless America	Berlin, Irving	Leidzen, Erik	Irving Berlin Music Company							Patriotic	Concert Band	C-868						
+God Bless America	Berlin, Irving	Leidzen, Erik	Irving Berlin Music Company							Patriotic	MISSING	C-868						
 Bell Piece	Dowland	Grainger, Percy Aldridge										C-869						
 Hymne Au Soleil	Lancen, Serge										Concert Band	C-870						
-Dream of Christmas, A	Ketelbey, Albert W.	Erwin, Paul								Christmas	Concert Band	C-871				2017-12-05		
-God Shed His Grace on Thee	Ward, Samuel Augustus	Glover, Andrew	C.L. Barnhouse Company			3.5				Sacred	Concert Band	C-872						
+Dream of Christmas, A	Ketelbey, Albert W.	Erwin, Paul								Christmas	MISSING	C-871				2017-12-05		
+God Shed His Grace on Thee	Ward, Samuel Augustus	Glover, Andrew	C.L. Barnhouse Company			3.5				Sacred	Concert Band	C-872					Missing 2nd Alto & Tenor	
 Sun and Moon	Schonberg, Claude-Michel	Bocook, Jay										C-873						
 Liberty for All (With Narration)	Beckel, James Jr.									Patriotic	Concert Band w/soloist	C-874						
 Norwegian Rhapsody	Grundman, Clare E.			3							Concert Band	C-875						
-On a Hymnsong of Lowell Mason	Holsinger, David R.		TRN Music Publisher			3				Sacred	Concert Band	C-876						
+On a Hymnsong of Lowell Mason	Holsinger, David R.		TRN Music Publisher			3				Sacred	MISSING	C-876						
 Burr's Triumphal March	Alexander, Russell									March	Concert Band	C-877						
 Black Horse Troop	Sousa, John Philip 		Sam Fox Publishing Company, Inc.							March	Concert Band	C-878						
 National Fencibles	Sousa, John Philip									March	Concert Band	C-880						
@@ -3214,7 +3216,7 @@ Evolution of Dixie, The	Lake, M.L.										Concert Band	C-893
 Gold Bug, The	Herbert, Victor	Radford-Bennett, William									Concert Band	C-894						
 Major General U.S. Grant Grand March	Gung'l, Joseph	Smith, Roger									Concert Band	C-894						
 More Old Wine in New Bottles	Jacob, Gordon					5					Concert Band	C-895					Limited instrumentation	
-Ant Men from America	Bloch, Ernest										Concert Band	C-896						
+Ant Men from America	Bloch, Ernest										MISSING	C-896						
 Welcome Yule	Curnow, James									Christmas	Concert Band	C-898						
 Celebration!	Hailstock, Adolphus C.		Theodore Presser Company			5					Concert Band	C-899						
 Souvenir De Porto Rico	Goffschalk, Louis	Johnson, Thor	Theodore Presser Company								Concert Band	C-899						
@@ -3225,20 +3227,20 @@ Rocketeer, The	Farrell, Kenneth										Concert Band	C-904
 Golden Eagle, The	Walters, Harold L.										Concert Band	C-905						
 Carnival Variations (Trumpet Trio)	Jacoby, Don	McRae, William									Concert Band w/soloist	C-906						
 Fate of the Gods	Reineke, Steven		C.L. Barnhouse Company	2		4					Concert Band	C-907						
-Deep Space Nine	Anonymous										Concert Band	C-908						
+Deep Space Nine	Anonymous										MISSING	C-908						
 Five Folk Songs for Soprano & Band	Gilmore, Bernard	Stone, Thomas				4					Concert Band w/soloist	C-909						
 Natchez of the Hill	Powell, John										Concert Band	C-910						
-Air for Band	Erickson, Frank										Concert Band	C-911						
+Air for Band	Erickson, Frank										MISSING	C-911						
 Bugler, The (Cornet Solo)	Goldman, Edwin Franko	Leidzen, Erik	Ludwig Music Publishing			3				March	Concert Band w/soloist	C-912						
 New York: 1927	Barker, Warren		C.L. Barnhouse Company			4					Concert Band	C-913						
 Looney Toons Overture	Various	Holcombe, Bill	Alfred Publishing Company			4					Concert Band	C-914						
-Messiah: For Unto Us A Child Is Born	Handel, George Frideric	Erwin, Paul								Christmas	Concert Band	C-915						
+Messiah: For Unto Us A Child Is Born	Handel, George Frideric	Erwin, Paul								Christmas	MISSING	C-915						
 Panis Angelicus	Franck, Cesar	Mollenhauer, Emil	C.L. Barnhouse Company								Concert Band	C-916						
 Mikado Overture, The	Gilbert & Sullivan										Concert Band	C-917						
 Music of the Beatles	Lennon & McCartney	Sweeney, Michael	Hal Leonard Corporation							Rock	Concert Band	C-918					Missing parts	
 Queen in Concert	Various	Bocock, Jay	Hal Leonard Corporation			3				Rock	Concert Band	C-919						
 Porgy & Bess	Gershwin, George	Barnes, James	Alfred Publishing Company			4				Musical	Concert Band	C-920						
-Strategic Air Command (Concert March)	Williams, Clifton		Southern Music Company			3				March	Concert Band	C-921						
+Strategic Air Command (Concert March)	Williams, Clifton		Southern Music Company			3				Concert March	MISSING	C-921						
 Symphonic Duke, The	Various	Newsom, Tommy								Jazz	Concert Band	C-922						
 Wings & Shield March	Brubaker, Jerry		Alfred Publishing Company			3				March	Concert Band	C-923						
 Invictus	King, Karl L.									March	Concert Band	C-924						
@@ -3248,16 +3250,17 @@ Liberty Fleet	King, Karl L.									March	Concert Band	C-927
 Waterloo Legion Band	Chenette, Gene	Chenette, Ed									Concert Band	C-928						
 Quality Plus	Jewell, Fred		C.L. Barnhouse Company							March	Concert Band	C-929						
 Aviation Tournament	King, Karl L.									March	Concert Band	C-930						
+Celebrations	Zdechlik, John		Neil A. Kjos Music Company								Concert Band	C-930						
 Flight of Valor	Swearingen, James		C.L. Barnhouse Company			3.5				Sacred	Concert Band	C-931						
 The "500"	Jordan, Joe	Moffitt, Bill									Concert Band	C-932						
 Hollywood Milestones	Various	Higgins, John	Hal Leonard Corporation			3				Soundtrack	Concert Band	C-934						
 Blues Brothers Review	Various	Bocook, Jay	Hal Leonard Corporation			3				Rock	Concert Band	C-935						
 Hot Latin		Wasson, John									Concert Band	C-936						
 March of the Steelmen	Belsterling, Charles S.	Alford, Harry L.	Carl Fischer, LLC							March	Concert Band	C-937						
-Pirates of the Caribbean	Badelt, Klaus									Soundtrack	Concert Band	C-938						
+Pirates of the Caribbean	Badelt, Klaus									Soundtrack	MISSING	C-938						
 Storm King	Finlayson, Walter A.		Boosey & Hawkes, Inc.							March	Concert Band	C-939						
 Avenger March	King, Karl L.									March	Concert Band	C-940						
-Black Jack March	Huffer, Fred K.									March	Concert Band	C-941						
+Black Jack March	Huffer, Fred K.									March	MISSING	C-941						
 Fidelity March	King, Karl L.									March	Concert Band	C-942						
 Satchmo	Various	Rickets, Ted	Hal Leonard Corporation			4				Jazz	Concert Band	C-943						
 Crosley March, The	Filmore, Henry		Fillmore Music House							March	Concert Band	C-944						
@@ -3278,7 +3281,7 @@ Christmas Lalina	Hosay, James L.		Curnow Music Press, Inc.			3				Christmas	Conc
 Christmas Portrait, A	Various	Nowak, Jerry	Hal Leonard Corporation			4				Christmas	Concert Band	C-961				2021-12-14		
 Footlifter, The	Filmore, Henry									March	Concert Band	C-962						
 Christmas Waltz, The	Cahn & Styne		Chappell Music Company							Christmas	Concert Band	C-963				2021-12-14		
-I Heard The Bells On Christmas Day	Marks, Johnny		St. Nicholas Music, Inc.							Christmas	Concert Band	C-964						
+I Heard The Bells On Christmas Day	Marks, Johnny		St. Nicholas Music, Inc.							Christmas	MISSING	C-964						
 Freedom's Promise	Hosay, James L.										Concert Band	C-965						
 In Their Honor	Strommen, Carl		Belwin-Mills Publishing Corp.								Concert Band	C-966						
 Charlie Brown Christmas, A	Strommen, Carl		Lee Mendelson Film Productions							Christmas	Concert Band	C-967				2021-12-14		
@@ -3294,7 +3297,7 @@ River Valley Celebration	Gorham, David										Concert Band	C-976
 Orange Bowl March	Filmore, Henry									March	Concert Band	C-977						
 National Band Association March	Goldman, Richard Franco									March	Concert Band	C-978						
 In The Center Ring	Sheldon, Robert		Alfred Publishing Company			4					Concert Band	C-980						
-Catch Me If You Can	Williams, John	Bocook, Jay	Hal Leonard Corporation			3				Soundtrack	Concert Band	C-981						
+Catch Me If You Can (Alto Sax solo)	Williams, John	Bocook, Jay	Hal Leonard Corporation			4				Soundtrack	Concert Band w/soloist	C-981						
 Carnival of Venice (Tuba Solo)	Baptist & Arban	Domek, Richard									Concert Band w/soloist	C-982						
 Bandarama	Chenette, Louis Fred										Concert Band	C-983						
 October	Whitacre, Eric		Hal Leonard Corporation			5					Concert Band	C-984						
@@ -3307,37 +3310,32 @@ Genius of Ray Charles, The	Various	Brown, Michael	Hal Leonard Corporation			3			
 Selections from Grease	Casey/Jacobs	Ricketts, Ted	Hal Leonard Corporation			4				Musical	Concert Band	C-993						
 Robertson's Grand Entry March	King, Karl L.									March	Concert Band	C-994						
 Who's Who In Navy Blue	Sousa, John Philip	Byrne, Frank	Wingert-Jones Publications							March	Concert Band	C-995						
-Whip & Spur	Allan, Thomas										Concert Band	C-996						
+Whip & Spur	Allan, Thomas										MISSING	C-996						
 Cinderella Afternoon	Hosay, James L.										Concert Band	C-997						
 If I Can't Love Her (from Beauty & The Beast)	Menken, Alan	Rhodes, Steve								Soundtrack	Concert Band	C-998						
 Love Changes Everything (from Aspects of Love)	Webber, Andrew Lloyd	Rhodes, Steve								Musical	Concert Band	C-999						
-Brazil 	Barroso, Ary	Mason, Jack				3					Concert Band	D-1						
-Dancing in the Dark	Dietz and Schwartz	Weirick, Paul										D-3						
-Darn That Dream	Huesen, Jimmy van	Hathaway, Charlie										D-4						
-Walter Winchell Rhumba	Morales, Noro 	Warrington, Johnny										D-6						
-Harlem Nocturne	Hagen, Earle	Williams, George										D-7						
-What Is This Thing Called Love	Porter, Cole	Gray, Jerry										D-8						
-Swanee River	Anonymous	Oliver, Sy										D-9						
-Stardreams	Dee, Spivak, and Burke	Hudson, Will										D-10						
-Song of the Volga Boat	Rimsky- Korsakov, Nicolai 	Finegan, Bill										D-11						
-Well, Git It	Oliver, Sy											D-12						
-Fly Me to The Moon	Howard, Bart 	Nestico, Sammy 										D-13						
+Stars (from Les Miserables) Tenor solo	Schonberg, Claude-Michel	Rhodes, Steve								Musical	Concert Band w/soloist	D-1						
+Amazing Grace		William Himes									Concert Band	D-3						
+Concert Fantasia (Clarinet solo)	Bassi, Luigi	Laurendeau, L.P.	Southern Music Company							Opera	Concert Band w/soloist	D-7						
+United We Stand	Grabel, Victor		C.L. Barnhouse Company							March	Concert Band	D-8						
+Star Wars, Revenge of the Sith	Williams. John	Smith, Robert	Alfred Publishing Company								Concert Band	D-9						
 English Christmas, An	Grundman, Clare E.		Boosey & Hawkes, Inc.			3				Christmas	Concert Band	D-13						
-Six Flats Unfurnished	Maltby, Richard											D-14						
-With Each Sunset	Saucedo, Richard										Concert Band	D-16						
-Little Brown Jug	Anonymous	Finegan, Bill										D-17						
-Lean Baby	May, Billy	Alexander, Van										D-18						
+With Each Sunset (Comes the Promise of a New Day)	Saucedo, Richard L.		Musicworks								Concert Band	D-16					No Score	
 Perthshire Majesty	Hazo, Samuel R.		Boosey & Hawkes, Inc.			3					Concert Band	D-19				2018-10-09		
-Jingle Bells	Anonymus	Finegan & Miller								Christmas		D-20						
-How High the Moon	Lewis, Morgan	Mason, Jack										D-25						
-All of Me	Simons and Marks	Warrington, Johnny										D-27						
-Danny Boy	Anonymous	Ellis, Norman										D-28						
-Angry (Dixie)	Mecum, Casserd, Brunie	Howard, Bill										D-29						
-Girl That I Marry, The 	Berlin, Irving 	Weirick, Paul 										D-30						
-Who's Sorry Now?	Kalmar, Ruby, Snyder	Meissner, Zep										D-31						
-I'll Remember April	Raye, de Paul, Johnston	Schoen, Vic										D-33						
-Little Brown Jug	Winner, Joseph Eastburn	Nagle, Paul										D-34						
-Club Date Combo Book	Various	Wolpe, Dave										D-38						
+Exultate	Hazo, Samuel R.		Boosey & Hawkes, Inc.								Concert Band	D-20						
+Golden Friendships	Fillmore, Henry		Carl Fischer, LLC							March	Concert Band	D-23						
+Bugles and Drums	Goldman, Edwin Franco		Carl Fischer, LLC							March	Concert Band	D-32						
+Cavalry of the Clouds	Alford, Kenneth J.	Winter, A.	Boosey & Hawkes, Inc.							March	Concert Band	D-33						
+Coventry	Tatgenhorst, John		C.L. Barnhouse Company	2							Concert Band	D-34						
+Academic Festival Overture	Brahms, Johannes	Hindsley, Mark									Concert Band	D-36						
+Variations on Lobe Den Herrn	Kopetz, Barry E.		Alfred Publishing Company								Concert Band	D-37					No Score	
+Bricusse and Newley On Broadway	Bricusse, Leslie & Newley, Anthony	Barker, Warren								Musical	Concert Band	D-38					No Score	
+Ammerland	De Haan, Jacob		DeHaske Music								Concert Band	D-39					No Score	
+Advance Guard, The	Heed, J.C.		Carl Fischer, LLC							March	Concert Band	D-40						
+Nostradamus	Schwarz, Otto M.			2							Concert Band	D-42						
+Salvation Is Created	Tschesnokoff, Pavel	Houseknecht, Bruce H.	Neil A. Kjos Music Company								Concert Band	D-43					No Score	
+Awake! (Chorale from Die Meistersinger)	Wagner, Richard	Houseknecht, Bruce H.	Neil A. Kjos Music Company								Concert Band	D-43					No Score	
+Sevens	Hazo, Samuel R.		Musicworks								Concert Band	D-45					No Score	
 Yankee Doodling: A Young Person's Guide to the Concert Band (w/Narrator)	Kallman, Daniel					5					Concert Band w/soloist	E-1						
 La Traviata	Verdi, Giuseppi	Godfrey, Dan	Chappell Music Company								Concert Band	E-2						
 Pagan Dances	Barnes, James		Southern Music Company								Concert Band	E-3						
@@ -3358,10 +3356,14 @@ Rendezvous Overture	Bodine, G. Bradley										Concert Band	E-18
 Pomp and Circumstance No. 4	Elgar, Edward	Retford, M.	Boosey & Hawkes, Inc.								Concert Band	E-19						
 Siegfried's Rhine Journey (From Die Gotterdammerung)	Wagner, Richard	Cailliet, Lucian									Concert Band	E-20						
 Diamond Fanfare	Hazo, Samuel R.		Hal Leonard Corporation			4					Concert Band	E-21	2022-03-01					
+Friendly Rivals, The (Cornet Duet)	Godfrey, Charles 		Chappell Music Company								Concert Band w/soloist	E-22					Cornet Duet	
+Andante and Rondo Capriccioso	Mendelssohn	Witherbottom, Frank	Chappell Music Company								Concert Band	E-22						
+Robert Le Diable	Meyerbeer, Giacomo	Retford, M.J.	Chappell Music Company	2							Concert Band	E-23						
+Organ Symphony No. 3, 2nd Movement	Saint-Saens, Camille	Hindsley, Mark H.				6					Concert Band	E-24						
 La Francaise, A	Ameller, Andre											E-999						
 Blaserquintett #3	Jettel, Rudolph											G-52						
 Serenata Notturna	Kuhn, Max 											G-91						
-Waltz of the Flowers	Tchaikovsky, Pyotr Ilyich	Sanford, Harold								Christmas		J-2						
+Waltz of the Flowers	Tchaikovsky, Pyotr Ilyich	Sanford, Harold										J-2						
 Look for the Silver Lining	Kern, Jerome	Matesky, Ralph										J-3						
 Suite #2, for Small Orch	Stravinsky, Igor											J-4						
 Studies for Oboe	Brandaleone, Guido											J-7						
@@ -3369,7 +3371,7 @@ Duet Sessions	Gearhart, Livingston											J-8
 Rhapsody for English H	Jacob, Gordon											J-9						
 Couvre Feu	Barthe, Adrien											J-11						
 Little Suite for Orchestra	Frackenpohl, Arthur											J-12						
-Three Songs for Christmas	Various	Grundman, Clare E.								Christmas		J-13						
+Three Songs for Christmas	Various	Grundman, Clare E.										J-13						
 Concerto in D minor	Bach, C.P.E.	Darvas, Gabor										J-14						
 Scherzo	Verdi, Giuseppe	Hastings, Ross										J-15						
 Concerto in C Major	Salieri, Antonio 											J-19						
@@ -3428,7 +3430,7 @@ Sinfonia di Odense	Rossini, Gioacchino											J-90
 Rosamunde Overture	Schubert, Franz 											J-91						
 Petite Symphonie in Bb	Gounod, Charles											J-93						
 Variations on a Theme of Glinka (Oboe solo)	Rimsky- Korsakov, Nicolai 	Clark, McAlister	Masters Music Publications, Inc.			5					Concert Band w/soloist	J-94						
-Angels We Have Heard	Anonymus	Frackenpohl, Arthur								Christmas		J-97						
+Angels We Have Heard	Anonymus	Frackenpohl, Arthur										J-97						
 String of Pearls, A	Gray, Jerry	Rhodes, Steve								Jazz		J-98						
 Grand Rapids Suite	Zdechlik, John P.											J-99						
 Beale Street Blues	Anonymous											J-104						
@@ -3732,7 +3734,6 @@ Under the American Flag	Cline, J. DeForest											M-412
 Under the Banner of Vic	Blon, Franz von									March		M-413						
 Under the Big Top	Coats, R. Roy											M-414						
 United Press March	Lavalle, Paul											M-415						
-United We Stand	Grabel, Victor											M-416						
 University of Illinois	Sousa, John Philip		Church Publishing Inc.							March	Concert Band	M-417						
 University of Nebraska	Sousa, John Philip		Sam Fox Publishing Company							March	Concert Band	M-418						
 Valencia	Padilla, Jose	Bush, M.L.										M-419						
@@ -3780,9 +3781,9 @@ From Every Horizon	Dello Joio, Norman 		Edward B. Marks Music Company			6					Co
 Marche des Parachutistes Belges	Leemans, Pieter	Wiley, Charles A.	TRN Music Publisher			3.5				March	Concert Band	N-11						
 New Age Christmas	Various	Ford, Ralph	Belwin-Mills Publishing Corp.							Christmas	Concert Band	N-12				2021-12-14		
 El Camino Real (A Latin Fantasy)	Reed, Alfred	Longfield, Robert	Hal Leonard Corporation			3.5					Concert Band	N-13						
-Cowboys, The	Williams, John	Bocook, Jay	Hal Leonard Corporation	2		3					Concert Band	N-14						
+Cowboys, The	Williams, John	Bocook, Jay	Hal Leonard Corporation	1		3					Concert Band	N-14						
 Bix Beiderbecke in Concert	Various	Scott, Wayne	Robbins Music Corporation							Jazz	Concert Band	N-15						
-American Fanfare, An	Kirby, Rick		Musicworks	2		4				Patriotic	Concert Band	N-16						
+American Fanfare, An	Kirby, Rick		Musicworks	3		4				Patriotic	Concert Band	N-16						
 Invicta (Overture for Band)	Swearingen, James		C.L. Barnhouse Company			3				Overture	Concert Band	N-17						
 Redemption	Galante, Rossano		Alfred Publishing Company			3					Concert Band	N-18					Missing Score & Some Parts	
 Radetzky March	Strauss, Johann Sr.	Reed, Alfred	C.L. Barnhouse Company			3.5				March	Concert Band	N-19				2021-10-26		
@@ -3830,7 +3831,7 @@ Hungarian Dances	Brahms, Johannes	Peters, S.J.	Carl Fischer, LLC								Concert 
 Flags of Freedom March	Sousa, John Philip		Carl Fischer, LLC							March	Concert Band	N-62						
 Swiss Shepherd, The (Flute Solo)	Morlacchi, Pietro	Kile, Nora				5 solo, 3.5 ensemble					Concert Band w/soloist	N-63				2021-10-18		
 Stars and Stripes Forever	Sousa, John Philip	United States Marine Band								Patriotic	Concert Band	N-64						
-Eighth Candle, The	Reisteter, Steve		Arrangers Publishing Company			4				Christmas	Concert Band	N-65					Missing Parts	
+Eighth Candle, The (Prayer and Dance for Hanukkah)	Reisteter, Steve		Arrangers Publishing Company			4				Christmas	Concert Band	N-65					Missing Parts	
 Star and Stipes Forever	Sousa, John Philip 		Church Publishing Inc.							March	Concert Band	N-66						
 Semper Fidelis	Sousa, John Philip	United States Marine Band								March	Concert Band	N-68						
 University of Nebraska	Sousa, John Philip		Sam Fox Publishing Company							March	Concert Band	N-69						
@@ -3841,7 +3842,7 @@ Frenzy	Boysen, Andrew		Neil A. Kjos Music Company			5					Concert Band	N-73
 Mt. Everest	Galante, Rossano		Alfred Publishing Company			4					Concert Band	N-74	2022-02-14	J.W. Pepper				
 Redwoods, The	Galante, Rossano		Associated Music Publishers, Inc.								Concert Band	N-75	2022-02-14	J.W. Pepper				
 Michael Jackson: Through the Years	Various	Brown, Michael									Concert Band	N-76	2022-02-14	J.W. Pepper		2022-04-30		
-Disco Kid	Shoji, Osamu	Kanayama, Tohru									Concert Band	N-78	2021-12-29	J.W. Pepper				
+Disco Kid	Shoji, Osamu	Kanayama, Tohru									Concert Band	N-78	2022-03-03	J.W. Pepper		2022-05-17		
 Stephen Foster Melodies	Foster, Stephen	Guzman, Luis									Concert Band	N-79						
 Mississippi Suite Overture	Groff, Ferde	Bennett, David									Concert Band	N-79						
 Earl's March	Wiley, Charles A.		TRN Music Publisher								Concert Band	N-80						
@@ -3870,6 +3871,41 @@ Sons of the Brave, March	Bidgood, Thomas	Watson, J.R.	TRN Music Publisher							
 Le Cheval de Bronze	Auber, D.E.F.	van Leeuwen, A.C.	Molenaar N.V.							Overture	Concert Band	N-102						
 Oklahoma (Selections)	Rodgers, Richard	Leidzen, Erik	Williamson Music Co.							Musical	Concert Band	N-103						
 Barry Manilow On Tour	Manilow, Barry	Lowden, Robert W.								Pops	Concert Band	N-104						
+Voyage of Discovery (Fantasia on Praise Ye The Lord)	Nagel, Jody										Concert Band	N-105						
+Gridiron Club March, The	Sousa, John Philip		Sam Fox Publishing Company, Inc.							March	Concert Band	N-106						
+Longer	Fogelberg, Daniel	Edmonson, John								Jazz	Concert Band	N-107						
+Cyclometric Overture	Gillis, Don		Neil A. Kjos Music Company								Concert Band	N-108						
+Avant Garde	Strickland, William		Bourne Company Music Publishing							Concert March	Concert Band	N-109						
+Mediation and Festiva	Spears, Jared		C.L. Barnhouse Company								Concert Band	N-110						
+Mike and Honey	Herman, Jerry	Cacavas, John									Concert Band	N-111						
+The Clock Shoppe	Nestico, Sammy		Hal Leonard Corporation								Concert Band	N-112						
+Compendium	Forsblad, Leland	Livingston, Wayne	Hal Leonard Corporation								Concert Band	N-113						
+Momentations	Spears, Jared		C.L. Barnhouse Company								Concert Band	N-114						
+Scarlet Hurricane	Osterling, Eric		Carl Fischer, LLC							Concert March	Concert Band	N-116						
+Epeisodions	Leckrone, Mike		Studio Music Publishing Co. Inc.								Concert Band	N-117						
+Tannhauser (New Extended Finale)	Wagner, Richard	Mayer, Frederick C.	Southern Music Company							Opera	Concert Band	N-118						
+Feiericher Einzug (Solemn Procession)	Strauss, Richard	Spinney, Charles Richard	Belwin-Mills Publishing Corp.								Concert Band	N-119						
+Prerogatives for Band	Forsblad, Leland		Hal Leonard Corporation								Concert Band	N-120						
+Clarinet on the Town (Clarinet solo)	Hermann, Ralph		Carl Fischer, LLC								Concert Band w/soloist	N-121						
+Die Meistersinger	Wagner, Richard		Ludwig Music Publishing							Opera	Concert Band	N-122						
+Tamerlane	Erickson, Frank		Bourne Company Music Publishing								Concert Band	N-123						
+Russlan and Ludmilla	Glinka, Michael Ivanovich	Henning, Franz	Carl Fischer, LLC							Overture	Concert Band	N-124						
+Apokryphos	Leckrone, Mike		Studio Music Publishing Co. Inc.								Concert Band	N-125						
+Bellerophon	Whear, Paul W.		Ludwig Music Publishing							Overture	Concert Band	N-126						
+Lennon/McCartney Portrait	Lennon/McCartney	Holcombe, Bill	Charter Publications							Rock	Concert Band	N-127					No Score	
+Carol of the Drum	Davis, Katherine K.	Werle, Floyd								Christmas	Concert Band	N-128					Needs first horn	
+Proclamation	Carter, Charles										Concert Band	N-129						
+March, Pastorale & Fanfare	Cobine, Albert		Studio Music Publishing Co. Inc.								Concert Band	N-130						
+Tenth Regiment March	Hall, R.B.		Carl Fischer, LLC							March	Concert Band	N-131						
+Spitfire!	Gilroy, Gary P.		Wingert-Jones Publications								Concert Band	N-132						
+Ukrainian National Anthem	Verbytsky, Mykhailo	Terrett, Keith									Concert Band	N-133						
+All Glory Be to God on High	Bach, J.S.	Spinazzola								Sacred	Concert Band	N-134						
+Sink Not Yet, My Soul, To Slumber	Bach, J.S.	Spinazzola								Sacred	Concert Band	N-134						
+Cameo, Collage and Portrait	Forsblad, Leland		Hal Leonard Corporation								Concert Band	N-135						
+Allegro Symphonique	Moerenhout, Joseph										Concert Band	N-136						
+Light Eternal, The	Swearingen, James		C.L. Barnhouse Company								Concert Band	N-137						
+Best of John Mellencamp, The	Various	Ippolito, Peter	Windswept Holdings LLC							Rock	Concert Band	N-138						
+Star Spangled Banner (With vocal)	Smith, John Stafford	Stamp, Jack	Neil A. Kjos Music Company							Patriotic	Concert Band w/soloist	N-139						
 Little Serenade, A	Grimm, Chugo											X-999						
 Salute to MGM, A	Holcombe, Bill	Holcombe, Bill										X-999						
 Scarlatti Sonata, A	Scarlatti, Domenico											X-999						
