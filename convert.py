@@ -40,7 +40,7 @@ def get_library_from_my_music_office():
     # GET: https://secure-prod.mymusicoffice.com/exports/bzmanagermusiclibraryexport.txt
     login_url = "https://secure-prod.mymusicoffice.com/db/familylogin.php"
     request_export = "https://secure-prod.mymusicoffice.com/db/musiclibrarydownloadajaxinsert.php?titlecheck=yes&composercheck=yes&arrangercheck=yes&publishercheck=yes&copiescheck=yes&costcheck=yes&gradelevelcheck=yes&statelistcheck=yes&medialinkcheck=yes&medialink2check=yes&musictypecheck=yes&voicingcheck=yes&libraryidcheck=yes&datepurchasedcheck=yes&purchasedfromcheck=yes&performanceinfocheck=yes&lastperformancecheck=yes&commentscheck=yes"
-    data_export_url = "https://secure-prod.mymusicoffice.com/exports/bzmanagermusiclibraryexport.txt"
+    data_export_url = "https://secure-prod.mymusicoffice.com/db/exports/bzmanagermusiclibraryexport.txt"
     payload = {
         "familyusername": os.environ["USER_NAME"],
         "familypass": os.environ["PASSWORD"]
@@ -49,17 +49,17 @@ def get_library_from_my_music_office():
         post = session.post(login_url, data=payload)
         print("Login Response", post.status_code)
         r = session.post(request_export)
-        print("Export Request Response", r.status_code)
+        print("Export Request Response", r.status_code, r.text)
         print("sleeping for 2 seconds")
         time.sleep(2)
         export_resp = session.get(data_export_url, stream=True)
         # print("Export Response", export_resp.status_code)
-        with open('req_export.txt', 'wb') as out_file:
+        with open('library_export.txt', 'wb') as out_file:
             shutil.copyfileobj(export_resp.raw, out_file)
         # print(export_resp.status_code, export_resp.text)
 
 
 if __name__ == "__main__":
+    get_library_from_my_music_office()
     update_json_music_library()
     # get_bulk_youtube_searches()
-    # get_library_from_my_music_office()
