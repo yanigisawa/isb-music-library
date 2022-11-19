@@ -57526,6 +57526,21 @@ const isb_library ={
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
       "Library ID": "X-75"
+    },
+    {
+      "Title": "Caroling for Concert Band",
+      "Composer": "Various",
+      "Arranger": "Nelson, Brandon",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Christmas",
+      "Voicing": "Concert Band",
+      "Library ID": "X-76"
     }
   ]
 }
