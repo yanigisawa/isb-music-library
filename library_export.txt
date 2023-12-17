@@ -25,8 +25,8 @@ Arioso (fr. Conc. for vln)	Bach, Johann Sebastian	Lawshe, Wilford	Charter Public
 Athletic Festival March	Prokofiev, Sergei 	Goldman, Richard Franko 	C.L. Barnhouse Company			4				March	Concert Band	A-28						
 Arabesque #1	Debussy, Claude	Walter, Daniel									Concert Band	A-31						
 Arioso	Williams, Clifton		Masters Music Publications, Inc.			3					Concert Band	A-32						
-Autumn in New York	Duke, Vernon	Krance, John Paul	Harms Inc.								Concert Band	A-33						
-Autumn (from The Seasons)	Glazounov, Alexander	Bancroft, Richard	Volkwein			5					Concert Band	A-34						
+Autumn in New York	Duke, Vernon	Krance, John Paul	Harms Inc.								Concert Band	A-33				2023-10-10		
+Autumn (from The Seasons)	Glazounov, Alexander	Bancroft, Richard	Volkwein			5					Concert Band	A-34				2023-10-10		
 Aylesford Variations	Kirk, Theron		Summy Birchard Inc.								Concert Band	A-35						
 Bacchanale (from Samson & Delila)	Saint-Saens, Camille	Egner, Philip	Carl Fischer, LLC			4					Concert Band	A-36						
 Bachianas Brasileiras No. 4 Suite	Villa-Lobos, Heitor	Reed, Alfred	Alfred Publishing Company			5					Concert Band	A-37						
@@ -1037,7 +1037,7 @@ Concertino (for Marimba and Band)	Creston, Paul		G. Schirmer, Inc.								Concer
 Maid of Pskov Overture (from Ivan the Terrible)	Rimsky- Korsakov, Nicolai 		Boosey & Hawkes, Inc.								Concert Band	B-53						
 Favorite, The (Cornet solo)	Hartmann, John	Laurendeau, L.P.	Carl Fischer, LLC								Concert Band w/soloist	B-55						
 Fete	Hermann, Ralph		Carl Fischer, LLC								Concert Band	B-56						
-Autumn Leaves	Kosma, Joseph	Rogers, R. Mark	Southern Music Company			3					Concert Band	B-57	2022-08-01					
+Autumn Leaves	Kosma, Joseph	Rogers, R. Mark	Southern Music Company			3					Concert Band	B-57	2022-08-01			2023-10-10		
 Music for Two Wind Bands	Handel, George Frideric	Schaefer, William A.	Belwin-Mills Publishing Corp.	2		6					Concert Band	B-58					With 2 Brass Choirs	
 Lehar Melodies	Lehar, Franz	Barsotti, Roger	G. Schirmer, Inc.								Concert Band	B-59						
 Prelude Fugue and Varations	Franck, Cesar	Gordon, Philip	Belwin-Mills Publishing Corp.								Concert Band	B-60						
@@ -1599,7 +1599,7 @@ Chorale and Fugue	Buxtehude, Dietrich	Schaefer, William	Elkan- Vogel Co.								
 Variations on a Theme by John Philip Sousa	Sousa, John Philip 	Watson, Walter	Ludwig Music Publishing								Concert Band	B-628						
 Foundation March, The	Goldman, Richard Franko		Theodore Presser Company							March	Concert Band	B-629						
 Prelude II (from Preludes for Piano)	Gershwin, George	Edmondson, John	New World Music Corporation								Concert Band	B-630						
-Ballade (for Flute and Orchestra)	Reinecke, Carl	de Braak, Jos van	Barton Music Corporation								Concert Band w/soloist	B-631						
+Ballade (for Flute and Orchestra)	Reinecke, Carl	de Braak, Jos van	Barton Music Corporation								Concert Band w/soloist	B-631				2023-10-10		
 Fanfare, Chorale and Fugue	Giovannini, Caesar	Robinson, Wayne	Southern Music Company								Concert Band	B-632						
 Trilogy	Curnow, James										Concert Band	B-633						
 Ouverture Triomphale	Lancen, Serge		Molenaar N.V.								Concert Band	B-634						
@@ -1631,6 +1631,7 @@ Three From the Hills	Gross, Charles		B. Sharp Music Co.								Concert Band	B-66
 Parade Espanola	Cacavas, John		Chappell Music Company							Concert March	Concert Band	B-663						
 Panamericana (Morceau Charateristique)	Herbert, Victor	Langey, Otto	M. Witmark 								Concert Band	B-664						
 Claire de Lune (Suite Bergamasque)	Debussy, Claude	Weiss, Anton									Concert Band	B-665						
+Waltzing Cat, The	Anderson, Leory	Lang, Philip J.	Mills Music, Inc.			3				Waltz	Concert Band	B-666	2023-12-01					
 Vilia	Lehar, Franz	Davis, Albert Oliver	Byron-Douglas Publications								Concert Band	B-667						
 Britannia (An English Folk Rhapsody)	Edmunds, John F.		Carl Fischer, LLC								Concert Band	B-668						
 Glorious Things of Thee are Spoken (Austrian Hymn)	Haydn, Franz Joseph	Ployhar, James D.	Schmitt Music Center							Sacred	Concert Band	B-669						
@@ -1775,6 +1776,7 @@ Grenadiers, The	Waldteufel, Emile	Masthon, John	Molenaar N.V.								Concert Ban
 All- American Hometown Band. The	Noona, Walter										Concert Band	B-814						
 Wiener Burger	Ziehrer, Carl M. 	Mol, Gosling	Molenaar N.V.								Concert Band	B-815						
 Les Folies (Trumpet solo)	Waldteufel, E.		Molenaar N.V.							Polka	Concert Band w/soloist	B-816						
+Pirates of the Caribbean (Symphonic Suite)	Badlet, Klaus	Wasson, John								Soundtrack	Concert Band	B-817	2023-12-01				GD	
 Divertimento	Bernstein, Leonard	Grundman, Clare E.	Boosey & Hawkes, Inc.			5					Concert Band	B-818						
 Laura	Raskin, David	Holcombe, Bill	Robbins Music Corporation								Concert Band	B-819						
 Apollo March	Bruckner, Anton	Rhodes, Tom C.	Southern Music Company							March	Concert Band	B-820						
@@ -1995,7 +1997,7 @@ Golden Dragon Overture, The	King, Karl L.		C.L. Barnhouse Company								Concert
 Feiericher Einzug (Solemn Procession)	Strauss, Richard	Spinney, Charles Richard	Belwin-Mills Publishing Corp.								Concert Band	C-54						
 Comedy Classics	Various	Murtha, Paul	Hal Leonard Corporation								Concert Band	C-55						
 Novena (Rhapsody for Band)	Swearington, James		C.L. Barnhouse Company			3					Concert Band	C-56						
-Of Sailors and Whales (Five Scenes from Melville)	McBeth, William Francis		Southern Music Company			5					Concert Band	C-57						
+Of Sailors and Whales (Five Scenes from Melville)	McBeth, William Francis		Southern Music Company			5					Concert Band	C-57					Missing: Flute 1, Alto sax 1, Bari Sax, Horn 1&2 and Timpani	
 Alla Barocco	Giovannini, Caesar	Robinson, Wayne	Sam Fox Publishing Company, Inc.							Folk	Concert Band	C-58						
 Trumpet Shall Sound, The (w/Narrator)	Strickland, Willy		Belwin-Mills Publishing Corp.								Concert Band w/soloist	C-59						
 And the Heart Replies	McGinty, Anne		Queenwood Publications			4					Concert Band	C-60					ISB Commission	
@@ -2154,7 +2156,7 @@ King Cotton	Sousa, John Philip		Church Publishing Inc.							March	Concert Band	
 Sells-Floto Triumphal	King, Karl L.		C.L. Barnhouse Company			3.5				March	Concert Band	C-216						
 Flag of America	Rosenkrans, George	Geiger, Loren D.								March	Concert Band	C-217						
 Joi (A Contemporary Selection)	Logan, Robert		Schmitt Music Center								Concert Band	C-218						
-Anchors Aweigh	Zimmerman, Charles A.	Conrad, Charles								Patriotic	Concert Band	C-219						
+Anchors Aweigh	Zimmerman, Charles A.	Briegel, George F.	Robbins Music Corporation							Patriotic	Concert Band	C-219						
 Dance of the Serpents	Bocclari, Edoardo	Laurendeau, L.P.	Carl Fischer, LLC								Concert Band	C-220						
 El Captain	Sousa, John Philip		Church Publishing Inc.							March	Concert Band	C-222						
 Daughters of Texas	Sousa, John Philip										Concert Band	C-223						
@@ -2573,14 +2575,14 @@ Gum-Suckers March, (from In a Nutshell)	Grainger, Percy Aldridge	Rogers, R. Mark
 Harvesting the Fields											Concert Band	C-641						
 Royal Canadian											Concert Band	C-642						
 American Flourish	Smith, Robert W.		Birch Island Music Press			3.5				Patriotic	Concert Band	C-643						
-Nightmare Before Christmas	Elfman, Danny	Brown, Michael	Buena Vista Music							Soundtrack	Concert Band	C-644	2023-09-01					
+Nightmare Before Christmas	Elfman, Danny	Brown, Michael	Buena Vista Music							Soundtrack	Concert Band	C-644	2023-09-01			2023-10-10		
 To Challenge the Sky and Heavens Above	Smith, Robert W.		Belwin-Mills Publishing Corp.								Concert Band	C-645						
 Over the Rainbow	Arlen, Harold	Brubaker, Jerry								Soundtrack	Concert Band	C-646						
 Mandoline											Concert Band	C-647						
 Center Ring	King, Karl L.									March	Concert Band	C-648						
 Slim Trombone	Fillmore, Henry										Concert Band	C-649						
 Invincible Bunbury, The (Tercentenary Quick March)	Cohen, Jerome D.		Oxford University Press								Concert Band	C-651						
-Phantom of Dark Hollow, The	Sheldon, Robert		Alfred Publishing Company			2.5					Concert Band	C-652				2022-10-24		
+Phantom of Dark Hollow, The	Sheldon, Robert		Alfred Publishing Company			2.5					Concert Band	C-652				2023-10-10		
 Swiss Shepherd, The (Flute Solo)	Morlacchi, Pietro	Kile, Nora				5 solo, 3.5 ensemble					Concert Band w/soloist	C-653				2021-10-18		
 Epic March	Ireland, John	Grimo, Steven	Boosey & Hawkes, Inc.	2		4					Concert Band	C-654						
 American Jazz Suite (Trumpet solo)	Vizzutti, Allen 		Alfred Publishing Company			4				Jazz	Concert Band w/soloist	C-655						
@@ -2593,6 +2595,7 @@ Cheerio, March	Goldman, Edwin Franko		G. Schirmer, Inc.			4				March	Concert Ban
 American Trilogy	Curnow, Bob	Curnow, Bob				4				Jazz	Concert Band	C-662						
 Disney Around the World	Various	Christensen, James	Hal Leonard Corporation							Soundtrack	Concert Band	C-663						
 On the Mall	Goldman, Edwin Franko	Lake, Mathew L.	Carl Fischer, LLC							March	Concert Band	C-664						
+Danzon No. 2	Marquez, Arturo	Nickel, Oliver	Peer International Corporation								Concert Band	C-665	2023-12-01					
 Recorded By Sinatra	Various	Barker, Warren		2						Pops	Concert Band	C-666						
 Cartoon Symphony	Various	Clark, Larry	Alfred Publishing Company			4					Concert Band	C-667						
 Silverado	Barker, Warren		C.L. Barnhouse Company	1		3					Concert Band	C-668						
@@ -2863,7 +2866,7 @@ In The Center Ring	Sheldon, Robert		Alfred Publishing Company			4					Concert Ba
 Catch Me If You Can (Alto Sax solo)	Williams, John	Bocook, Jay	Hal Leonard Corporation			4				Soundtrack	Concert Band w/soloist	C-981						
 Carnival of Venice (Tuba Solo)	Baptist & Arban	Domek, Richard									Concert Band w/soloist	C-982						
 Bandarama	Chenette, Louis Fred										Concert Band	C-983						
-October	Whitacre, Eric		Hal Leonard Corporation			5					Concert Band	C-984						
+October	Whitacre, Eric		Hal Leonard Corporation			5					Concert Band	C-984				2023-10-10		
 Flight	Balmages, Brian		FJH Music Company, Inc.			5					Concert Band	C-987						
 Persuasion (Alto sax solo)	Nestico, Sammy		Alfred Publishing Company			3					Concert Band w/soloist	C-988						
 Ponderosa March	King, Karl L.									March	Concert Band	C-989						
@@ -3127,7 +3130,6 @@ Yours Is My Heart Alone	Lehar, Franz										Concert Band	F-161
 War March of the Priests (from Athalia)	Mendelssohn, Felix	Lake, Mayhew L.	Carl Fischer, LLC								Concert Band	F-162						
 State Fair (Highlights from)	Rodgers, Richard	Yoder, Paul	Williamson Music Co.							Musical	Concert Band	F-163						
 Stars in a Velvety Sky (Cornet solo)	Clarke, Herbert L.		Carl Fischer, LLC								Concert Band w/soloist	F-164						
-Anchors Aweigh	Zimmerman, Charles A.	Briegel, George F.	Robbins Music Corporation							Patriotic	Concert Band	F-165						
 Clair de Lune	Debussy, Claude	Weiss, Anton									Concert Band	F-166						
 Popular Hit Medley (Do You Ever Think of Me, Whispering)	Various	Yoder, Paul	Miller Music Corporation								Concert Band	F-167						
 Rio Rita	Tierney, Harry	Brockton, Lester	Carl Fischer, LLC								Concert Band	F-168						
@@ -3730,25 +3732,46 @@ Doin' Everything With You	Mangione, Chuck	Mangione, Chuck	Gates Music, Inc.					
 Disapproachment	Foster, Frank	Foster, Frank									Jazz Band	J-360						
 Don't Git Sassy	Jones, Thad	Jones, Thad	Kendor Music, Inc.								Jazz Band	J-361						
 Dichotomy	Labarbera, John	Labarbera, John									Jazz Band	J-362						
+Walk Don't Run	Rogers, Shorty	Rogers, Shorty									Jazz Band	J-362						
 Downtown	Hatch, Tony	Osser, Glenn									Jazz Band	J-363						
+Waltz Of The Prophets	Barton, Dee	Niehaus, Lennie									Jazz Band	J-363						
 Desiderata											Jazz Band	J-364						
+Where Or When											Jazz Band	J-364						
+Where Or When 			Kings Road Music								Jazz Band	J-364						
 Dancing In The Dark	Schwartz, Arthur	Mayers, Bernard	Harms Inc.								Jazz Band	J-365						
+Where Do The Stars Go?											Jazz Band	J-365						
 "The Dancing Puppet"	Russo, William	Russo, William									Jazz Band	J-366						
+Waterfront											Jazz Band	J-366						
 Dark Eyes											Jazz Band	J-367						
+Wild Onion	Fenno, Dick	Fenno, Dick									Jazz Band	J-367						
 Design For Autumn	Dedrick, Art	Dedrick, Art	Kendor Music, Inc.								Jazz Band	J-368						
+Walls Of Jericho	Newson, Tommy	Newson, Tommy									Jazz Band	J-368						
 Diggin'	Mutchler, Ralph	Mutchler, Ralph									Jazz Band	J-369						
+Windy	Friedman, Ruthann	Friedman, Ruthann									Jazz Band	J-369						
 Do It!	Mutchler, Ralph	Mutchler, Ralph									Jazz Band	J-370						
+Winchester Cathedral	Stephens, Geoff	Denning, Wade									Jazz Band	J-370						
 Don't Go 'Way	Cobine, Al	Cobine, Al	Kendor Music, Inc.								Jazz Band	J-371						
+Way I Feel About You	Severinsen, Carl	Newsom, Tom									Jazz Band	J-371						
 Drigonesque	Katzman, Louis	Katzman, Louis	Alfred Publishing Company								Jazz Band	J-372						
+Will It Go Round In Circles	Preston, Billy	Lowden, Robert									Jazz Band	J-372						
 Dusk											Jazz Band	J-373						
+Where It's At	Niehaus, Lennie	Niehaus, Lennie									Jazz Band	J-373						
 Dust											Jazz Band	J-374						
+Winds Of Change	Marcus, Wade	Marcus, Wade									Jazz Band	J-374						
 East of the Sun											Jazz Band	J-375						
+Willow Gold	Nestico, Sammy	Nestico, Sammy									Jazz Band	J-375						
 Eine Kleine Bluesmusik	Stegmeyer, William	Stegmeyer, William									Jazz Band	J-376						
+Yesterthoughts	Richards, Johnny	Richards, Johnny									Jazz Band	J-376						
 Embracable You		Bacon, Wally									Jazz Band	J-377						
+You'll Be There	Fenno, Dick	Fenno, Dick									Jazz Band	J-377						
 End of a Love Affair 	Redding, Edward	Redding, Edward									Jazz Band	J-378						
+Younger Than Springtime											Jazz Band	J-378						
 Entrée to André	Sherman, Garry	Sherman, Garry	Sam Fox Publishing Company, Inc.								Jazz Band	J-379						
+Yesterdays											Jazz Band	J-379						
 Everywhere	Harris, Bill	Bishop, Joe									Jazz Band	J-380						
+You Make Me Feel So Young	Myrow, Josef	Riddle, Nelson									Jazz Band	J-380						
 Moanin'	Timmons, Bobby	Dankworth, Johnny									Jazz Band	J-381						
+You Are The Sunshine Of My Life	Stevie Wonder	Lowden, Bob									Jazz Band	J-381						
 Moustache	Richards, Johnny	RIchards, Johnny									Jazz Band	J-382						
 Mod Squad	Hagen, Earle	Pemberton, Roger									Jazz Band	J-383						
 MacArthur Park	Webb, Jimmy	Barton, Dee	Canopy Music, Inc.								Jazz Band	J-384						
@@ -3919,6 +3942,85 @@ Left Bank Express	Jackson, Pete	Jackson, Pete									Jazz Band	J-549
 La Nevada Blues	Evans, Gil	Evans, Gil									Jazz Band	J-550						
 La Suerte De Los Tontos	Richards, Johnny	Niehaus, Lennie									Jazz Band	J-551						
 Lauara											Jazz Band	J-552						
+Leap Frog	Garland, Joe	Martin, Lowell	Leeds Music Company								Jazz Band	J-553						
+Lena And Lenny											Jazz Band	J-554						
+Let It Rain											Jazz Band	J-555						
+Liebestraum	Liszt, Franz	Dedrick, Art									Jazz Band	J-556						
+Lights And Shadows	Paparelli, Frank	Bone, Red	Leeds Music Company								Jazz Band	J-557						
+Limbo Rock	Sheldon, Jon	Whibley, Burnell									Jazz Band	J-558						
+Little Jazz Boogie	Eldridge, Roy	Harding, Buster									Jazz Band	J-559						
+Londonderry Air											Jazz Band	J-560						
+Love Song	Menza, Don	Menza, Don									Jazz Band	J-561						
+Lover											Jazz Band	J-562						
+Lyric Mood	LaPorta, John	LaPorta, John									Jazz Band	J-563						
+Tambo	Spera, Dominic	Spera, Dominic	Hal Leonard Corporation								Jazz Band	J-564						
+Soft Stuff											Jazz Band	J-565						
+Spring Fever											Jazz Band	J-566						
+Sunny Side											Jazz Band	J-567						
+Spanish John	Homer, Ben	Homer, Ben									Jazz Band	J-568						
+Swift As The Wind	Dameron, Tadd	Dameron, Tadd									Jazz Band	J-569						
+Somethin' Stupid	Parks, Carson	Rogers, Milt									Jazz Band	J-570						
+Soul Bossa Nova	Jones, Quincy	Jones, Quincy									Jazz Band	J-571						
+The Soul Of '76	Baker, David	Baker, David									Jazz Band	J-572						
+Stardust - Kitchen											Jazz Band	J-573						
+Stardust											Jazz Band	J-574						
+Square Dances											Jazz Band	J-575						
+Summer											Jazz Band	J-576						
+Summertime											Jazz Band	J-577						
+Summertime		Priest, Lyle									Jazz Band	J-578						
+Summertime											Jazz Band	J-579						
+Shooting Star	Gold, Marty	Gold, Marty	Alfred Publishing Company								Jazz Band	J-580						
+So Little Time	Miller, Ken	Miller, Ken									Jazz Band	J-581						
+Sweet Lorraine											Jazz Band	J-582						
+Take It And Git											Jazz Band	J-583						
+Theme											Jazz Band	J-584						
+Tall Cotton	Nestico, Sammy	Nestico, Sammy	Hal Leonard Corporation								Jazz Band	J-585						
+Three For You	Freedman, Bob	Freedman, Bob									Jazz Band	J-586						
+Turtles	Mancini, Henry	Mancini, Henry	Kendor Music, Inc.								Jazz Band	J-587						
+Trombeguine											Jazz Band	J-588						
+Two Shades Of Autumn											Jazz Band	J-589						
+Tiare	Hanna, Ken	Hanna, Ken									Jazz Band	J-590						
+Mister Five By Five	Raye, Don	Henderson, Luther	Leeds Music Company								Jazz Band	J-591						
+Torpedo Junction	Schoen, Vie	Schoen, Vie	Leeds Music Company								Jazz Band	J-592						
+Truck Driver's Revenge											Jazz Band	J-593						
+The Three Jacks	Walters, Harold	Walters, Harold	Ludwig Music Publishing								Jazz Band	J-594						
+That Old Black Magic											Jazz Band	J-595						
+This Is Loneliness	Wiggins, Art	Wiggins, Art									Jazz Band	J-596						
+This Is My Song	Chaplin, Charles	Chaplin, Charles									Jazz Band	J-597						
+Theme And Variations	Holman, Bill	Niehaus, Lennie									Jazz Band	J-598						
+Two By Two	Laporta, John	Laporta, John									Jazz Band	J-599						
+Tiger Rag	Kincaide, Deane	Kincaide, Deane									Jazz Band	J-600						
+Time's Up	Barker, Warren	Barker, Warren									Jazz Band	J-601						
+Talk Of The Town											Jazz Band	J-602						
+Tenor Fantasy	Schindell, Hy	Schindell, Hy									Jazz Band	J-603						
+Tijuana Bamba	Warrington, John	Warrington, John									Jazz Band	J-604						
+Tenderly											Jazz Band	J-605						
+Tonsillectomy	Handy, George	McKusick, Hal									Jazz Band	J-606						
+Tijuana Taxi	Coleman, Bud	Alpert, Herb									Jazz Band	J-607						
+Tribute To Brown	DeCamp, Carroll	DeCamp, Carroll	Studio P.R.								Jazz Band	J-608						
+Tribute To Benny	DeCamp, Carroll	DeCamp, Carroll	Kendor Music, Inc.								Jazz Band	J-609						
+Try To Remember 	Schmidt, Harvey	Cassey, Chuck									Jazz Band	J-610						
+Take A Walk	Richards, Johnny 	Richards, Johnny	Peer International Corporation								Jazz Band	J-611						
+Theme From Shaft	Hayes, Isaac	Levitt, Rod									Jazz Band	J-612						
+Tiger Of San Pedro	Labarbera, John	Labarbera, John									Jazz Band	J-613						
+Ten To One	Richards, Johnny	Richards, Johnny	Peer International Corporation								Jazz Band	J-614						
+Time For Us	Rota, Nino	Lewis, Mike	Famous Music Publishing								Jazz Band	J-615						
+Tinsel	Maiden, Willie	Maiden, Willie									Jazz Band	J-616						
+Trombone Soliloquy	Seibert, Bob	Seibert, Bob									Jazz Band	J-617						
+Uptown Walk											Jazz Band	J-618						
+Vangie	Taylor, Jeff	Taylor, Jeff	William Allen Music, Inc.								Jazz Band	J-619						
+Virginia Creeper	Seibert, Bob	Seibert, Bob									Jazz Band	J-620						
+Velvet Gloves	Brown, Marshall	Brown, Marshall									Jazz Band	J-621						
+Up, Up, And Away	Webb, Jim	Rood, Hale	Johnny R. Music Company								Jazz Band	J-622						
+Watermelon Man	Hancock, Herbie	Barone, Mike									Jazz Band	J-623						
+What Have They Done To My Song, Ma?	Hooper, Les	Hooper, Les									Jazz Band	J-624						
+Where Is The Love	MacDonald, Ralph	Broadbent, Alan	Antisia Music, Inc.								Jazz Band	J-625						
+Win, Place, Or Blow	Donahue, Sam	Donahue, Sam									Jazz Band	J-626						
+Woodchopper's Ball	Herman, Woody	Bishop, Joe	Leeds Music Company								Jazz Band	J-627						
+World Is Comin' To A Start	Geld, Udell	May, Billy									Jazz Band	J-628						
+The Windmills Of Your Mind	Bergman, Alan	Warrington, Johnny	United Artists								Jazz Band	J-629						
+Warm Valley											Jazz Band	J-630						
+Warm Hearted Blue	Lateef, Yusef	Heath, James									Jazz Band	J-631						
 The Waltz You Saved For Me	King, Wayne	Mason, Jack									Jazz Band	J-1286						
 The Wedding Samba	Ellstein, Abraham	Small, Allan									Jazz Band	J-1287						
 What Did I Do?	Myrow, Josef	Warrington, Johnny									Jazz Band	J-1288						
