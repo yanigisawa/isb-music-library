@@ -91,7 +91,7 @@ const isb_library ={
       "Library ID": "A-9"
     },
     {
-      "Title": "Alleluia (from Cantata, ",
+      "Title": "Alleluia (from Cantata Exsulate Jubilate) Conet Solo",
       "Composer": "Mozart, Wolfgang A. ",
       "Arranger": "Gordon, Philip ",
       "Publisher": "Kendor Music, Inc.",
@@ -102,7 +102,7 @@ const isb_library ={
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
-      "Voicing": "Concert Band",
+      "Voicing": "Concert Band w/soloist",
       "Library ID": "A-10"
     },
     {
@@ -223,11 +223,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "A-18",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-10-26"
+      "Library ID": "A-18"
     },
     {
       "Title": "American Overture for Band",
@@ -242,11 +238,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Overture",
       "Voicing": "Concert Band",
-      "Library ID": "A-19",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-08-28"
+      "Library ID": "A-19"
     },
     {
       "Title": "Amparito Roca",
@@ -261,11 +253,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Paso Doble",
       "Voicing": "Concert Band",
-      "Library ID": "A-20",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2018-10-09"
+      "Library ID": "A-20"
     },
     {
       "Title": "Andalucia",
@@ -415,11 +403,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-33",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-10-10"
+      "Library ID": "A-33"
     },
     {
       "Title": "Autumn (from The Seasons)",
@@ -434,11 +418,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-34",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-10-10"
+      "Library ID": "A-34"
     },
     {
       "Title": "Aylesford Variations",
@@ -726,7 +706,7 @@ const isb_library ={
       "Library ID": "A-53"
     },
     {
-      "Title": "Berceuse and Finale from The Firebird",
+      "Title": "Berceuse and Finale (from The Firebird)",
       "Composer": "Stravinsky, Igor ",
       "Arranger": "Goldman, Richard Franko ",
       "Publisher": "Edward B. Marks Music Company",
@@ -802,7 +782,7 @@ const isb_library ={
     },
     {
       "Title": "Blue Danube Waltz",
-      "Composer": "Strauss, Johann, Jr.",
+      "Composer": "Strauss, Johann",
       "Arranger": "Leedzen, Erik",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
@@ -876,21 +856,19 @@ const isb_library ={
       "Library ID": "A-63"
     },
     {
-      "Title": "Tribute to Harry James, A",
+      "Title": "Tribute to Harry James, A - e",
       "Composer": "Various",
       "Arranger": "Nestico, Sammy",
       "Publisher": "Hal Leonard Corporation",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Jazz",
       "Voicing": "Concert Band",
-      "Library ID": "A-64",
-      "Date Purchased": "2023-04-03",
-      "Purchased From": "J.W. Pepper"
+      "Library ID": "A-64"
     },
     {
       "Title": "Bohemia Girl",
@@ -953,23 +931,19 @@ const isb_library ={
       "Library ID": "A-68"
     },
     {
-      "Title": "Song of Hope (Trumpet solo, duet or trio)",
+      "Title": "Song of Hope (Trumpet solo, duet or trio) - e",
       "Composer": "Meechan, Peter",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "A-69",
-      "Date Purchased": "2022-08-01",
-      "Purchased From": "Peter Meechan Music",
-      "Performance Info": "",
-      "Last Performance Date": "2022-11-15"
+      "Library ID": "A-69"
     },
     {
       "Title": "Brighton Beach",
@@ -1017,14 +991,14 @@ const isb_library ={
       "Library ID": "A-72"
     },
     {
-      "Title": "Bye Bye Birdie selection",
+      "Title": "Bye Bye Birdie (Overture from) - e",
       "Composer": "Strouse, Charles",
       "Arranger": "Cacavas, John",
       "Publisher": "Edwin F. Kalmus & Company Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Musical",
@@ -1122,34 +1096,19 @@ const isb_library ={
       "Library ID": "A-79"
     },
     {
-      "Title": "Moon River (Vocal solo)",
+      "Title": "Moon River (Vocal or Instrumental solo) - e",
       "Composer": "Mancini, Henry",
       "Arranger": "Brown, Michael",
       "Publisher": "Hal Leonard Corporation",
       "Copies": "",
       "Cost": "",
       "Grade Level": "3",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band w/soloist",
       "Library ID": "A-80"
-    },
-    {
-      "Title": "Caprice Italien",
-      "Composer": "Tchaikovsky, Piotr Ilyic",
-      "Arranger": "Laurendeau, L.P.",
-      "Publisher": "",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "Concert Band",
-      "Library ID": "A-82"
     },
     {
       "Title": "Capriol Suite",
@@ -1194,11 +1153,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "A-85",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-11-15"
+      "Library ID": "A-85"
     },
     {
       "Title": "Carnival of Venice",
@@ -1306,7 +1261,7 @@ const isb_library ={
       "Library ID": "A-92"
     },
     {
-      "Title": "Two Old Maids, The - Humoristic Variations",
+      "Title": "Two Old Maids, The (Humoristic Variations)",
       "Composer": "Newman",
       "Arranger": "Moses-Tobani, Theo.",
       "Publisher": "",
@@ -1511,7 +1466,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Ballet",
       "Voicing": "Concert Band",
       "Library ID": "A-106"
     },
@@ -1588,12 +1543,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Musical",
       "Voicing": "Concert Band",
-      "Library ID": "A-111",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No score"
+      "Library ID": "A-111"
     },
     {
       "Title": "Cole Porter, A Symphonic Portrait",
@@ -1608,11 +1558,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Musical",
       "Voicing": "Concert Band",
-      "Library ID": "A-112",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-04-30"
+      "Library ID": "A-112"
     },
     {
       "Title": "Colossus of Columbia",
@@ -1685,7 +1631,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Musical",
       "Voicing": "Concert Band",
       "Library ID": "A-119"
     },
@@ -1826,7 +1772,7 @@ const isb_library ={
     },
     {
       "Title": "Folk Song Suite (For Military Band)",
-      "Composer": "Vaughan-Williams, Ralph",
+      "Composer": "Williams, Ralph Vaughan",
       "Arranger": "",
       "Publisher": "Boosey & Hawkes, Inc.",
       "Copies": "",
@@ -1837,11 +1783,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-129",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "A-129"
     },
     {
       "Title": "Folk Suite for Band",
@@ -1976,12 +1918,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-138",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing parts"
+      "Library ID": "A-138"
     },
     {
       "Title": "Der Freischutz Overture",
@@ -2209,7 +2146,7 @@ const isb_library ={
       "Library ID": "A-155"
     },
     {
-      "Title": "Golden Ear, The (Paso Doble)",
+      "Title": "Golden Ear, The",
       "Composer": "San Miguel, Mariano",
       "Arranger": "Walters, Harold L.",
       "Publisher": "Rubank",
@@ -2219,7 +2156,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Paso Doble",
       "Voicing": "Concert Band",
       "Library ID": "A-157"
     },
@@ -2251,12 +2188,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "A-159",
-      "Date Purchased": "2023-05-16",
-      "Purchased From": "Sheet Music Plus",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01",
-      "Comments": "Flex Band Arrangement"
+      "Library ID": "A-159"
     },
     {
       "Title": "Russian Dance (Gopak)",
@@ -2331,11 +2263,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-164",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-02-13"
+      "Library ID": "A-164"
     },
     {
       "Title": "Theme and Tirade",
@@ -2470,13 +2398,11 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-173",
-      "Date Purchased": "2022-02-14",
-      "Purchased From": "J.W. Pepper"
+      "Library ID": "A-173"
     },
     {
       "Title": "Sine Nomine (Processional March in the English Style)",
-      "Composer": "Vaughan-Williams, Ralph",
+      "Composer": "Williams, Ralph Vaughan",
       "Arranger": "Houseknecht, Bruce H.",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
@@ -2565,23 +2491,19 @@ const isb_library ={
       "Library ID": "A-179"
     },
     {
-      "Title": "Redwoods, The",
+      "Title": "Redwoods, The - e",
       "Composer": "Galante, Rossano",
       "Arranger": "",
       "Publisher": "Associated Music Publishers, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-180",
-      "Date Purchased": "2022-02-14",
-      "Purchased From": "J.W. Pepper",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
+      "Library ID": "A-180"
     },
     {
       "Title": "Huntingtower (Ballad for Band)",
@@ -2629,17 +2551,17 @@ const isb_library ={
       "Library ID": "A-183"
     },
     {
-      "Title": "I Got Rhythm (Featuring the Percussion Section)",
+      "Title": "I Got Rhythm (Featuring the Percussion Section) - e",
       "Composer": "Gershwin, George",
       "Arranger": "Moss, Leonard",
       "Publisher": "New World Enterprises of Montrose",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "Pops",
+      "Music Type": "Musical",
       "Voicing": "Concert Band",
       "Library ID": "A-184"
     },
@@ -2656,11 +2578,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Pops",
       "Voicing": "Concert Band",
-      "Library ID": "A-185",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
+      "Library ID": "A-185"
     },
     {
       "Title": "Symphony #3 (Ilya Muronetz, 1st Movement)",
@@ -2798,7 +2716,7 @@ const isb_library ={
       "Library ID": "A-195"
     },
     {
-      "Title": "Intermezzo, from Vanessa",
+      "Title": "Intermezzo (from Vanessa)",
       "Composer": "Barber, Samuel",
       "Arranger": "Beeler, Walter",
       "Publisher": "G. Schirmer, Inc.",
@@ -3098,14 +3016,14 @@ const isb_library ={
       "Library ID": "A-215"
     },
     {
-      "Title": "Jupiter (from The Planets)",
+      "Title": "Jupiter (from The Planets) - e",
       "Composer": "Holst, Gustav",
       "Arranger": "",
       "Publisher": "Boosey & Hawkes, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -3383,7 +3301,7 @@ const isb_library ={
       "Library ID": "A-236"
     },
     {
-      "Title": "Fugue in G Minor (The Little)",
+      "Title": "Fugue in G minor (The Little)",
       "Composer": "Bach, Johann Sebastian",
       "Arranger": "Cailliet, Lucien",
       "Publisher": "Elkan- Vogel Co.",
@@ -3693,7 +3611,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Folk",
       "Voicing": "Concert Band",
       "Library ID": "A-256"
     },
@@ -3800,15 +3718,10 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Opera",
       "Voicing": "Concert Band",
-      "Library ID": "A-263",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Score"
+      "Library ID": "A-263"
     },
     {
-      "Title": "Coronation March (from Le Prophete)",
+      "Title": "Coronation March (from Le Prophete) *",
       "Composer": "Meyerbeer, Giacone",
       "Arranger": "Lake, Mathew L. ",
       "Publisher": "Carl Fischer, LLC",
@@ -3823,7 +3736,7 @@ const isb_library ={
       "Library ID": "A-264"
     },
     {
-      "Title": "Tannhauser March",
+      "Title": "Tannhauser March *",
       "Composer": "Wagner, Richard",
       "Arranger": "Lake, Mathew L. ",
       "Publisher": "Carl Fischer, LLC",
@@ -3833,7 +3746,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Opera",
       "Voicing": "Concert Band",
       "Library ID": "A-264"
     },
@@ -4178,7 +4091,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Dixieland",
       "Voicing": "Concert Band",
       "Library ID": "A-288"
     },
@@ -4450,11 +4363,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Folk",
       "Voicing": "Concert Band",
-      "Library ID": "A-304",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "A-304"
     },
     {
       "Title": "Concerto for Euphonium",
@@ -4649,11 +4558,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Patriotic",
       "Voicing": "Concert Band",
-      "Library ID": "A-316",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "A-316"
     },
     {
       "Title": "Fantasia and Fugue in C minor",
@@ -4731,14 +4636,14 @@ const isb_library ={
       "Library ID": "A-321"
     },
     {
-      "Title": "Fantasy on American Sailing Songs",
-      "Composer": "Grundman, Clare E.",
+      "Title": "Fantasy on American Sailing Songs - e",
+      "Composer": "Grundman, Clare",
       "Arranger": "",
       "Publisher": "Boosey & Hawkes, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "3",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -4791,14 +4696,14 @@ const isb_library ={
       "Library ID": "A-325"
     },
     {
-      "Title": "Light Eternal, The",
+      "Title": "Light Eternal, The - e",
       "Composer": "Swearingen, James",
       "Arranger": "",
       "Publisher": "C.L. Barnhouse Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -4833,11 +4738,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Rock",
       "Voicing": "Concert Band",
-      "Library ID": "A-328",
-      "Date Purchased": "2022-02-14",
-      "Purchased From": "J.W. Pepper",
-      "Performance Info": "",
-      "Last Performance Date": "2022-04-30"
+      "Library ID": "A-328"
     },
     {
       "Title": "La Feria  (Suite Espanola)",
@@ -5030,7 +4931,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Opera",
       "Voicing": "Concert Band",
       "Library ID": "A-342"
     },
@@ -5092,11 +4993,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-347",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "A-347"
     },
     {
       "Title": "Marche Joyeuse (a Vincent D'Indy)",
@@ -5141,11 +5038,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Patriotic",
       "Voicing": "Concert Band",
-      "Library ID": "A-350",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2018-05-15"
+      "Library ID": "A-350"
     },
     {
       "Title": "March and Scherzo (from Love for Three Oranges)",
@@ -5548,7 +5441,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Ballad",
       "Voicing": "Concert Band",
       "Library ID": "A-377"
     },
@@ -5628,14 +5521,14 @@ const isb_library ={
       "Library ID": "A-382"
     },
     {
-      "Title": "Moon River",
+      "Title": "Moon River - e",
       "Composer": "Mancini, Henry ",
       "Arranger": "Bilik, Jerry H.",
       "Publisher": "Famous Music Publishing",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Soundtrack",
@@ -5698,7 +5591,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Jazz",
       "Voicing": "Concert Band",
       "Library ID": "A-387"
     },
@@ -5848,7 +5741,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Waltz",
       "Voicing": "Concert Band",
       "Library ID": "A-398"
     },
@@ -6495,11 +6388,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-441",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-11-15"
+      "Library ID": "A-441"
     },
     {
       "Title": "Passacaglia",
@@ -6847,7 +6736,7 @@ const isb_library ={
       "Library ID": "A-464"
     },
     {
-      "Title": "Pomp and Circumstance No. 5 *",
+      "Title": "Pomp and Circumstance #5 *",
       "Composer": "Elgar, Edward",
       "Arranger": "Brown, Conway",
       "Publisher": "Boosey & Hawkes, Inc.",
@@ -7177,7 +7066,7 @@ const isb_library ={
       "Library ID": "A-485"
     },
     {
-      "Title": "Prince Igor Ballet Musidc",
+      "Title": "Prince Igor Ballet Music",
       "Composer": "Borodin, Alexander",
       "Arranger": "",
       "Publisher": "Chappell Music Company",
@@ -7187,7 +7076,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Ballet",
       "Voicing": "Concert Band",
       "Library ID": "A-486"
     },
@@ -7444,11 +7333,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-502",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-02-07"
+      "Library ID": "A-502"
     },
     {
       "Title": "Robin Hood Suite",
@@ -7808,11 +7693,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-526",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-11-15"
+      "Library ID": "A-526"
     },
     {
       "Title": "Scheherazade (III & IV)",
@@ -7877,7 +7758,7 @@ const isb_library ={
     {
       "Title": "Die Schonbrunner Waltzes",
       "Composer": "Lanner, Josef",
-      "Arranger": "Weingurtner, Fr.",
+      "Arranger": "Weingartner, Fr.",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -7995,14 +7876,14 @@ const isb_library ={
       "Library ID": "A-538"
     },
     {
-      "Title": "Seascape",
+      "Title": "Seascape - e",
       "Composer": "Osser, Glenn",
       "Arranger": "",
       "Publisher": "Leeds Music Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -8232,12 +8113,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Rock",
       "Voicing": "Concert Band",
-      "Library ID": "A-554",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "A-554"
     },
     {
       "Title": "Slavonic Rhapsody No. 1",
@@ -8297,12 +8173,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-558",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Oboe solo"
+      "Library ID": "A-558"
     },
     {
       "Title": "Solvejg's Song (from Peer Gynt)",
@@ -8452,12 +8323,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "A-568",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "5/23 On Loan Keith Kunda"
+      "Library ID": "A-568"
     },
     {
       "Title": "March Ent'racte (from Queen of Spades)",
@@ -8475,14 +8341,14 @@ const isb_library ={
       "Library ID": "A-569"
     },
     {
-      "Title": "South Pacific: Selections",
+      "Title": "South Pacific: Selections - e",
       "Composer": "Rodgers, Richard",
       "Arranger": "Leidzen, Erik",
       "Publisher": "Williamson Music Co.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Musical",
@@ -8610,7 +8476,7 @@ const isb_library ={
       "Library ID": "A-579"
     },
     {
-      "Title": "Stradella OVerture",
+      "Title": "Stradella Overture",
       "Composer": "Flotow, Franz von",
       "Arranger": "Lake, Mayhew L.",
       "Publisher": "Carl Fischer, LLC",
@@ -8620,7 +8486,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "A-580"
     },
@@ -8745,7 +8611,7 @@ const isb_library ={
       "Library ID": "A-588"
     },
     {
-      "Title": "Overture and Allegro from Le Sultane",
+      "Title": "Overture and Allegro (from Le Sultane)",
       "Composer": "Couperin/Milhaud",
       "Arranger": "Walker, Mark",
       "Publisher": "Elkan- Vogel Co.",
@@ -8967,12 +8833,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "A-605",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Score"
+      "Library ID": "A-605"
     },
     {
       "Title": "Symphony #1 in G minor (Finale)",
@@ -8987,12 +8848,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-606",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "With Antiphonal Brass Choirs"
+      "Library ID": "A-606"
     },
     {
       "Title": "Symphony #2 (Romantic)",
@@ -9055,7 +8911,7 @@ const isb_library ={
       "Library ID": "A-611"
     },
     {
-      "Title": "Symphony in C Minor (2nd Movement Larghetto)",
+      "Title": "Symphony in C minor (2nd Movement Larghetto)",
       "Composer": "Williams, Ernest",
       "Arranger": "",
       "Publisher": "",
@@ -9190,7 +9046,7 @@ const isb_library ={
       "Library ID": "A-621"
     },
     {
-      "Title": "Scene (from Sawn Lake)",
+      "Title": "Scene (from Swan Lake)",
       "Composer": "Tchaikovsky, Peter Ilyich",
       "Arranger": "Gardner, Maurice",
       "Publisher": "Staff Music Publishing Co. Inc.",
@@ -9277,12 +9133,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-627",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-02-07",
-      "Comments": "No score"
+      "Library ID": "A-627"
     },
     {
       "Title": "Tchaikovsky Waltzes",
@@ -9372,12 +9223,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "A-633",
-      "Date Purchased": "2023-05-01",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01",
-      "Comments": "GD"
+      "Library ID": "A-633"
     },
     {
       "Title": "Theme and Variations",
@@ -9395,7 +9241,7 @@ const isb_library ={
       "Library ID": "A-634"
     },
     {
-      "Title": "Overture (from Titus Opera",
+      "Title": "Overture (from Titus Opera)",
       "Composer": "Mozart, Wolfgang A.",
       "Arranger": "Lotterer, Gustav",
       "Publisher": "",
@@ -9527,16 +9373,11 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "A-643",
-      "Date Purchased": "2023-06-02",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01",
-      "Comments": "GD"
+      "Library ID": "A-643"
     },
     {
       "Title": "Toccata Marziale",
-      "Composer": "Vaughan-Williams, Ralph",
+      "Composer": "Williams, Ralph Vaughan",
       "Arranger": "",
       "Publisher": "Boosey & Hawkes, Inc.",
       "Copies": "",
@@ -9547,11 +9388,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-644",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2018-10-09"
+      "Library ID": "A-644"
     },
     {
       "Title": "Train Ride (from Winter Holiday)",
@@ -9569,20 +9406,19 @@ const isb_library ={
       "Library ID": "A-645"
     },
     {
-      "Title": "On An American Spiritual",
+      "Title": "On An American Spiritual - e",
       "Composer": "Holsinger, David R.",
       "Arranger": "",
       "Publisher": "TRN Music Publisher",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Sacred",
       "Voicing": "Concert Band",
-      "Library ID": "A-646",
-      "Date Purchased": "2023-04-03"
+      "Library ID": "A-646"
     },
     {
       "Title": "Trauermusik",
@@ -9640,7 +9476,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Waltz",
       "Voicing": "Concert Band",
       "Library ID": "A-650"
     },
@@ -9687,11 +9523,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-653",
-      "Date Purchased": "2022-03-03",
-      "Purchased From": "J.W. Pepper",
-      "Performance Info": "",
-      "Last Performance Date": "2022-05-17"
+      "Library ID": "A-653"
     },
     {
       "Title": "Triumphal March (from Quo Vadis)",
@@ -10231,11 +10063,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Musical",
       "Voicing": "Concert Band",
-      "Library ID": "A-690",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-02-07"
+      "Library ID": "A-690"
     },
     {
       "Title": "Finale (from Symphony #8)",
@@ -10283,8 +10111,8 @@ const isb_library ={
       "Library ID": "A-693"
     },
     {
-      "Title": "Wine, Women, and Song",
-      "Composer": "Strauss Jr, Johann",
+      "Title": "Wine, Women and Song",
+      "Composer": "Strauss Jr., Johann",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -10353,7 +10181,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "Soundtrack",
+      "Music Type": "Patriotic",
       "Voicing": "Concert Band",
       "Library ID": "A-698"
     },
@@ -10403,7 +10231,7 @@ const isb_library ={
       "Library ID": "A-701"
     },
     {
-      "Title": "Zuegnung (Dedication) OP 10",
+      "Title": "Zueignung (Dedication) OP 10",
       "Composer": "Strauss, Richard",
       "Arranger": "Davis, Albert Oliver ",
       "Publisher": "Ludwig Music Publishing",
@@ -10638,7 +10466,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Dixieland",
       "Voicing": "Concert Band",
       "Library ID": "A-717"
     },
@@ -10730,12 +10558,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-724",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Dedicated to Dr. Ronald Gregory and the IU Symphonic Band"
+      "Library ID": "A-724"
     },
     {
       "Title": "Ballet Music from William Tell",
@@ -10888,9 +10711,9 @@ const isb_library ={
       "Library ID": "A-734"
     },
     {
-      "Title": "Festive Overture, OP 96",
+      "Title": "Festive Overture, Opus 96",
       "Composer": "Shostakovich, Dmitri",
-      "Arranger": "Hunsberger, David",
+      "Arranger": "Hunsberger, Donald",
       "Publisher": "MCA",
       "Copies": "",
       "Cost": "",
@@ -10975,8 +10798,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Pops",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "A-740",
-      "Date Purchased": "2022-08-24"
+      "Library ID": "A-740"
     },
     {
       "Title": "Concertante",
@@ -11069,23 +10891,19 @@ const isb_library ={
       "Library ID": "A-746"
     },
     {
-      "Title": "Choreography",
+      "Title": "Choreography - e",
       "Composer": "Sheldon, Robert",
       "Arranger": "",
       "Publisher": "Alfred Publishing Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "3",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-747",
-      "Date Purchased": "2022-12-07",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-02-07"
+      "Library ID": "A-747"
     },
     {
       "Title": "Colas Breugnon Overture",
@@ -11433,7 +11251,7 @@ const isb_library ={
       "Library ID": "A-770"
     },
     {
-      "Title": "Suite in A Minor (Movement 3) (Flute solo)",
+      "Title": "Suite in A minor (Movement 3) (Flute solo)",
       "Composer": "Telemann, Georg Philipp",
       "Arranger": "Reed, Alfred",
       "Publisher": "Southern Music Company",
@@ -11448,7 +11266,7 @@ const isb_library ={
       "Library ID": "A-771"
     },
     {
-      "Title": "Prelude in B Minor",
+      "Title": "Prelude in B minor",
       "Composer": "Shostakovich, Dmitri",
       "Arranger": "Smith, Roger",
       "Publisher": "G. Schirmer, Inc.",
@@ -11463,7 +11281,7 @@ const isb_library ={
       "Library ID": "A-772"
     },
     {
-      "Title": "Prelude in D Minor",
+      "Title": "Prelude in D minor",
       "Composer": "Shostakovich, Dmitri",
       "Arranger": "Smith, Roger",
       "Publisher": "G. Schirmer, Inc.",
@@ -11503,7 +11321,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "A-775"
     },
@@ -11578,7 +11396,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Latin",
       "Voicing": "Concert Band",
       "Library ID": "A-780"
     },
@@ -11730,11 +11548,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-790",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-05-17"
+      "Library ID": "A-790"
     },
     {
       "Title": "Cakewalk Suite",
@@ -11897,7 +11711,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Ballet",
       "Voicing": "Concert Band",
       "Library ID": "A-801"
     },
@@ -11917,7 +11731,7 @@ const isb_library ={
       "Library ID": "A-802"
     },
     {
-      "Title": "Gipsy Baron Overture, The (Overture)",
+      "Title": "Gipsy Baron Overture, The",
       "Composer": "Strauss, Johann",
       "Arranger": "Nelson, Robert E.",
       "Publisher": "",
@@ -11927,7 +11741,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "A-803"
     },
@@ -11947,20 +11761,19 @@ const isb_library ={
       "Library ID": "A-804"
     },
     {
-      "Title": "Great Gate of Kiev, The (w/Organ solo)",
+      "Title": "Great Gate of Kiev, The (w/Organ solo) - e",
       "Composer": "Mussorgsky, Modest",
       "Arranger": "Naulais, Jerome",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "A-805",
-      "Date Purchased": "2023-04-01"
+      "Library ID": "A-805"
     },
     {
       "Title": "Shenandoah",
@@ -11978,7 +11791,7 @@ const isb_library ={
       "Library ID": "A-806"
     },
     {
-      "Title": "Gershwin (A Medley for Concert Band",
+      "Title": "Gershwin (A Medley for Concert Band)",
       "Composer": "Gershwin, George",
       "Arranger": "Bennett, Robert Russell",
       "Publisher": "New World Music Corporation",
@@ -12188,7 +12001,7 @@ const isb_library ={
       "Library ID": "A-820"
     },
     {
-      "Title": "Suite in A Minor Part 2 (Flute solo, soli)",
+      "Title": "Suite in A minor Part 2 (Flute solo, soli)",
       "Composer": "Telemann, Georg Philipp",
       "Arranger": "Reed, Alfred",
       "Publisher": "Southern Music Company",
@@ -12248,7 +12061,7 @@ const isb_library ={
       "Library ID": "A-825"
     },
     {
-      "Title": "Stardust (Vocal or Sax, Cl, Tmp solo)",
+      "Title": "Star Dust (Vocal or Sax, Cl, Tmp solo)",
       "Composer": "Carmichael, Hoagy",
       "Arranger": "Barker, Warren",
       "Publisher": "Mills Music, Inc.",
@@ -12260,9 +12073,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Pops",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "A-826",
-      "Date Purchased": "2023-04-03",
-      "Purchased From": "J.W. Pepper"
+      "Library ID": "A-826"
     },
     {
       "Title": "That's Entertainment",
@@ -12350,7 +12161,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "A-832"
     },
@@ -12415,7 +12226,7 @@ const isb_library ={
       "Library ID": "A-836"
     },
     {
-      "Title": "Finale from Symphony #1",
+      "Title": "Finale (from Symphony #1)",
       "Composer": "Brahms, Johannes",
       "Arranger": "Nelson, Robert B.",
       "Publisher": "FEMA Music Publications",
@@ -12430,7 +12241,7 @@ const isb_library ={
       "Library ID": "A-837"
     },
     {
-      "Title": "Finale from Symphony #4 in E Minor",
+      "Title": "Finale (from Symphony #4 in E minor)",
       "Composer": "Brahms, Johannes",
       "Arranger": "Fote, Richard",
       "Publisher": "Kendor Music, Inc.",
@@ -12517,12 +12328,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-843",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Bassoon, sax"
+      "Library ID": "A-843"
     },
     {
       "Title": "Final Waltz & Apothesis (Nutcracker) *",
@@ -12537,18 +12343,13 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "A-843",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Bassoon, Sax"
+      "Library ID": "A-843"
     },
     {
-      "Title": "Festive Overture",
-      "Composer": "Shostakovich, Dimitri",
-      "Arranger": "Hunsberger, Donald",
-      "Publisher": "MCA",
+      "Title": "Yellow Rose of Texas, The (Euphonium solo)",
+      "Composer": "Buckley, Lewis J.",
+      "Arranger": "",
+      "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -12556,7 +12357,7 @@ const isb_library ={
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
-      "Voicing": "Concert Band",
+      "Voicing": "Concert Band w/soloist",
       "Library ID": "A-844"
     },
     {
@@ -12635,7 +12436,7 @@ const isb_library ={
       "Library ID": "A-849"
     },
     {
-      "Title": "Suite in A Minor Part 1",
+      "Title": "Suite in A minor Part 1",
       "Composer": "Telemann, Georg Philipp",
       "Arranger": "Reed, Alfred",
       "Publisher": "Southern Music Company",
@@ -12710,7 +12511,7 @@ const isb_library ={
       "Library ID": "A-854"
     },
     {
-      "Title": "Sarabande (from French Suite D Minor)",
+      "Title": "Sarabande (from French Suite D minor)",
       "Composer": "Bach, Johann Sebastian",
       "Arranger": "",
       "Publisher": "Kendor Music, Inc.",
@@ -12870,12 +12671,12 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Folk",
       "Voicing": "Concert Band",
       "Library ID": "A-865"
     },
     {
-      "Title": "Prelude and Fugue in Bb Minor",
+      "Title": "Prelude and Fugue in Bb minor",
       "Composer": "Bach, Johann Sebastian",
       "Arranger": "Moehlmann, R.L.",
       "Publisher": "C.L. Barnhouse Company",
@@ -13085,14 +12886,14 @@ const isb_library ={
       "Library ID": "A-879"
     },
     {
-      "Title": "They Stood At the Edge of the Sky",
+      "Title": "They Stood At the Edge of the Sky - e",
       "Composer": "Barrett, Roland",
       "Arranger": "",
       "Publisher": "Wingert-Jones Publications",
       "Copies": "",
       "Cost": "",
-      "Grade Level": "",
-      "State List": "",
+      "Grade Level": "4",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -13235,7 +13036,7 @@ const isb_library ={
       "Library ID": "A-888"
     },
     {
-      "Title": "Alceste  Overture",
+      "Title": "Alceste Overture",
       "Composer": "Gluck, Christoph Willibald von",
       "Arranger": "Gordon, Philip",
       "Publisher": "Belwin-Mills Publishing Corp.",
@@ -13352,11 +13153,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Concert March",
       "Voicing": "Concert Band",
-      "Library ID": "A-896",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-03-14"
+      "Library ID": "A-896"
     },
     {
       "Title": "Concertino for Trumpet (III Movement) Trumpet solo",
@@ -13449,7 +13246,7 @@ const isb_library ={
       "Library ID": "A-902"
     },
     {
-      "Title": "Symphony in G Minor",
+      "Title": "Symphony in G minor",
       "Composer": "Mozart, Wolfgang A.",
       "Arranger": "Holcombe, Bill",
       "Publisher": "Charter Publications",
@@ -13566,8 +13363,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "A-910",
-      "Date Purchased": "2023-09-05"
+      "Library ID": "A-910"
     },
     {
       "Title": "Passacaglia, Chorale, and Scamper",
@@ -13630,7 +13426,7 @@ const isb_library ={
       "Library ID": "A-914"
     },
     {
-      "Title": "Armenian Dances, Part 1",
+      "Title": "Armenian Dances (Part 1)",
       "Composer": "Reed, Alfred ",
       "Arranger": "",
       "Publisher": "Sam Fox Publishing Company, Inc.",
@@ -13687,12 +13483,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "A-919",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Dedicated to Dominic Spera"
+      "Library ID": "A-919"
     },
     {
       "Title": "Sabbath Music",
@@ -13723,21 +13514,6 @@ const isb_library ={
       "Music Type": "",
       "Voicing": "Concert Band",
       "Library ID": "A-921"
-    },
-    {
-      "Title": "Battle of Trenton, The",
-      "Composer": "Hewitt, James",
-      "Arranger": "Elkus, Jonathan",
-      "Publisher": "",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "Patriotic",
-      "Voicing": "Concert Band",
-      "Library ID": "A-922"
     },
     {
       "Title": "President Garfield's Inagural March",
@@ -13935,7 +13711,7 @@ const isb_library ={
       "Library ID": "A-932"
     },
     {
-      "Title": "Piece in G Minor (Clarinet solo)",
+      "Title": "Piece in G minor (Clarinet solo)",
       "Composer": "Barat, J.F.",
       "Arranger": "Heim, Norman",
       "Publisher": "Kendor Music, Inc.",
@@ -14265,7 +14041,7 @@ const isb_library ={
       "Library ID": "A-953"
     },
     {
-      "Title": "Magic Flute (Suite from)",
+      "Title": "Magic Flute, The (Suite from)",
       "Composer": "Mozart, Wolfgang A.",
       "Arranger": "Hubbell, Fred M.",
       "Publisher": "Ludwig Music Publishing",
@@ -14275,7 +14051,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Opera",
       "Voicing": "Concert Band",
       "Library ID": "A-954"
     },
@@ -14395,7 +14171,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "A-962"
     },
@@ -14595,14 +14371,14 @@ const isb_library ={
       "Library ID": "A-974"
     },
     {
-      "Title": "Parade of the Tall Ships",
+      "Title": "Parade of the Tall Ships - e",
       "Composer": "Chattaway, Jay A.",
       "Arranger": "",
       "Publisher": "William Allen Music, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "3.5",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -14610,7 +14386,7 @@ const isb_library ={
       "Library ID": "A-975"
     },
     {
-      "Title": "Concerto Grosso No.1 in E Minor",
+      "Title": "Concerto Grosso No.1 in E minor",
       "Composer": "Bright, Houston",
       "Arranger": "",
       "Publisher": "G. Schirmer, Inc.",
@@ -14850,7 +14626,7 @@ const isb_library ={
       "Library ID": "A-992"
     },
     {
-      "Title": "Two intermezzi (from The Jewel of the Madonna",
+      "Title": "Two Intermezzi (from The Jewel of the Madonna",
       "Composer": "Wolf-Ferrari, Ermano",
       "Arranger": "Clark, Tom",
       "Publisher": "",
@@ -15015,6 +14791,21 @@ const isb_library ={
       "Library ID": "B-4"
     },
     {
+      "Title": "Legacy - e",
+      "Composer": "Del Borgo, Elliot A.",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "B-5"
+    },
+    {
       "Title": "Jubliant Overture, A",
       "Composer": "Reed, Alfred",
       "Arranger": "",
@@ -15085,7 +14876,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "B-10"
     },
@@ -15280,7 +15071,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Waltz",
       "Voicing": "Concert Band",
       "Library ID": "B-21"
     },
@@ -15330,23 +15121,19 @@ const isb_library ={
       "Library ID": "B-22"
     },
     {
-      "Title": "Rakes of Mallow, The (from the Irish Suite)",
+      "Title": "Rakes of Mallow, The (from the Irish Suite) - e",
       "Composer": "Anderson, Leroy",
       "Arranger": "",
       "Publisher": "Alfred Publishing Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "4",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-23",
-      "Date Purchased": "2021-10-26",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-10-26"
+      "Library ID": "B-23"
     },
     {
       "Title": "Bailada",
@@ -15362,6 +15149,36 @@ const isb_library ={
       "Music Type": "Latin",
       "Voicing": "Concert Band",
       "Library ID": "B-24"
+    },
+    {
+      "Title": "Also Sprach Zarathustra (Fanfare) - e",
+      "Composer": "Strauss, Richard",
+      "Arranger": "Longfield, Robert",
+      "Publisher": "C.L. Barnhouse Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "3",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Fanfare",
+      "Voicing": "Concert Band",
+      "Library ID": "B-25"
+    },
+    {
+      "Title": "Of A Distant Star - e",
+      "Composer": "Huckeby, Ed",
+      "Arranger": "",
+      "Publisher": "C.L. Barnhouse Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "B-27"
     },
     {
       "Title": "Overture to The Improvisator",
@@ -15419,7 +15236,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "B-31"
     },
@@ -15694,7 +15511,7 @@ const isb_library ={
       "Library ID": "B-50"
     },
     {
-      "Title": "Passacaglia in G Minor",
+      "Title": "Passacaglia in G minor",
       "Composer": "Handel, George Frideric",
       "Arranger": "Phillips, Ivan C.",
       "Publisher": "Oxford University Press",
@@ -15781,11 +15598,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-57",
-      "Date Purchased": "2022-08-01",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-10-10"
+      "Library ID": "B-57"
     },
     {
       "Title": "Music for Two Wind Bands",
@@ -15800,12 +15613,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-58",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "With 2 Brass Choirs"
+      "Library ID": "B-58"
     },
     {
       "Title": "Lehar Melodies",
@@ -15985,11 +15793,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-70",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-05-17"
+      "Library ID": "B-70"
     },
     {
       "Title": "Exaltation",
@@ -16199,11 +16003,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Patriotic",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "B-84",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-11-15"
+      "Library ID": "B-84"
     },
     {
       "Title": "Adagio Pathetique",
@@ -16248,11 +16048,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-87",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-10-26"
+      "Library ID": "B-87"
     },
     {
       "Title": "Toccata and Fugue in C Major",
@@ -16475,7 +16271,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Sacred",
       "Voicing": "Concert Band w/soloist",
       "Library ID": "B-102"
     },
@@ -16495,7 +16291,7 @@ const isb_library ={
       "Library ID": "B-103"
     },
     {
-      "Title": "Symphony in G Minor",
+      "Title": "Symphony in G minor",
       "Composer": "Nepomuceno, Alberto",
       "Arranger": "DeRubertis , N.",
       "Publisher": "Carl Fischer, LLC",
@@ -16690,6 +16486,21 @@ const isb_library ={
       "Library ID": "B-116"
     },
     {
+      "Title": "At Last - e",
+      "Composer": "Warren, Harry",
+      "Arranger": "",
+      "Publisher": "Alfred Publishing Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Ballad",
+      "Voicing": "Concert Band w/soloist",
+      "Library ID": "B-117"
+    },
+    {
       "Title": "Slavonic Dance No. 12",
       "Composer": "Dvorak, Antonin",
       "Arranger": "LaBauve, Jack",
@@ -16765,7 +16576,7 @@ const isb_library ={
       "Library ID": "B-121"
     },
     {
-      "Title": "Prelude in C Minor",
+      "Title": "Prelude in C minor",
       "Composer": "Rachmaninoff, Sergei ",
       "Arranger": "Johnson, Clair W.",
       "Publisher": "Rubank",
@@ -16885,17 +16696,17 @@ const isb_library ={
       "Library ID": "B-129"
     },
     {
-      "Title": "Night at the Ballet, A",
+      "Title": "Night at the Ballet, A - e",
       "Composer": "Walters, Harold L.",
       "Arranger": "",
       "Publisher": "Rubank",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Ballet",
       "Voicing": "Concert Band",
       "Library ID": "B-130"
     },
@@ -16990,14 +16801,14 @@ const isb_library ={
       "Library ID": "B-136"
     },
     {
-      "Title": "Smoke Gets in Your Eyes )A symphonic paraphrase from Roberta)",
+      "Title": "Smoke Gets in Your Eyes (A symphonic paraphrase from Roberta) - e",
       "Composer": "Kern, Jerome",
       "Arranger": "Leidzen, Erik",
       "Publisher": "T.B. Harms Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -17075,7 +16886,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "B-142"
     },
@@ -17095,7 +16906,7 @@ const isb_library ={
       "Library ID": "B-143"
     },
     {
-      "Title": "Alladin's Lamp Overture",
+      "Title": "Aladdins Lamp Overture",
       "Composer": "O'Neill, Charles",
       "Arranger": "",
       "Publisher": "Carl Fischer, LLC",
@@ -17170,14 +16981,14 @@ const isb_library ={
       "Library ID": "B-148"
     },
     {
-      "Title": "Windjammer",
+      "Title": "Windjammer - e",
       "Composer": "Gould, Morton",
       "Arranger": "Yoder, Paul",
       "Publisher": "Chappell Music Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -17210,7 +17021,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Operetta",
       "Voicing": "Concert Band",
       "Library ID": "B-151"
     },
@@ -17557,11 +17368,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Musical",
       "Voicing": "Concert Band",
-      "Library ID": "B-174",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "B-174"
     },
     {
       "Title": "Thrashing Bee (from The Land of Wheat)",
@@ -17589,7 +17396,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Opera",
       "Voicing": "Concert Band",
       "Library ID": "B-176"
     },
@@ -17634,7 +17441,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Opera",
       "Voicing": "Concert Band",
       "Library ID": "B-179"
     },
@@ -18026,12 +17833,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "B-204",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "M-8"
+      "Library ID": "B-204"
     },
     {
       "Title": "Mardi Gras (from Mississippi Suite)",
@@ -18304,14 +18106,14 @@ const isb_library ={
       "Library ID": "B-223"
     },
     {
-      "Title": "Folk Dances",
+      "Title": "Folk Dances - e",
       "Composer": "Shostakovich, Dmitri",
       "Arranger": "Erickson, Frank",
       "Publisher": "Alfred Publishing Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "4",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -18389,7 +18191,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "B-229"
     },
@@ -18826,31 +18628,22 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "B-260",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "5/23 On loan Keith Kunda"
+      "Library ID": "B-260"
     },
     {
-      "Title": "Indiana (Way Back Home Again)",
+      "Title": "Indiana (Way Back Home Again) - e",
       "Composer": "MacDonald & Hanley",
       "Arranger": "Nowak, Jerry",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
       "Cost": "",
       "Grade Level": "4",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Dixieland",
       "Voicing": "Concert Band",
-      "Library ID": "B-261",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "B-261"
     },
     {
       "Title": "Lads of Wamphray (March for Wind Band)",
@@ -18868,7 +18661,7 @@ const isb_library ={
       "Library ID": "B-262"
     },
     {
-      "Title": "La Source from \"Ballet",
+      "Title": "La Source from Ballet\"",
       "Composer": "Delibes-Minkous",
       "Arranger": "Winter",
       "Publisher": "",
@@ -18958,7 +18751,7 @@ const isb_library ={
       "Library ID": "B-268"
     },
     {
-      "Title": "Sinfonia No. 9 in F Minor",
+      "Title": "Sinfonia No. 9 in F minor",
       "Composer": "Bach, Johann Sebastian",
       "Arranger": "Effinger, Cecil",
       "Publisher": "C'est Music",
@@ -19045,11 +18838,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-274",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
+      "Library ID": "B-274"
     },
     {
       "Title": "Brazilian Festival",
@@ -19352,7 +19141,7 @@ const isb_library ={
       "Library ID": "B-296"
     },
     {
-      "Title": "Symphony in C Minor (1st Movement)",
+      "Title": "Symphony in C minor (1st Movement)",
       "Composer": "Williams, Ernest S.",
       "Arranger": "",
       "Publisher": "",
@@ -19422,7 +19211,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Opera",
       "Voicing": "Concert Band",
       "Library ID": "B-301"
     },
@@ -19499,12 +19288,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-307",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-05-17",
-      "Comments": "Missing Bassoon 1"
+      "Library ID": "B-307"
     },
     {
       "Title": "Carnival of Venice, The",
@@ -19639,11 +19423,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-316",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-10-26"
+      "Library ID": "B-316"
     },
     {
       "Title": "Cantus Firmus and Fugue",
@@ -19853,11 +19633,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Patriotic",
       "Voicing": "Concert Band",
-      "Library ID": "B-330",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
+      "Library ID": "B-330"
     },
     {
       "Title": "Tartan Suite ",
@@ -20337,11 +20113,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-363",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "B-363"
     },
     {
       "Title": "Yelva Overture",
@@ -20495,7 +20267,7 @@ const isb_library ={
     },
     {
       "Title": "Siegfried's Journey to the Rhine",
-      "Composer": "Wagner",
+      "Composer": "Wagner, Richard",
       "Arranger": "Humperdinck, E.",
       "Publisher": "Boosey & Hawkes, Inc.",
       "Copies": "",
@@ -20566,8 +20338,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "B-378",
-      "Date Purchased": "2022-08-01"
+      "Library ID": "B-378"
     },
     {
       "Title": "Triumphal March",
@@ -20580,7 +20351,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "B-379"
     },
@@ -21227,11 +20998,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-423",
-      "Date Purchased": "2021-10-26",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-10-26"
+      "Library ID": "B-423"
     },
     {
       "Title": "Festival at Tangier",
@@ -21729,10 +21496,10 @@ const isb_library ={
       "Library ID": "B-457"
     },
     {
-      "Title": "Country Wedding Symphony",
-      "Composer": "Goldmark, Carl",
-      "Arranger": "Armbruster, C.",
-      "Publisher": "Boosey & Hawkes, Inc.",
+      "Title": "Liberty",
+      "Composer": "Galante, Rossano",
+      "Arranger": "",
+      "Publisher": "Associated Music Publishers, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -21894,10 +21661,10 @@ const isb_library ={
       "Library ID": "B-468"
     },
     {
-      "Title": "Country Wedding Symphony",
-      "Composer": "Goldmark, Carl",
-      "Arranger": "Stretton, A. J.",
-      "Publisher": "Boosey & Hawkes, Inc.",
+      "Title": "Cutting of the Hay, The",
+      "Composer": "Grainger, Percy",
+      "Arranger": "Wilson, Brian S.",
+      "Publisher": "G. Schirmer, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -22044,7 +21811,7 @@ const isb_library ={
       "Library ID": "B-477"
     },
     {
-      "Title": "Suite in B Flat",
+      "Title": "Suite in Bb",
       "Composer": "Jacob, Gordon",
       "Arranger": "",
       "Publisher": "Jenson Publications",
@@ -22135,7 +21902,7 @@ const isb_library ={
     },
     {
       "Title": "Prelude on Three Welsh Hymn Tunes",
-      "Composer": "Vaughn-Williams, Ralph",
+      "Composer": "Williams, Ralph Vaughn",
       "Arranger": "Curnow, Jim",
       "Publisher": "Jenson Publications",
       "Copies": "",
@@ -22329,14 +22096,14 @@ const isb_library ={
       "Library ID": "B-497"
     },
     {
-      "Title": "Bolero Ritmico",
+      "Title": "Bolero Ritmico - e",
       "Composer": "Longas, Federico ",
       "Arranger": "Yoder, Paul ",
       "Publisher": "Edward B. Marks Music Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -22719,7 +22486,7 @@ const isb_library ={
       "Library ID": "B-523"
     },
     {
-      "Title": "Symphony No.1 in E Minor",
+      "Title": "Symphony No.1 in E minor",
       "Composer": "Sibelius, Jean ",
       "Arranger": "Wilson, Geo. C. ",
       "Publisher": "TRN Music Publisher",
@@ -22885,7 +22652,7 @@ const isb_library ={
     },
     {
       "Title": "Slavonic Dance Suite",
-      "Composer": "Dvorak, Anton",
+      "Composer": "Dvorak, Antonin",
       "Arranger": "Curnow, James",
       "Publisher": "Jenson Publications",
       "Copies": "",
@@ -22989,7 +22756,7 @@ const isb_library ={
       "Library ID": "B-541"
     },
     {
-      "Title": "Praeludium in C Minor",
+      "Title": "Praeludium in C minor",
       "Composer": "Bach, Johann Sebastian ",
       "Arranger": "Miller, James B. ",
       "Publisher": "Shawnee Press, Inc.",
@@ -23394,7 +23161,7 @@ const isb_library ={
       "Library ID": "B-569"
     },
     {
-      "Title": "Crux Fidelis( Adapted from The Battle of Huns)",
+      "Title": "Crux Fidelis (Adapted from The Battle of Huns)",
       "Composer": "Liszt, Franz",
       "Arranger": "Erickson, Frank",
       "Publisher": "Belwin-Mills Publishing Corp.",
@@ -23469,8 +23236,8 @@ const isb_library ={
       "Library ID": "B-574"
     },
     {
-      "Title": "Marche Indienne (from L' Africaine)",
-      "Composer": "Meyerbeer, G.",
+      "Title": "Marche Indienne (from L'Africaine)",
+      "Composer": "Meyerbeer, Giacomo",
       "Arranger": "Lake, Mathew L.",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
@@ -23754,7 +23521,7 @@ const isb_library ={
       "Library ID": "B-595"
     },
     {
-      "Title": "Haydn Symphony No. 83 (The Hew Symphony)",
+      "Title": "Haydn Symphony No. 83 (The Hen Symphony)",
       "Composer": "Haydn, Franz Joseph",
       "Arranger": "Stauffer, Donald W.",
       "Publisher": "Hal Leonard Corporation",
@@ -23779,7 +23546,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "B-597"
     },
@@ -24069,7 +23836,7 @@ const isb_library ={
       "Library ID": "B-617"
     },
     {
-      "Title": "Symphony in C Minor (The Forbidden Symphony)",
+      "Title": "Symphony in C minor (The Forbidden Symphony)",
       "Composer": "Grieg, Edward",
       "Arranger": "Ford, Trevor",
       "Publisher": "Jenson Publications",
@@ -24189,9 +23956,9 @@ const isb_library ={
       "Library ID": "B-625"
     },
     {
-      "Title": "Symphony No. 3 (Ilia Murometz 2nd Movement)",
+      "Title": "Symphony No. 3 (Ilya Muromets 2nd Movement)",
       "Composer": "Gliere, Reinhold ",
-      "Arranger": "Bainum, Glenn  C.",
+      "Arranger": "Bainum, Glenn C.",
       "Publisher": "Neil A. Kjos Music Company",
       "Copies": "",
       "Cost": "",
@@ -24276,11 +24043,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "B-631",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-10-10"
+      "Library ID": "B-631"
     },
     {
       "Title": "Fanfare, Chorale and Fugue",
@@ -24445,12 +24208,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "B-642",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing: Alto CL, Baritone TC"
+      "Library ID": "B-642"
     },
     {
       "Title": "Touch of a Tuba, A",
@@ -24508,7 +24266,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Ballet",
       "Voicing": "Concert Band",
       "Library ID": "B-646"
     },
@@ -24601,6 +24359,21 @@ const isb_library ={
       "Music Type": "",
       "Voicing": "Concert Band",
       "Library ID": "B-653"
+    },
+    {
+      "Title": "Sea Songs - e",
+      "Composer": "Williams, Ralph Vaughan",
+      "Arranger": "",
+      "Publisher": "Boosey & Hawkes, Inc.",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "B-655"
     },
     {
       "Title": "Egmont Overture",
@@ -24753,20 +24526,19 @@ const isb_library ={
       "Library ID": "B-665"
     },
     {
-      "Title": "Waltzing Cat, The",
-      "Composer": "Anderson, Leory",
+      "Title": "Waltzing Cat, The - e",
+      "Composer": "Anderson, Leroy",
       "Arranger": "Lang, Philip J.",
       "Publisher": "Mills Music, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "3",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "B-666",
-      "Date Purchased": "2023-12-01"
+      "Library ID": "B-666"
     },
     {
       "Title": "Vilia",
@@ -24797,21 +24569,6 @@ const isb_library ={
       "Music Type": "",
       "Voicing": "Concert Band",
       "Library ID": "B-668"
-    },
-    {
-      "Title": "Glorious Things of Thee are Spoken (Austrian Hymn)",
-      "Composer": "Haydn, Franz Joseph",
-      "Arranger": "Ployhar, James D.",
-      "Publisher": "Schmitt Music Center",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "Sacred",
-      "Voicing": "Concert Band",
-      "Library ID": "B-669"
     },
     {
       "Title": "Irish Folk Song Suite",
@@ -24976,11 +24733,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-680",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-05-23"
+      "Library ID": "B-680"
     },
     {
       "Title": "Concertino for Trombone",
@@ -24995,12 +24748,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "B-681",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Brass only"
+      "Library ID": "B-681"
     },
     {
       "Title": "Columbine Polka-Mazurka",
@@ -25103,7 +24851,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Patriotic",
       "Voicing": "Concert Band w/soloist",
       "Library ID": "B-689"
     },
@@ -25313,7 +25061,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "B-703"
     },
@@ -25358,7 +25106,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Musical",
       "Voicing": "Concert Band",
       "Library ID": "B-706"
     },
@@ -25648,14 +25396,14 @@ const isb_library ={
       "Library ID": "B-728"
     },
     {
-      "Title": "Jack Tar March",
+      "Title": "Jack Tar March - e",
       "Composer": "Sousa, John Philip",
       "Arranger": "Nowak, Jerry",
       "Publisher": "Big Bells Music",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "March",
@@ -25798,14 +25546,14 @@ const isb_library ={
       "Library ID": "B-738"
     },
     {
-      "Title": "Puenteareas",
+      "Title": "Puenteareas - e",
       "Composer": "Soutullo, R.",
       "Arranger": "Weger, Roy J.",
       "Publisher": "TRN Music Publisher",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Paso Doble",
@@ -25888,7 +25636,7 @@ const isb_library ={
       "Library ID": "B-744"
     },
     {
-      "Title": "Variations on Haydn's Thene (Horn solo)",
+      "Title": "Variations on Haydn's Theme (Horn solo)",
       "Composer": "Haydn, Franz Joseph",
       "Arranger": "Graziani, Yitzhak",
       "Publisher": "",
@@ -26143,7 +25891,7 @@ const isb_library ={
       "Library ID": "B-762"
     },
     {
-      "Title": "Fugue in D Minor ",
+      "Title": "Fugue in D minor ",
       "Composer": "Tchaikovsky, Peter Ilyich",
       "Arranger": "Vollmers, Peter C.",
       "Publisher": "Neil A. Kjos Music Company",
@@ -26350,8 +26098,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "B-776",
-      "Date Purchased": "2022-08-23"
+      "Library ID": "B-776"
     },
     {
       "Title": "Rituale",
@@ -26441,11 +26188,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "B-783",
-      "Date Purchased": "2022-08-23",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-11-15"
+      "Library ID": "B-783"
     },
     {
       "Title": "Au Pays Lorrain",
@@ -26715,11 +26458,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Musical",
       "Voicing": "Concert Band",
-      "Library ID": "B-801",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-02-07"
+      "Library ID": "B-801"
     },
     {
       "Title": "In Thee Is Gladness",
@@ -26918,7 +26657,7 @@ const isb_library ={
     },
     {
       "Title": "Wiener Burger",
-      "Composer": "Ziehrer, Carl M. ",
+      "Composer": "Ziehrer, Carl Michael",
       "Arranger": "Mol, Gosling",
       "Publisher": "Molenaar N.V.",
       "Copies": "",
@@ -26947,24 +26686,19 @@ const isb_library ={
       "Library ID": "B-816"
     },
     {
-      "Title": "Pirates of the Caribbean (Symphonic Suite)",
+      "Title": "Pirates of the Caribbean (Symphonic Suite) - e",
       "Composer": "Badlet, Klaus",
       "Arranger": "Wasson, John",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "B-817",
-      "Date Purchased": "2023-12-01",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "GD"
+      "Library ID": "B-817"
     },
     {
       "Title": "Divertimento",
@@ -27117,10 +26851,25 @@ const isb_library ={
       "Library ID": "B-827"
     },
     {
-      "Title": "Die Schonbrunner Waltz",
-      "Composer": "Lanner, Joseph",
-      "Arranger": "Weingartner, Fr.",
-      "Publisher": "",
+      "Title": "Incredibles, The (Music from)",
+      "Composer": "Giacchino, Michael",
+      "Arranger": "Bocook, Jay",
+      "Publisher": "Hal Leonard Corporation",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Soundtrack",
+      "Voicing": "Concert Band",
+      "Library ID": "B-828"
+    },
+    {
+      "Title": "I've Made My Plans For The Summer (Several solo)",
+      "Composer": "Sousa, John Philip",
+      "Arranger": "",
+      "Publisher": "Church Publishing Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -27128,7 +26877,7 @@ const isb_library ={
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Waltz",
-      "Voicing": "Concert Band",
+      "Voicing": "Concert Band w/soloist",
       "Library ID": "B-829"
     },
     {
@@ -27157,7 +26906,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Jazz",
       "Voicing": "Concert Band",
       "Library ID": "B-831"
     },
@@ -27339,11 +27088,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "B-843",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-10-26"
+      "Library ID": "B-843"
     },
     {
       "Title": "Wallenstein's Camp",
@@ -27611,7 +27356,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "Jazz",
+      "Music Type": "Musical",
       "Voicing": "Concert Band w/soloist",
       "Library ID": "B-863"
     },
@@ -27794,21 +27539,6 @@ const isb_library ={
       "Music Type": "",
       "Voicing": "Concert Band",
       "Library ID": "B-875"
-    },
-    {
-      "Title": "American Patrol",
-      "Composer": "Meacham, Frank W.",
-      "Arranger": "",
-      "Publisher": "",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "Concert Band",
-      "Library ID": "B-876"
     },
     {
       "Title": "Ceremonial Prelude, A",
@@ -28771,7 +28501,7 @@ const isb_library ={
       "Library ID": "B-948"
     },
     {
-      "Title": "Diamants de la Couron, Les",
+      "Title": "Les Diamants de la Couron",
       "Composer": "Auber, D.F.E.",
       "Arranger": "Desprey, Paul",
       "Publisher": "Molenaar N.V.",
@@ -29041,6 +28771,21 @@ const isb_library ={
       "Library ID": "B-966"
     },
     {
+      "Title": "Swing (from American Dances) - e",
+      "Composer": "Smith, Robert W.",
+      "Arranger": "",
+      "Publisher": "R. Smith ",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Jazz",
+      "Voicing": "Concert Band",
+      "Library ID": "B-967"
+    },
+    {
       "Title": "Norwegian Folk Rhapsody",
       "Composer": "Snesrud, Arlin",
       "Arranger": "",
@@ -29251,7 +28996,7 @@ const isb_library ={
       "Library ID": "B-983"
     },
     {
-      "Title": "Nurmberger Puppe, Die",
+      "Title": "Die Nurmberger Puppe",
       "Composer": "Adam, A.",
       "Arranger": "Lofterer, G.",
       "Publisher": "Edwin F. Kalmus & Company Inc.",
@@ -29386,7 +29131,7 @@ const isb_library ={
       "Library ID": "B-992"
     },
     {
-      "Title": "Fugue in D Minor (Dedicated to the Glory of God)",
+      "Title": "Fugue in D minor (Dedicated to the Glory of God)",
       "Composer": "Duarte, Leonard",
       "Arranger": "",
       "Publisher": "",
@@ -29416,7 +29161,7 @@ const isb_library ={
       "Library ID": "B-994"
     },
     {
-      "Title": "Brahm's Scherzo (Piano Quintet in Fmin)",
+      "Title": "Brahm's Scherzo (Piano Quintet in F min)",
       "Composer": "Brahms, Johannes",
       "Arranger": "Dorff, Daniel",
       "Publisher": "Theodore Presser Company",
@@ -29516,7 +29261,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "C-2"
     },
@@ -29576,7 +29321,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "C-6"
     },
@@ -29656,19 +29401,34 @@ const isb_library ={
       "Library ID": "C-11"
     },
     {
-      "Title": "Gwendolyn Prelude",
-      "Composer": "Chabrier, Emmanuel",
-      "Arranger": "Meister",
+      "Title": "Semper Supra (Official U.S. Space Force Song) - e",
+      "Composer": "Teachenor II, James W. ",
+      "Arranger": "Villanueva, Jari",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Patriotic",
       "Voicing": "Concert Band",
       "Library ID": "C-12"
+    },
+    {
+      "Title": "Into the Blue (U.S. Space Force Hymn) - e",
+      "Composer": "Rounsavall, Mary",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Patriotic",
+      "Voicing": "Concert Band",
+      "Library ID": "C-13"
     },
     {
       "Title": "Reejouissance (Fantasia on Ein Feste Burg)",
@@ -29713,12 +29473,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-16",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Not complete"
+      "Library ID": "C-16"
     },
     {
       "Title": "Schuelerr Polka, The",
@@ -29811,14 +29566,14 @@ const isb_library ={
       "Library ID": "C-22"
     },
     {
-      "Title": "Incantation and Dance",
+      "Title": "Incantation and Dance - e",
       "Composer": "Chance, John Barnes",
       "Arranger": "",
       "Publisher": "Boosey & Hawkes, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "5",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -29976,6 +29731,21 @@ const isb_library ={
       "Library ID": "C-33"
     },
     {
+      "Title": "Shalako - e",
+      "Composer": "Smith, Tim",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "C-34"
+    },
+    {
       "Title": "Beauty and the Beast",
       "Composer": "Menken, Alan ",
       "Arranger": "Moss, John",
@@ -30006,7 +29776,7 @@ const isb_library ={
       "Library ID": "C-36"
     },
     {
-      "Title": "Curtain Up! (A Theater Overature for Winds)",
+      "Title": "Curtain Up! (A Theater Overture for Winds)",
       "Composer": "Reed, Alfred",
       "Arranger": "",
       "Publisher": "Hal Leonard Corporation",
@@ -30016,7 +29786,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Musical",
       "Voicing": "Concert Band",
       "Library ID": "C-37"
     },
@@ -30106,7 +29876,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Waltz",
       "Voicing": "Concert Band",
       "Library ID": "C-43"
     },
@@ -30126,14 +29896,14 @@ const isb_library ={
       "Library ID": "C-45"
     },
     {
-      "Title": "Back Home Again in Indiana",
-      "Composer": "Handley, James F.",
+      "Title": "Back Home Again in Indiana - e",
+      "Composer": "Hanley, James F.",
       "Arranger": "Rhodes, Steve",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -30156,7 +29926,7 @@ const isb_library ={
       "Library ID": "C-47"
     },
     {
-      "Title": "1812 Overture ",
+      "Title": "1812 Overture - e ",
       "Composer": "Tchaikowsky, Pyotr Ilyich",
       "Arranger": "Lake, Mathew L.",
       "Publisher": "Carl Fischer, LLC",
@@ -30166,7 +29936,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Christmas",
       "Voicing": "Concert Band",
       "Library ID": "C-48"
     },
@@ -30198,12 +29968,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-50",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Trumpet/Cornet parts"
+      "Library ID": "C-50"
     },
     {
       "Title": "Songs of Abelard (Vocal)",
@@ -30234,6 +29999,21 @@ const isb_library ={
       "Music Type": "",
       "Voicing": "Concert Band",
       "Library ID": "C-52"
+    },
+    {
+      "Title": "Pacific Coast Highway - e",
+      "Composer": "Smith, Tim",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Rock",
+      "Voicing": "Concert Band w/soloist",
+      "Library ID": "C-53"
     },
     {
       "Title": "Feiericher Einzug (Solemn Procession)",
@@ -30281,24 +30061,19 @@ const isb_library ={
       "Library ID": "C-56"
     },
     {
-      "Title": "Of Sailors and Whales (Five Scenes from Melville)",
+      "Title": "Of Sailors and Whales (Five Scenes from Melville) - e",
       "Composer": "McBeth, William Francis",
       "Arranger": "",
       "Publisher": "Southern Music Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "5",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-57",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing: Flute 1, Alto sax 1, Bari Sax, Horn 1&2 and Timpani"
+      "Library ID": "C-57"
     },
     {
       "Title": "Alla Barocco",
@@ -30343,12 +30118,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-60",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "ISB Commission"
+      "Library ID": "C-60"
     },
     {
       "Title": "Dark of the Moon",
@@ -30363,12 +30133,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-61",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Dedicated to Bob Phillips"
+      "Library ID": "C-61"
     },
     {
       "Title": "Explorer March",
@@ -30501,7 +30266,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-70"
     },
@@ -30533,12 +30298,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-72",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Score, Bassoon 2, Tenor 2"
+      "Library ID": "C-72"
     },
     {
       "Title": "Battle of San Juan Hill, The (Grand Descriptive Military Fantasia)",
@@ -30751,6 +30511,21 @@ const isb_library ={
       "Library ID": "C-87"
     },
     {
+      "Title": "1812 Overture - e",
+      "Composer": "Tachaikowsky, Piotr Ilyich",
+      "Arranger": "Laurendeau, L. P.",
+      "Publisher": "Carl Fischer, LLC",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Christmas",
+      "Voicing": "Concert Band",
+      "Library ID": "C-88"
+    },
+    {
       "Title": "Cadet Days March",
       "Composer": "Jewell, Fred",
       "Arranger": "",
@@ -30929,6 +30704,21 @@ const isb_library ={
       "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-102"
+    },
+    {
+      "Title": "Roosters Lay Eggs in Kansas, The - e",
+      "Composer": "Lake, Mathew L.",
+      "Arranger": "Foster, Robert E.",
+      "Publisher": "Carl Fischer, LLC",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Novelty",
+      "Voicing": "Concert Band",
+      "Library ID": "C-103"
     },
     {
       "Title": "Canine Capers",
@@ -31231,14 +31021,14 @@ const isb_library ={
       "Library ID": "C-123"
     },
     {
-      "Title": "Star Spangled Banner",
+      "Title": "Star Spangled Banner - e",
       "Composer": "Key, Francis Scott",
       "Arranger": "Dept of Defense",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Patriotic",
@@ -31453,11 +31243,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-137",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-08-28"
+      "Library ID": "C-137"
     },
     {
       "Title": "Komm, Susser Tod (Come Sweet Death)",
@@ -31472,12 +31258,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Sacred",
       "Voicing": "Concert Band",
-      "Library ID": "C-138",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax, Missing Score, Trombone 1-2"
+      "Library ID": "C-138"
     },
     {
       "Title": "Sunshine Overture",
@@ -31615,25 +31396,6 @@ const isb_library ={
       "Library ID": "C-147"
     },
     {
-      "Title": "I've Made My Plans For Summer",
-      "Composer": "Sousa, John Philip",
-      "Arranger": "",
-      "Publisher": "Church Publishing Inc.",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "Waltz",
-      "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-148",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
-    },
-    {
       "Title": "In The Moonlight Serenade (Baritone solo)",
       "Composer": "Hall, R.B.",
       "Arranger": "",
@@ -31646,12 +31408,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-148",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "C-148"
     },
     {
       "Title": "High and Mighty",
@@ -31829,7 +31586,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-160"
     },
@@ -31844,7 +31601,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-161"
     },
@@ -31904,7 +31661,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Opera",
       "Voicing": "Concert Band",
       "Library ID": "C-165"
     },
@@ -31954,7 +31711,7 @@ const isb_library ={
       "Library ID": "C-168"
     },
     {
-      "Title": "Passacaglia & Fugue in F Minor",
+      "Title": "Passacaglia & Fugue in F minor",
       "Composer": "Stauffer, Dr. Donald W.",
       "Arranger": "",
       "Publisher": "",
@@ -32059,14 +31816,14 @@ const isb_library ={
       "Library ID": "C-175"
     },
     {
-      "Title": "Cousins (Trumpet-Trombone solo)",
+      "Title": "Cousins (Trumpet-Trombone duet) - e",
       "Composer": "Clarke, Herbert L.",
       "Arranger": "Cramer, Ray",
       "Publisher": "TRN Music Publisher",
       "Copies": "",
       "Cost": "",
       "Grade Level": "5 solo, 3 ensemble",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -32266,11 +32023,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-189",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "C-189"
     },
     {
       "Title": "Wichita Beacon",
@@ -32358,7 +32111,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-195"
     },
@@ -32510,11 +32263,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "C-205",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-08-28"
+      "Library ID": "C-205"
     },
     {
       "Title": "Best of John Mellencamp, The",
@@ -32529,11 +32278,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Rock",
       "Voicing": "Concert Band",
-      "Library ID": "C-206",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "C-206"
     },
     {
       "Title": "Thunderer, The",
@@ -32623,12 +32368,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-212",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Score"
+      "Library ID": "C-212"
     },
     {
       "Title": "Americans We",
@@ -32661,23 +32401,19 @@ const isb_library ={
       "Library ID": "C-214"
     },
     {
-      "Title": "King Cotton",
+      "Title": "King Cotton - e",
       "Composer": "Sousa, John Philip",
       "Arranger": "",
       "Publisher": "Church Publishing Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-215",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "C-215"
     },
     {
       "Title": "Sells-Floto Triumphal",
@@ -32725,14 +32461,14 @@ const isb_library ={
       "Library ID": "C-218"
     },
     {
-      "Title": "Anchors Aweigh",
+      "Title": "Anchors Aweigh - e",
       "Composer": "Zimmerman, Charles A.",
       "Arranger": "Briegel, George F.",
       "Publisher": "Robbins Music Corporation",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Patriotic",
@@ -32755,14 +32491,14 @@ const isb_library ={
       "Library ID": "C-220"
     },
     {
-      "Title": "El Captain",
+      "Title": "El Capitan - e",
       "Composer": "Sousa, John Philip",
       "Arranger": "",
-      "Publisher": "Church Publishing Inc.",
+      "Publisher": "Edwin F. Kalmus & Company Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "March",
@@ -32905,7 +32641,7 @@ const isb_library ={
       "Library ID": "C-230"
     },
     {
-      "Title": "Wotan's Farewell & Magic Fire Music from Die Walkure",
+      "Title": "Wotan's Farewell & Magic Fire Music (from Die Walkure)",
       "Composer": "Wagner, Richard",
       "Arranger": "Safranek, V.F.",
       "Publisher": "",
@@ -33100,10 +32836,10 @@ const isb_library ={
       "Library ID": "C-243"
     },
     {
-      "Title": "American Plantation Da",
+      "Title": "American Plantation Dances",
       "Composer": "Arnold, Maurice",
-      "Arranger": "Leidzen, Erik",
-      "Publisher": "",
+      "Arranger": "Leidzen, Erik W.G.",
+      "Publisher": "Mills Music, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -33200,7 +32936,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "C-250"
     },
@@ -33382,12 +33118,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-262",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-262"
     },
     {
       "Title": "I'm Afraid To Come Home In The Dark",
@@ -33475,7 +33206,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Opera",
       "Voicing": "Concert Band",
       "Library ID": "C-268"
     },
@@ -33927,12 +33658,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-298",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-04-30",
-      "Comments": "IN Composer"
+      "Library ID": "C-298"
     },
     {
       "Title": "Althotas March",
@@ -33947,12 +33673,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-299",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-299"
     },
     {
       "Title": "Little Napoleon March, The",
@@ -33967,12 +33688,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-300",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-300"
     },
     {
       "Title": "Kokomo March",
@@ -33987,12 +33703,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-301",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-301"
     },
     {
       "Title": "Circus Ring (Galop)",
@@ -34035,13 +33746,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-304",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-04-30"
+      "Library ID": "C-304"
     },
     {
       "Title": "General Miles March",
@@ -34056,12 +33763,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-305",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-305"
     },
     {
       "Title": "Tehama Temple",
@@ -34091,12 +33793,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-307",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-307"
     },
     {
       "Title": "Fort Wayne March",
@@ -34111,12 +33808,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-308",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-308"
     },
     {
       "Title": "Coast Pacific, The",
@@ -34146,12 +33838,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-310",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-310"
     },
     {
       "Title": "Banner of Freedom",
@@ -34166,12 +33853,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-311",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-311"
     },
     {
       "Title": "Canton Warren March",
@@ -34186,12 +33868,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-312",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-312"
     },
     {
       "Title": "Americus March",
@@ -34206,12 +33883,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-313",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-313"
     },
     {
       "Title": "Racer Galop, The",
@@ -34244,23 +33916,19 @@ const isb_library ={
       "Library ID": "C-315"
     },
     {
-      "Title": "Indianapolis News Newsboys' Band",
+      "Title": "Indianapolis News Newsboys' Band - e",
       "Composer": "Vanderworker, J.B.",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-316",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-04-30"
+      "Library ID": "C-316"
     },
     {
       "Title": "Hoosier March, The ",
@@ -34470,12 +34138,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-330",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Incomplete"
+      "Library ID": "C-330"
     },
     {
       "Title": "On To Victory",
@@ -34490,12 +34153,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-331",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No percussion"
+      "Library ID": "C-331"
     },
     {
       "Title": "To Walk With Wings",
@@ -34697,6 +34355,21 @@ const isb_library ={
       "Composer": "Eisenberg, R.B.",
       "Arranger": "",
       "Publisher": "Fred Jewell",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "C-345"
+    },
+    {
+      "Title": "Comedians Gallop (from The Comedians)",
+      "Composer": "Kabalevsky, Dmitri",
+      "Arranger": "Jennings, Paul",
+      "Publisher": "G. Schirmer, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -34975,11 +34648,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-364",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-03-14"
+      "Library ID": "C-364"
     },
     {
       "Title": "Big Apple Symphony, The (A New York Symphony)",
@@ -35099,12 +34768,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-372",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "C-372"
     },
     {
       "Title": "Concerto for 23 Winds",
@@ -35119,12 +34783,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-373",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Limited Instrumentation"
+      "Library ID": "C-373"
     },
     {
       "Title": "Molly on the Shore",
@@ -35154,12 +34813,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-375",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "C-375"
     },
     {
       "Title": "Infinite Horizons",
@@ -35294,11 +34948,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-384",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
+      "Library ID": "C-384"
     },
     {
       "Title": "Storming of El Caney March",
@@ -35328,12 +34978,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-387",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "C-387"
     },
     {
       "Title": "Beautiful Colorado (Valse Caprice)",
@@ -35558,12 +35203,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-402",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score or percussion"
+      "Library ID": "C-402"
     },
     {
       "Title": "From Every Horizon",
@@ -35758,12 +35398,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Musical",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-415",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Vocal/Instrument Solo"
+      "Library ID": "C-415"
     },
     {
       "Title": "Battle of the Winds",
@@ -35941,7 +35576,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band w/soloist",
       "Library ID": "C-427"
     },
@@ -36018,11 +35653,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-432",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-03-14"
+      "Library ID": "C-432"
     },
     {
       "Title": "Those Who Serve",
@@ -36065,7 +35696,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-436"
     },
@@ -36115,7 +35746,7 @@ const isb_library ={
       "Library ID": "C-439"
     },
     {
-      "Title": "Down South",
+      "Title": "Down South (American Sketch)",
       "Composer": "Myddleton, William H.",
       "Arranger": "Lampe, Fred",
       "Publisher": "Edward B. Marks Music Company",
@@ -36410,7 +36041,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "C-459"
     },
@@ -36476,7 +36107,7 @@ const isb_library ={
     },
     {
       "Title": "Reminiscences of Mayerbeer",
-      "Composer": "mayerbeer",
+      "Composer": "Mayerbeer, Giacomo",
       "Arranger": "Heinicke, A.",
       "Publisher": "",
       "Copies": "",
@@ -36502,12 +36133,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-465",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "5/23 On loan Keith Kunda"
+      "Library ID": "C-465"
     },
     {
       "Title": "Tis A Gift",
@@ -36615,14 +36241,14 @@ const isb_library ={
       "Library ID": "C-472"
     },
     {
-      "Title": "Star Wars Medley",
+      "Title": "Star Wars Medley - e",
       "Composer": "Williams, John",
       "Arranger": "Burden, James",
       "Publisher": "Alfred Publishing Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "4",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Soundtrack",
@@ -36687,12 +36313,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-477",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "5/23 On Loan Keith Kunda"
+      "Library ID": "C-477"
     },
     {
       "Title": "Flower Drum Song",
@@ -36752,12 +36373,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-481",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "C-481"
     },
     {
       "Title": "Resting in the Peace of His Hands",
@@ -36832,12 +36448,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-486",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No score"
+      "Library ID": "C-486"
     },
     {
       "Title": "Rose Marie (Selections)",
@@ -36912,11 +36523,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-491",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "C-491"
     },
     {
       "Title": "Music for Winds and Percussion",
@@ -37021,11 +36628,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Dixieland",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-498",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "C-498"
     },
     {
       "Title": "Civil War Sketches",
@@ -37448,23 +37051,19 @@ const isb_library ={
       "Library ID": "C-526"
     },
     {
-      "Title": "Lord of the Dance, The",
+      "Title": "Lord of the Dance, The - e",
       "Composer": "Hardiman, Ronan",
       "Arranger": "Saucedo, Richard",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-527",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-02-07"
+      "Library ID": "C-527"
     },
     {
       "Title": "Jump, Swing Fever",
@@ -37539,11 +37138,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "C-532",
-      "Date Purchased": "2022-08-01",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-03-14"
+      "Library ID": "C-532"
     },
     {
       "Title": "Celebration",
@@ -37706,7 +37301,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "C-543"
     },
@@ -37901,7 +37496,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "C-556"
     },
@@ -37991,7 +37586,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band",
       "Library ID": "C-562"
     },
@@ -38203,8 +37798,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-576",
-      "Date Purchased": "2022-08-01"
+      "Library ID": "C-576"
     },
     {
       "Title": "Flight of the Flutes (Flute Quartet)",
@@ -38267,7 +37861,7 @@ const isb_library ={
       "Library ID": "C-580"
     },
     {
-      "Title": "Hoe Down (from \"Rodeo\")",
+      "Title": "Hoe Down (from Rodeo\")\"",
       "Composer": "Copland, Aaron",
       "Arranger": "",
       "Publisher": "",
@@ -38294,11 +37888,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-582",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
+      "Library ID": "C-582"
     },
     {
       "Title": "Folk Song Rhapsody",
@@ -38314,6 +37904,21 @@ const isb_library ={
       "Music Type": "",
       "Voicing": "Concert Band",
       "Library ID": "C-583"
+    },
+    {
+      "Title": "Life Well Lived, A",
+      "Composer": "Romeyn, Rob",
+      "Arranger": "",
+      "Publisher": "C.L. Barnhouse Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "3",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "C-584"
     },
     {
       "Title": "Sun Singer",
@@ -38511,6 +38116,21 @@ const isb_library ={
       "Library ID": "C-598"
     },
     {
+      "Title": "Forty Shades of Green (an Irish Fantasy) - e",
+      "Composer": "Smith, Tim",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "C-599"
+    },
+    {
       "Title": "Sound of Silence, The",
       "Composer": "Simon, Paul",
       "Arranger": "Hosay, James L.",
@@ -38523,8 +38143,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Pops",
       "Voicing": "Concert Band",
-      "Library ID": "C-600",
-      "Date Purchased": "2022-08-01"
+      "Library ID": "C-600"
     },
     {
       "Title": "Serenade (Opus 22)",
@@ -38659,12 +38278,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-609",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "C-609"
     },
     {
       "Title": "British Isles Suite",
@@ -38797,14 +38411,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Patriotic",
       "Voicing": "Concert Band",
-      "Library ID": "C-618",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing: Oboe, Perc, 1,2,Mallet & Timpani"
+      "Library ID": "C-618"
     },
     {
       "Title": "Variations on an American Hymn Tune",
@@ -38958,7 +38567,7 @@ const isb_library ={
     },
     {
       "Title": "Trombone King, The",
-      "Composer": "King, K.L.",
+      "Composer": "King, Karl L.",
       "Arranger": "",
       "Publisher": "K.L. King Music House",
       "Copies": "",
@@ -39029,12 +38638,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Jazz",
       "Voicing": "Concert Band",
-      "Library ID": "C-633",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Horn parts, 3rd Cl"
+      "Library ID": "C-633"
     },
     {
       "Title": "Billboard March, The",
@@ -39109,15 +38713,11 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-638",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-08-28"
+      "Library ID": "C-638"
     },
     {
-      "Title": "Gladiator ",
-      "Composer": "",
+      "Title": "Gladiator March, The",
+      "Composer": "Sousa, John Philip",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -39203,11 +38803,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "C-644",
-      "Date Purchased": "2023-09-01",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-10-10"
+      "Library ID": "C-644"
     },
     {
       "Title": "To Challenge the Sky and Heavens Above",
@@ -39285,6 +38881,21 @@ const isb_library ={
       "Library ID": "C-649"
     },
     {
+      "Title": "Adele in Concert - e",
+      "Composer": "Various",
+      "Arranger": "Brown, Michael",
+      "Publisher": "Universal Music Publshing Group",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Rock",
+      "Voicing": "Concert Band",
+      "Library ID": "C-650"
+    },
+    {
       "Title": "Invincible Bunbury, The (Tercentenary Quick March)",
       "Composer": "Cohen, Jerome D.",
       "Arranger": "",
@@ -39312,11 +38923,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-652",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-10-10"
+      "Library ID": "C-652"
     },
     {
       "Title": "Swiss Shepherd, The (Flute Solo)",
@@ -39331,11 +38938,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-653",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-10-18"
+      "Library ID": "C-653"
     },
     {
       "Title": "Epic March",
@@ -39348,7 +38951,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-654"
     },
@@ -39380,14 +38983,10 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "C-656",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2018-10-09"
+      "Library ID": "C-656"
     },
     {
-      "Title": "Amber Waves of Grain (Symphonic Rapsody on America the Beautiful)",
+      "Title": "Amber Waves of Grain (Symphonic Rhapsody on America the Beautiful)",
       "Composer": "Curnow, James",
       "Arranger": "",
       "Publisher": "Hal Leonard Corporation",
@@ -39507,22 +39106,6 @@ const isb_library ={
       "Library ID": "C-664"
     },
     {
-      "Title": "Danzon No. 2",
-      "Composer": "Marquez, Arturo",
-      "Arranger": "Nickel, Oliver",
-      "Publisher": "Peer International Corporation",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "Concert Band",
-      "Library ID": "C-665",
-      "Date Purchased": "2023-12-01"
-    },
-    {
       "Title": "Recorded By Sinatra",
       "Composer": "Various",
       "Arranger": "Barker, Warren",
@@ -39581,6 +39164,21 @@ const isb_library ={
       "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-669"
+    },
+    {
+      "Title": "Pop & Rock Legends: CHICAGO - e",
+      "Composer": "Various",
+      "Arranger": "Wasson, John",
+      "Publisher": "Hal Leonard Corporation",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Rock",
+      "Voicing": "Concert Band",
+      "Library ID": "C-670"
     },
     {
       "Title": "New Corn Palace, The",
@@ -39643,6 +39241,21 @@ const isb_library ={
       "Library ID": "C-675"
     },
     {
+      "Title": "Kite Tales - e",
+      "Composer": "Dorsett, Daniel",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "2",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "C-677"
+    },
+    {
       "Title": "Columbian March",
       "Composer": "King, Karl L.",
       "Arranger": "",
@@ -39701,6 +39314,36 @@ const isb_library ={
       "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-683"
+    },
+    {
+      "Title": "Sixty-Six - e",
+      "Composer": "Sheldon, Robert",
+      "Arranger": "",
+      "Publisher": "Alfred Publishing Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "5",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "C-684"
+    },
+    {
+      "Title": "Padstow Lifeboat, The - e",
+      "Composer": "Arnold, Malcolm",
+      "Arranger": "Woodfield, Ray",
+      "Publisher": "EMI Music Publishing",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
+      "Library ID": "C-685"
     },
     {
       "Title": "Battle Hymn of the Republic",
@@ -39823,6 +39466,21 @@ const isb_library ={
       "Library ID": "C-693"
     },
     {
+      "Title": "Rushmore (A Symphonic Prologue for Winds) - e",
+      "Composer": "Reed, Alfred",
+      "Arranger": "",
+      "Publisher": "C.L. Barnhouse Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "3.5",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "C-694"
+    },
+    {
       "Title": "Antiphon",
       "Composer": "Tull, Fisher",
       "Arranger": "",
@@ -39898,6 +39556,21 @@ const isb_library ={
       "Library ID": "C-699"
     },
     {
+      "Title": "Devil and the Deep Blue Sea, The - e",
+      "Composer": "King, Karl L.",
+      "Arranger": "",
+      "Publisher": "C.L. Barnhouse Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Novelty",
+      "Voicing": "Concert Band",
+      "Library ID": "C-700"
+    },
+    {
       "Title": "Concord Overture",
       "Composer": "Hermann, Ralph",
       "Arranger": "",
@@ -39971,6 +39644,21 @@ const isb_library ={
       "Music Type": "Concert March",
       "Voicing": "Concert Band",
       "Library ID": "C-705"
+    },
+    {
+      "Title": "Kickin Up Country - e",
+      "Composer": "Neeck, Larry",
+      "Arranger": "",
+      "Publisher": "C.L. Barnhouse Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Country",
+      "Voicing": "Concert Band",
+      "Library ID": "C-706"
     },
     {
       "Title": "Invicta (Overture for Band)",
@@ -40078,6 +39766,21 @@ const isb_library ={
       "Library ID": "C-713"
     },
     {
+      "Title": "Sketches of Wonderland - e",
+      "Composer": "Taylor, Clifton",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "C-714"
+    },
+    {
       "Title": "Dedicatory Overture",
       "Composer": "Williams, Clifton",
       "Arranger": "",
@@ -40180,12 +39883,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-722",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing several parts"
+      "Library ID": "C-722"
     },
     {
       "Title": "Festival Finale (God of our Fathers) w/chorus",
@@ -40290,11 +39988,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-729",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-04-30"
+      "Library ID": "C-729"
     },
     {
       "Title": "Toccata for Band",
@@ -40372,7 +40066,7 @@ const isb_library ={
       "Library ID": "C-734"
     },
     {
-      "Title": "Symphony No. 3 (Ilya Murometz 1st Movement)",
+      "Title": "Symphony No. 3 (Ilya Muromets 1st Movement)",
       "Composer": "Gliere, Reinhold ",
       "Arranger": "Bainum, Glenn C.",
       "Publisher": "",
@@ -40432,7 +40126,7 @@ const isb_library ={
       "Library ID": "C-738"
     },
     {
-      "Title": "Prelude and Fugue in D Minor",
+      "Title": "Prelude and Fugue in D minor",
       "Composer": "Bach, Johann Sebastian",
       "Arranger": "Moehlmann, R.L.",
       "Publisher": "H.T. FitzSimmons Co.",
@@ -40732,6 +40426,21 @@ const isb_library ={
       "Library ID": "C-759"
     },
     {
+      "Title": "Colorado",
+      "Composer": "Haech, Jean-Pierre",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "C-760"
+    },
+    {
       "Title": "Imperatrix",
       "Composer": "Reed, Alfred",
       "Arranger": "",
@@ -40789,12 +40498,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "C-766",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Modern Arrangement"
+      "Library ID": "C-766"
     },
     {
       "Title": "Overture for a Sunday Afternoon",
@@ -40884,12 +40588,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-774",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "C-774"
     },
     {
       "Title": "Concerto Semplice (Clarinet solo)",
@@ -40922,11 +40621,11 @@ const isb_library ={
       "Library ID": "C-776"
     },
     {
-      "Title": "Coriolanus",
-      "Composer": "Hidas, Frigyes",
-      "Arranger": "",
+      "Title": "Yerushalayin",
+      "Composer": "Begun, Yerachmiel",
+      "Arranger": "Collier, Johnny",
       "Publisher": "",
-      "Copies": "2",
+      "Copies": "",
       "Cost": "",
       "Grade Level": "",
       "State List": "",
@@ -40934,12 +40633,22 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-777",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "C-777"
+    },
+    {
+      "Title": "How The West Was Won - e",
+      "Composer": "Newman, Alfred",
+      "Arranger": "Sheets, Roland",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Soundtrack",
+      "Voicing": "Concert Band",
+      "Library ID": "C-777"
     },
     {
       "Title": "Bye, Bye, Bye",
@@ -41042,13 +40751,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Dixieland",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-785",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "C-785"
     },
     {
       "Title": "Music from a Bug's Life",
@@ -41066,8 +40771,8 @@ const isb_library ={
       "Library ID": "C-786"
     },
     {
-      "Title": "Smokey Joe's Cafe (Songs of Leiber & Stroller)",
-      "Composer": "Leiber and Stroller",
+      "Title": "Smokey Joe's Cafe (Songs of Leiber & Stoller)",
+      "Composer": "Leiber and Stoller",
       "Arranger": "Vinson, Johnnie",
       "Publisher": "Hal Leonard Corporation",
       "Copies": "",
@@ -41076,28 +40781,24 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "Pops",
+      "Music Type": "Musical",
       "Voicing": "Concert Band",
       "Library ID": "C-787"
     },
     {
-      "Title": "Walking Frog, The ",
+      "Title": "Walking Frog, The - e",
       "Composer": "King, Karl L. ",
       "Arranger": "",
       "Publisher": "C.L. Barnhouse Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-790",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "C-790"
     },
     {
       "Title": "Belford's Carnival",
@@ -41187,11 +40888,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Patriotic",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "C-796",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
+      "Library ID": "C-796"
     },
     {
       "Title": "Fantasy on Yankee Doodle",
@@ -41206,11 +40903,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-797",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-08-28"
+      "Library ID": "C-797"
     },
     {
       "Title": "Hands Across The Sea",
@@ -41225,11 +40918,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-798",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2017-05-16"
+      "Library ID": "C-798"
     },
     {
       "Title": "Mancini Spectacular",
@@ -41259,11 +40948,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Jazz",
       "Voicing": "Concert Band",
-      "Library ID": "C-800",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-02-07"
+      "Library ID": "C-800"
     },
     {
       "Title": "Sprint",
@@ -41278,12 +40963,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-802",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Score"
+      "Library ID": "C-802"
     },
     {
       "Title": "Semper Fidelis",
@@ -41508,11 +41188,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-820",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2018-10-09"
+      "Library ID": "C-820"
     },
     {
       "Title": "Spirit of America",
@@ -41562,7 +41238,7 @@ const isb_library ={
     {
       "Title": "Liberty Bell March",
       "Composer": "Sousa, John Philip",
-      "Arranger": "",
+      "Arranger": "Marine Band Edition",
       "Publisher": "US Marine Band",
       "Copies": "",
       "Cost": "",
@@ -41572,12 +41248,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "C-825",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing: Score"
+      "Library ID": "C-825"
     },
     {
       "Title": "Cyclometric Overture",
@@ -41712,11 +41383,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-834",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-05-17"
+      "Library ID": "C-834"
     },
     {
       "Title": "Harry Potter Symphonic Suite",
@@ -41746,11 +41413,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "C-836",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-08-28"
+      "Library ID": "C-836"
     },
     {
       "Title": "Salute to Spike Jones",
@@ -41810,16 +41473,12 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-841",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-02-07"
+      "Library ID": "C-841"
     },
     {
       "Title": "Die Meistersinger",
       "Composer": "Wagner, Richard",
-      "Arranger": "",
+      "Arranger": "Osterling, Eric",
       "Publisher": "Ludwig Music Publishing",
       "Copies": "",
       "Cost": "",
@@ -41859,12 +41518,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-844",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-08-28",
-      "Comments": "Missing: Score, Cl, 1,2,3, Sax 1, Bari, Tb 1,2, Tuba"
+      "Library ID": "C-844"
     },
     {
       "Title": "Ballad for Benny",
@@ -42018,7 +41672,7 @@ const isb_library ={
     },
     {
       "Title": "Overture To The Wasps",
-      "Composer": "Vaughan-Williams, Ralph",
+      "Composer": "Williams, Ralph Vaughan",
       "Arranger": "Hudson, Frank M.",
       "Publisher": "TRN Music Publisher",
       "Copies": "",
@@ -42119,11 +41773,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Pops",
       "Voicing": "Concert Band",
-      "Library ID": "C-862",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-06-01"
+      "Library ID": "C-862"
     },
     {
       "Title": "American Spectacular, An",
@@ -42169,6 +41819,21 @@ const isb_library ={
       "Music Type": "Sacred",
       "Voicing": "Concert Band",
       "Library ID": "C-866"
+    },
+    {
+      "Title": "Golden Gate March - e",
+      "Composer": "Goldman, Edwin Franko",
+      "Arranger": "",
+      "Publisher": "Belwin-Mills Publishing Corp.",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
+      "Library ID": "C-867"
     },
     {
       "Title": "Bell Piece (Tenor solo)",
@@ -42228,12 +41893,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Sacred",
       "Voicing": "Concert Band",
-      "Library ID": "C-872",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 2nd Alto & Tenor"
+      "Library ID": "C-872"
     },
     {
       "Title": "Sun and Moon (from Miss Siagon)",
@@ -42516,7 +42176,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "March",
       "Voicing": "Concert Band",
       "Library ID": "C-894"
     },
@@ -42533,12 +42193,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-895",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Limited instrumentation"
+      "Library ID": "C-895"
     },
     {
       "Title": "Suite Concertante",
@@ -42586,7 +42241,7 @@ const isb_library ={
       "Library ID": "C-899"
     },
     {
-      "Title": "Battle of Trenton",
+      "Title": "Battle of Trenton, The",
       "Composer": "Hewitt, James",
       "Arranger": "Elkus, Jonathan",
       "Publisher": "",
@@ -42616,7 +42271,7 @@ const isb_library ={
       "Library ID": "C-901"
     },
     {
-      "Title": "Finale from Symphony in F Minor, No.4",
+      "Title": "Finale (from Symphony in F minor, No.4)",
       "Composer": "Tchaikovsky, Pyotr Ilyich",
       "Arranger": "Safranek, V.F.",
       "Publisher": "",
@@ -42791,7 +42446,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Novelty",
       "Voicing": "Concert Band",
       "Library ID": "C-914"
     },
@@ -42853,12 +42508,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Rock",
       "Voicing": "Concert Band",
-      "Library ID": "C-918",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing parts"
+      "Library ID": "C-918"
     },
     {
       "Title": "Queen in Concert",
@@ -42873,11 +42523,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Rock",
       "Voicing": "Concert Band",
-      "Library ID": "C-919",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
+      "Library ID": "C-919"
     },
     {
       "Title": "Porgy & Bess",
@@ -43045,7 +42691,7 @@ const isb_library ={
       "Library ID": "C-931"
     },
     {
-      "Title": "The \"500\"",
+      "Title": "The 500\"\"",
       "Composer": "Jordan, Joe",
       "Arranger": "Moffitt, Bill",
       "Publisher": "",
@@ -43075,14 +42721,14 @@ const isb_library ={
       "Library ID": "C-933"
     },
     {
-      "Title": "Hollywood Milestones",
+      "Title": "Hollywood Milestones - e",
       "Composer": "Various",
       "Arranger": "Higgins, John",
       "Publisher": "Hal Leonard Corporation",
       "Copies": "",
       "Cost": "",
       "Grade Level": "3",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Soundtrack",
@@ -43387,12 +43033,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-963",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Score & Some Parts"
+      "Library ID": "C-963"
     },
     {
       "Title": "Freedom's Promise",
@@ -43692,11 +43333,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-984",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2023-10-10"
+      "Library ID": "C-984"
     },
     {
       "Title": "Flight",
@@ -43786,11 +43423,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "C-992",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-08-24"
+      "Library ID": "C-992"
     },
     {
       "Title": "Selections from Grease",
@@ -43840,7 +43473,7 @@ const isb_library ={
     {
       "Title": "Whip & Spur",
       "Composer": "Allan, Thomas",
-      "Arranger": "Craemer, Ray E.",
+      "Arranger": "Cramer, Ray E.",
       "Publisher": "TRN Music Publisher",
       "Copies": "",
       "Cost": "",
@@ -43929,8 +43562,8 @@ const isb_library ={
     },
     {
       "Title": "Amazing Grace",
-      "Composer": "",
-      "Arranger": "William Himes",
+      "Composer": "Traditional",
+      "Arranger": "Himes, William",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -43955,12 +43588,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-4",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "D-4"
     },
     {
       "Title": "Three Spanish Dances",
@@ -43975,15 +43603,10 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Latin",
       "Voicing": "Concert Band",
-      "Library ID": "D-5",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "D-5"
     },
     {
-      "Title": "Unfinished Symphony",
+      "Title": "Unfinished Symphony, The",
       "Composer": "Schubert, Franz",
       "Arranger": "Moses-Tobani, Theo.",
       "Publisher": "Carl Fischer, LLC",
@@ -44055,12 +43678,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Opera",
       "Voicing": "Concert Band",
-      "Library ID": "D-10",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Bassoon 1"
+      "Library ID": "D-10"
     },
     {
       "Title": "Gulf Island Sketches",
@@ -44090,12 +43708,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-12",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "D-12"
     },
     {
       "Title": "Manhattan",
@@ -44108,7 +43721,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
       "Library ID": "D-13"
     },
@@ -44125,12 +43738,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Opera",
       "Voicing": "Concert Band",
-      "Library ID": "D-14",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax, Missing Cor 2"
+      "Library ID": "D-14"
     },
     {
       "Title": "Poet and Peasant Overture",
@@ -44160,12 +43768,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-16",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "D-16"
     },
     {
       "Title": "Apple Blossoms",
@@ -44210,11 +43813,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-19",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2018-10-09"
+      "Library ID": "D-19"
     },
     {
       "Title": "Salute to Camp Harrison",
@@ -44259,12 +43858,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-22",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "D-22"
     },
     {
       "Title": "Golden Friendships",
@@ -44297,8 +43891,8 @@ const isb_library ={
       "Library ID": "D-24"
     },
     {
-      "Title": "Down South",
-      "Composer": "Myddleton, Wm. Hy.",
+      "Title": "Down South (American Sketch) ",
+      "Composer": "Myddleton, William Hy.",
       "Arranger": "",
       "Publisher": "Boosey & Hawkes, Inc.",
       "Copies": "",
@@ -44309,15 +43903,10 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-25",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Hn 1,2"
+      "Library ID": "D-25"
     },
     {
-      "Title": "Country Wedding Symphony No 1",
+      "Title": "Country Wedding Symphony No. 1",
       "Composer": "Goldmark, Carl",
       "Arranger": "Stretton, A.J.",
       "Publisher": "Boosey & Hawkes, Inc.",
@@ -44344,15 +43933,10 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Opera",
       "Voicing": "Concert Band",
-      "Library ID": "D-27",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "D-27"
     },
     {
-      "Title": "Country Wedding Symphony",
+      "Title": "Country Wedding Symphony No. 2",
       "Composer": "Goldmark, Carl",
       "Arranger": "Armbruster, Carl",
       "Publisher": "Boosey & Hawkes, Inc.",
@@ -44410,6 +43994,21 @@ const isb_library ={
       "Music Type": "Musical",
       "Voicing": "Concert Band",
       "Library ID": "D-31"
+    },
+    {
+      "Title": "Bugles and Drums",
+      "Composer": "Goldman, Edwin Franko",
+      "Arranger": "",
+      "Publisher": "Carl Fischer, LLC",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
+      "Library ID": "D-32"
     },
     {
       "Title": "Cavalry of the Clouds",
@@ -44482,14 +44081,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Sacred",
       "Voicing": "Concert Band",
-      "Library ID": "D-37",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "D-37"
     },
     {
       "Title": "Bricusse and Newley On Broadway",
@@ -44504,12 +44098,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Musical",
       "Voicing": "Concert Band",
-      "Library ID": "D-38",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "D-38"
     },
     {
       "Title": "Ammerland",
@@ -44524,12 +44113,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-39",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "D-39"
     },
     {
       "Title": "Advance Guard, The",
@@ -44574,12 +44158,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-43",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "D-43"
     },
     {
       "Title": "Awake! (Chorale from Die Meistersinger)",
@@ -44594,12 +44173,22 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-43",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "D-43"
+    },
+    {
+      "Title": "Danzon No. 2 - e",
+      "Composer": "Marquez, Arturo",
+      "Arranger": "Nickel, Oliver",
+      "Publisher": "Peer International Corporation",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "D-44"
     },
     {
       "Title": "Sevens",
@@ -44614,12 +44203,22 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "D-45",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "D-45"
+    },
+    {
+      "Title": "Coriolanus (A Ballet Suite for Wind Orchestra)",
+      "Composer": "Hidas, Frigyes",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "2",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Ballet",
+      "Voicing": "Concert Band",
+      "Library ID": "D-46"
     },
     {
       "Title": "Yankee Doodling: A Young Person's Guide to the Concert Band (w/Narrator)",
@@ -44844,11 +44443,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "E-15",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-11-15"
+      "Library ID": "E-15"
     },
     {
       "Title": "Malaguena",
@@ -44896,7 +44491,7 @@ const isb_library ={
       "Library ID": "E-18"
     },
     {
-      "Title": "Pomp and Circumstance No. 4",
+      "Title": "Pomp and Circumstance #4",
       "Composer": "Elgar, Edward",
       "Arranger": "Retford, M.",
       "Publisher": "Boosey & Hawkes, Inc.",
@@ -44938,8 +44533,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "E-21",
-      "Date Purchased": "2022-03-01"
+      "Library ID": "E-21"
     },
     {
       "Title": "Friendly Rivals, The (Cornet Duet)",
@@ -44954,12 +44548,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "E-22",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Cornet Duet"
+      "Library ID": "E-22"
     },
     {
       "Title": "Andante and Rondo Capriccioso",
@@ -45019,11 +44608,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "E-25",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-05-17"
+      "Library ID": "E-25"
     },
     {
       "Title": "Overture to Euryanthe",
@@ -45116,14 +44701,14 @@ const isb_library ={
       "Library ID": "E-31"
     },
     {
-      "Title": "Softly As I Leave You (Euphonium solo)",
-      "Composer": "De Vita, Alfred",
+      "Title": "Softly As I Leave You (Euphonium solo) - e",
+      "Composer": "DeVita, Alfred",
       "Arranger": "Catherall, Alan",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
@@ -45146,20 +44731,19 @@ const isb_library ={
       "Library ID": "E-34"
     },
     {
-      "Title": "Unidad En Ritmo (An Afro-Latin Tribute)",
+      "Title": "Unidad En Ritmo (An Afro-Latin Tribute) - e",
       "Composer": "Fernandez, Michele",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Latin",
       "Voicing": "Concert Band",
-      "Library ID": "E-35",
-      "Date Purchased": "2023-05-01"
+      "Library ID": "E-35"
     },
     {
       "Title": "Symphony No. 4 (Romantic)",
@@ -45297,7 +44881,7 @@ const isb_library ={
       "Library ID": "F-7"
     },
     {
-      "Title": "Ida and Dottie Polka - Cornet Duet",
+      "Title": "Ida and Dottie Polka (Cornet Duet)",
       "Composer": "Losey, F.H.",
       "Arranger": "",
       "Publisher": "Carl Fischer, LLC",
@@ -45307,7 +44891,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Polka",
       "Voicing": "Concert Band w/soloist",
       "Library ID": "F-8"
     },
@@ -45324,12 +44908,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-9",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Flute"
+      "Library ID": "F-9"
     },
     {
       "Title": "Copa Cabana",
@@ -45359,12 +44938,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "F-11",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Flute"
+      "Library ID": "F-11"
     },
     {
       "Title": "Chorale: St. Antoni",
@@ -45514,16 +45088,11 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-20",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Tenor Sax"
+      "Library ID": "F-20"
     },
     {
       "Title": "Pilgrims' March (from The Italian Symphony)",
-      "Composer": "Mendelssohn, F.",
+      "Composer": "Mendelssohn, Felix",
       "Arranger": "Roberts, Chas. J.",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
@@ -45577,7 +45146,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Polka",
       "Voicing": "Concert Band",
       "Library ID": "F-24"
     },
@@ -45744,12 +45313,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-34",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing or did not come with some parts"
+      "Library ID": "F-34"
     },
     {
       "Title": "Passo Doble",
@@ -45764,12 +45328,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Latin",
       "Voicing": "Concert Band",
-      "Library ID": "F-34",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing (or did not come with) some parts"
+      "Library ID": "F-34"
     },
     {
       "Title": "Scene and Air (Clarinet Solo)",
@@ -45844,12 +45403,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-38",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Need solo written from score"
+      "Library ID": "F-38"
     },
     {
       "Title": "Marche Lorraine",
@@ -45879,12 +45433,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-40",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing sax parts"
+      "Library ID": "F-40"
     },
     {
       "Title": "Mlle Modiste (Selections from)",
@@ -45932,7 +45481,7 @@ const isb_library ={
       "Library ID": "F-43"
     },
     {
-      "Title": "Marinella (Ouverture)",
+      "Title": "Marinella (Overture)",
       "Composer": "Fucik, J.",
       "Arranger": "Hartmann, Bruno",
       "Publisher": "",
@@ -45944,12 +45493,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-44",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Bass Cl"
+      "Library ID": "F-44"
     },
     {
       "Title": "Rustles of Spring",
@@ -46009,12 +45553,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-48",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Bari Sax"
+      "Library ID": "F-48"
     },
     {
       "Title": "Rosen Walzer",
@@ -46029,12 +45568,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "F-49",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Bass Cl"
+      "Library ID": "F-49"
     },
     {
       "Title": "Marcha 3 De Febrero (Bolivian Concert March)",
@@ -46094,12 +45628,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-53",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-53"
     },
     {
       "Title": "Return of Spring",
@@ -46114,12 +45643,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "F-54",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Horns"
+      "Library ID": "F-54"
     },
     {
       "Title": "Requiem (Dies Irae, Sanctus, Benedictus, Angnus Dei)",
@@ -46179,12 +45703,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-58",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax Parts"
+      "Library ID": "F-58"
     },
     {
       "Title": "Die Puppenfee 1 (Vorspiel)",
@@ -46229,12 +45748,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-61",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Tuba 1 & Alto Sax 2"
+      "Library ID": "F-61"
     },
     {
       "Title": "Die Puppenfee 4 (Am Abend)",
@@ -46249,12 +45763,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-62",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Tuba 1"
+      "Library ID": "F-62"
     },
     {
       "Title": "Die Puppenfee 5 (Galopp)",
@@ -46348,7 +45857,7 @@ const isb_library ={
     },
     {
       "Title": "Robin Hood Selections",
-      "Composer": "de Koven, R.",
+      "Composer": "DeKoven, Reginald",
       "Arranger": "Wiegand, George",
       "Publisher": "G. Schirmer, Inc.",
       "Copies": "",
@@ -46359,12 +45868,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-69",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax, Missing Fl pg 2"
+      "Library ID": "F-69"
     },
     {
       "Title": "Nachtigall und Rabe Ouverture",
@@ -46379,12 +45883,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Overture",
       "Voicing": "Concert Band",
-      "Library ID": "F-71",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-71"
     },
     {
       "Title": "Nearer My God to Thee",
@@ -46399,12 +45898,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Sacred",
       "Voicing": "Concert Band",
-      "Library ID": "F-72",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax, Flutes"
+      "Library ID": "F-72"
     },
     {
       "Title": "New Vienna",
@@ -46449,12 +45943,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-75",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-75"
     },
     {
       "Title": "Offenbach - Fantasie",
@@ -46469,12 +45958,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-76",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-76"
     },
     {
       "Title": "Oh, Lady Be Good (from Lady Be Good)",
@@ -46492,14 +45976,14 @@ const isb_library ={
       "Library ID": "F-77"
     },
     {
-      "Title": "Ohne Sorgen (Carefree Polka)",
+      "Title": "Ohne Sorgen (Carefree Polka) - e",
       "Composer": "Strauss, Joseph",
       "Arranger": "Topf, Rudolf",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Polka",
@@ -46643,7 +46127,7 @@ const isb_library ={
     },
     {
       "Title": "Nabucodonosor",
-      "Composer": "Verdi, G.",
+      "Composer": "Verdi, Giuseppe",
       "Arranger": "Laurendeau, L.P.",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
@@ -46658,7 +46142,7 @@ const isb_library ={
     },
     {
       "Title": "Nabuccodonosor",
-      "Composer": "Verdi, G.",
+      "Composer": "Verdi, Giuseppe",
       "Arranger": "Kliment, Hans",
       "Publisher": "",
       "Copies": "",
@@ -46774,12 +46258,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "F-96",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 2nd Horn, 3rd Trombone"
+      "Library ID": "F-96"
     },
     {
       "Title": "Wiener Praterleben",
@@ -46843,7 +46322,7 @@ const isb_library ={
     },
     {
       "Title": "Wine, Woman and Song",
-      "Composer": "Strauss, Johann",
+      "Composer": "Strauss Jr., Johann",
       "Arranger": "Greissinger, F.H.",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
@@ -46899,12 +46378,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Musical",
       "Voicing": "Concert Band",
-      "Library ID": "F-103",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 2nd Oboe"
+      "Library ID": "F-103"
     },
     {
       "Title": "Wood Up Quickstep",
@@ -46919,16 +46393,11 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-104",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-104"
     },
     {
-      "Title": "Turkish March (from Ruins of Athens)",
-      "Composer": "Beethoven, L. von",
+      "Title": "Turkish March (from The Ruins of Athens)",
+      "Composer": "Beethoven, Ludwig van",
       "Arranger": "Lake, M.L.",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
@@ -47014,12 +46483,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-110",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-110"
     },
     {
       "Title": "Yankee Doodle (Piccolo Solo)",
@@ -47032,14 +46496,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Overture",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-111",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-111"
     },
     {
       "Title": "Turkey In The Straw",
@@ -47052,7 +46511,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Folk",
       "Voicing": "Concert Band",
       "Library ID": "F-112"
     },
@@ -47099,12 +46558,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-115",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 1st Cornet"
+      "Library ID": "F-115"
     },
     {
       "Title": "Valse Militaire",
@@ -47177,14 +46631,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "March",
+      "Music Type": "Concert March",
       "Voicing": "Concert Band",
-      "Library ID": "F-120",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-120"
     },
     {
       "Title": "Valancia",
@@ -47203,8 +46652,8 @@ const isb_library ={
     },
     {
       "Title": "Tramp, Tramp, Tramp (Cornet, Clarinet or Baritone solo)",
-      "Composer": "Rollinson, T.H.",
-      "Arranger": "",
+      "Composer": "Herbert, Victor",
+      "Arranger": "Rollinson, T.H.",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -47212,14 +46661,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Operetta",
       "Voicing": "Concert Band",
-      "Library ID": "F-122",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 1st Cornet, No sax"
+      "Library ID": "F-122"
     },
     {
       "Title": "Funeral and Triumphal Symphony (2nd Movement)",
@@ -47309,12 +46753,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band",
-      "Library ID": "F-128",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Percussion"
+      "Library ID": "F-128"
     },
     {
       "Title": "Merry Widow Waltz, The (Humoresque on)",
@@ -47359,12 +46798,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-131",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-131"
     },
     {
       "Title": "Primavera en Austria (Village Swallows)",
@@ -47382,7 +46816,7 @@ const isb_library ={
       "Library ID": "F-132"
     },
     {
-      "Title": "Flores de Espana",
+      "Title": "Flores de Espana *",
       "Composer": "Chovi, Pascual Perez",
       "Arranger": "",
       "Publisher": "Editorial Musica Moderna",
@@ -47469,12 +46903,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "F-136",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Bari or Bassoon"
+      "Library ID": "F-136"
     },
     {
       "Title": "Water Witch, The (Cornet solo)",
@@ -47492,7 +46921,7 @@ const isb_library ={
       "Library ID": "F-137"
     },
     {
-      "Title": "Roumanian Rhapsody",
+      "Title": "Romanian Rhapsody",
       "Composer": "Enesco, George",
       "Arranger": "Gardner, Maurice",
       "Publisher": "Staff Music Publishing Co. Inc.",
@@ -47519,15 +46948,10 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-139",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Solo"
+      "Library ID": "F-139"
     },
     {
-      "Title": "Samt und Seide (fron Der Fremdenfuhrer)",
+      "Title": "Samt und Seide (from Der Fremdenfuhrer)",
       "Composer": "Ziehrer, C.M.",
       "Arranger": "",
       "Publisher": "Ludwig Music Publishing",
@@ -47569,12 +46993,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-142",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-142"
     },
     {
       "Title": "Scene und Aria (from Luisa di Montfort)(Clarinet solo)",
@@ -47604,12 +47023,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-144",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Includes: Maple Leaf Rag, The Entertainer, Peacherine Rag & A Breeze from Alabama (each are separate tunes)"
+      "Library ID": "F-144"
     },
     {
       "Title": "Serenade",
@@ -47832,14 +47246,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Patriotic",
       "Voicing": "Concert Band",
-      "Library ID": "F-159",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score"
+      "Library ID": "F-159"
     },
     {
       "Title": "Yours Is My Heart Alone",
@@ -47917,7 +47326,7 @@ const isb_library ={
       "Library ID": "F-164"
     },
     {
-      "Title": "Clair de Lune",
+      "Title": "Claire de Lune",
       "Composer": "Debussy, Claude",
       "Arranger": "Weiss, Anton",
       "Publisher": "",
@@ -47989,12 +47398,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "F-170",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 2nd Trombone"
+      "Library ID": "F-170"
     },
     {
       "Title": "Begin the Beguine",
@@ -48009,15 +47413,10 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-171",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing: 2nd Oboe, 2nd Bassoon, Bass Clarinet"
+      "Library ID": "F-171"
     },
     {
-      "Title": "Tales From The Vienna Woods",
+      "Title": "Tales from the Vienna Woods",
       "Composer": "Strauss, Johann",
       "Arranger": "Sanders, George H.",
       "Publisher": "",
@@ -48119,12 +47518,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-178",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Horn 1"
+      "Library ID": "F-178"
     },
     {
       "Title": "Introduction and Bridal Chorus (from Lohengrin",
@@ -48214,12 +47608,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-184",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing: Cl solo,  Alto Sax, Horn 4"
+      "Library ID": "F-184"
     },
     {
       "Title": "Straussiana (Waltz Selections on Strauss Melodies)",
@@ -48264,12 +47653,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band",
-      "Library ID": "F-187",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-187"
     },
     {
       "Title": "Sounds from the Hudson (Cornet solo)",
@@ -48314,12 +47698,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-190",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-190"
     },
     {
       "Title": "Thoughts of Love (Cornet, Trombone or Baritone solo)",
@@ -48364,12 +47743,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-193",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-193"
     },
     {
       "Title": "Au Bord D'un Ruisseau",
@@ -48384,12 +47758,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-193",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-193"
     },
     {
       "Title": "Sonntag ist's",
@@ -48404,12 +47773,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-194",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-194"
     },
     {
       "Title": "Sunburst Polka (Piccolo solo)",
@@ -48424,12 +47788,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-195",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-195"
     },
     {
       "Title": "Strong In Thy Strength",
@@ -48474,12 +47833,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-198",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 1st Alto, 2nd Cornet, 1st Trombone"
+      "Library ID": "F-198"
     },
     {
       "Title": "You're A Grand Old Flag (from Yankee Doodle Dandy)",
@@ -48492,14 +47846,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Soundtrack",
       "Voicing": "Concert Band",
-      "Library ID": "F-199",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Oboe, Euphonium"
+      "Library ID": "F-199"
     },
     {
       "Title": "Danse Circassienne",
@@ -48649,12 +47998,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "F-207",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-207"
     },
     {
       "Title": "Divertimento",
@@ -48729,12 +48073,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-211",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Timpani"
+      "Library ID": "F-211"
     },
     {
       "Title": "Cordoba",
@@ -48749,12 +48088,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-212",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 1st Tenor"
+      "Library ID": "F-212"
     },
     {
       "Title": "Corinto y Oro",
@@ -49054,12 +48388,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-229",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing score"
+      "Library ID": "F-229"
     },
     {
       "Title": "Carnival of Venice (Cornet, Baritone, Alto Sax solo)",
@@ -49194,12 +48523,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-236",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 2nd & 3rd Clarinet, No Sax"
+      "Library ID": "F-236"
     },
     {
       "Title": "At Break of Dawn (Serenade)",
@@ -49214,12 +48538,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-237",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Bb Bass, Score"
+      "Library ID": "F-237"
     },
     {
       "Title": "Gwendoline Prelude",
@@ -49234,32 +48553,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-238",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 1st Cornet"
-    },
-    {
-      "Title": "Gwendoline Prelude",
-      "Composer": "Charrier, E.",
-      "Arranger": "Meister, G.",
-      "Publisher": "",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "Concert Band",
-      "Library ID": "F-238",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 1st Cornet"
+      "Library ID": "F-238"
     },
     {
       "Title": "Buen Cartel!",
@@ -49379,12 +48673,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-245",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 1st Alto Sax"
+      "Library ID": "F-245"
     },
     {
       "Title": "Bride of the Waves (Cornet Solo)",
@@ -49489,12 +48778,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-252",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing CL 2,3, Bass"
+      "Library ID": "F-252"
     },
     {
       "Title": "American Favorite, The (Piccolo solo)",
@@ -49509,16 +48793,11 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-253",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Pic solo, Sax, Flute"
+      "Library ID": "F-253"
     },
     {
       "Title": "American Patrol",
-      "Composer": "Meacham, F.W.",
+      "Composer": "Meacham, Frank W.",
       "Arranger": "",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
@@ -49544,12 +48823,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-255",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax, Cl 3"
+      "Library ID": "F-255"
     },
     {
       "Title": "Farbenspiele",
@@ -49594,12 +48868,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Paso Doble",
       "Voicing": "Concert Band",
-      "Library ID": "F-257",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Bass CL, Horns"
+      "Library ID": "F-257"
     },
     {
       "Title": "Amparito Roca",
@@ -49614,12 +48883,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Paso Doble",
       "Voicing": "Concert Band",
-      "Library ID": "F-257",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Bass Cl, Horns"
+      "Library ID": "F-257"
     },
     {
       "Title": "Adoration",
@@ -49679,12 +48943,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-261",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Tenor sax, Bari sax"
+      "Library ID": "F-261"
     },
     {
       "Title": "Media Luz, A (Tango)",
@@ -49699,12 +48958,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-261",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Tenor sax, Bari Sax"
+      "Library ID": "F-261"
     },
     {
       "Title": "Bolero (Cornet Trio)",
@@ -49779,16 +49033,11 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-266",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-266"
     },
     {
       "Title": "La Boheme Selections",
-      "Composer": "Puccini, G.",
+      "Composer": "Puccini, Giacomo",
       "Arranger": "Bourdon, Rosario",
       "Publisher": "",
       "Copies": "",
@@ -49804,22 +49053,7 @@ const isb_library ={
     {
       "Title": "Bohemian Girl (from Balfe's Opera)",
       "Composer": "Tobani, Theo. M.",
-      "Arranger": "Laurendeau, L,P,",
-      "Publisher": "Carl Fischer, LLC",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "Opera",
-      "Voicing": "Concert Band",
-      "Library ID": "F-268"
-    },
-    {
-      "Title": "Bohemian Girl (from Balfe's Opera)",
-      "Composer": "Tobani, Theo. M.",
-      "Arranger": "Laurendeau, L,P,",
+      "Arranger": "Laurendeau, L.P.",
       "Publisher": "Carl Fischer, LLC",
       "Copies": "",
       "Cost": "",
@@ -49859,12 +49093,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band",
-      "Library ID": "F-270",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Oboe 1. Tmp 2"
+      "Library ID": "F-270"
     },
     {
       "Title": "Prodana Nevesta (The Bartered Bride)",
@@ -49879,12 +49108,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-271",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax, Oboe, Bsn"
+      "Library ID": "F-271"
     },
     {
       "Title": "Arbucklenian Polka (Cornet Solo)",
@@ -49899,12 +49123,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band",
-      "Library ID": "F-272",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax, Cornet solo"
+      "Library ID": "F-272"
     },
     {
       "Title": "Artist's Life",
@@ -49994,12 +49213,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Paso Doble",
       "Voicing": "Concert Band",
-      "Library ID": "F-277",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Bsn 1"
+      "Library ID": "F-277"
     },
     {
       "Title": "Arbucklenian Polka (Cornet, Baritone solo)",
@@ -50149,12 +49363,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Musical",
       "Voicing": "Concert Band",
-      "Library ID": "F-287",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Alto Sax 1"
+      "Library ID": "F-287"
     },
     {
       "Title": "Hungarian Dances (A Medley from the Collections of Brahms and Liszt)",
@@ -50274,12 +49483,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "F-295",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-295"
     },
     {
       "Title": "Last Spring, The",
@@ -50324,12 +49528,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-298",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Pic solo, Fl, Oboe, Bassoon, Sax"
+      "Library ID": "F-298"
     },
     {
       "Title": "Kiss In The Dark, A (from Orange Blossoms)",
@@ -50344,12 +49543,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-299",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing 2nd Oboe, 2nd Bassoon, 2nd Flute and Bass CL"
+      "Library ID": "F-299"
     },
     {
       "Title": "Love Thoughts (Trombone solo)",
@@ -50499,12 +49693,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-309",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No sax"
+      "Library ID": "F-309"
     },
     {
       "Title": "Histoires",
@@ -50519,12 +49708,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-310",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Bassoon 1"
+      "Library ID": "F-310"
     },
     {
       "Title": "Herbert L. Clarke's Triumphal March (Small group feature)",
@@ -50614,12 +49798,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-316",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score, Sax"
+      "Library ID": "F-316"
     },
     {
       "Title": "Libuse Overture",
@@ -50649,12 +49828,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-318",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax, Has Eb Bass, no Bb"
+      "Library ID": "F-318"
     },
     {
       "Title": "Hail Miami!",
@@ -50732,8 +49906,8 @@ const isb_library ={
       "Library ID": "F-322"
     },
     {
-      "Title": "Gallito",
-      "Composer": "Lope, S.",
+      "Title": "Gallito *",
+      "Composer": "Lope, Santiago ",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -50747,8 +49921,8 @@ const isb_library ={
       "Library ID": "F-323"
     },
     {
-      "Title": "Vito",
-      "Composer": "Lope, S.",
+      "Title": "Vito *",
+      "Composer": "Lope, Santiago",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -50763,7 +49937,7 @@ const isb_library ={
     },
     {
       "Title": "Harmonious Blacksmith (Euphonium solo)",
-      "Composer": "Handel",
+      "Composer": "Handel, George Frideric",
       "Arranger": "Brasch, H.",
       "Publisher": "",
       "Copies": "",
@@ -50999,12 +50173,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-336",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing solo"
+      "Library ID": "F-336"
     },
     {
       "Title": "Fiesta Espanola",
@@ -51109,16 +50278,11 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band w/soloist",
-      "Library ID": "F-342",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing score, tuba and solo part"
+      "Library ID": "F-342"
     },
     {
       "Title": "Fra Diavolo Overture",
-      "Composer": "Auber, D.F.",
+      "Composer": "Auber, D.F.E.",
       "Arranger": "Gardner, Maurice",
       "Publisher": "Staff Music Publishing Co. Inc.",
       "Copies": "",
@@ -51144,12 +50308,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-344",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing score. No Sax"
+      "Library ID": "F-344"
     },
     {
       "Title": "Five Foot Two, Eyes of Blue",
@@ -51224,12 +50383,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "Concert Band",
-      "Library ID": "F-349",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax, Missing Score"
+      "Library ID": "F-349"
     },
     {
       "Title": "Erotic",
@@ -51259,12 +50413,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Polka",
       "Voicing": "Concert Band",
-      "Library ID": "F-351",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax or Trombone"
+      "Library ID": "F-351"
     },
     {
       "Title": "Entry of the Bojares",
@@ -51279,11 +50428,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-352",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "1996-02-01"
+      "Library ID": "F-352"
     },
     {
       "Title": "Grand Fantasia (You'll Remember Me)",
@@ -51298,12 +50443,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-353",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax, Missing Score, Tmp. 2"
+      "Library ID": "F-353"
     },
     {
       "Title": "Spanischer Zigeunertanz",
@@ -51318,12 +50458,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Paso Doble",
       "Voicing": "Concert Band",
-      "Library ID": "F-354",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing score, Tmp 1."
+      "Library ID": "F-354"
     },
     {
       "Title": "Escapada (A Mexican Elopement)",
@@ -51402,7 +50537,7 @@ const isb_library ={
     },
     {
       "Title": "Glorious Things of Thee Are Spoken (Austrian Hymn)",
-      "Composer": "Traditional",
+      "Composer": "Hayden, Franz Joseph ",
       "Arranger": "Ployhar, James D.",
       "Publisher": "",
       "Copies": "",
@@ -51533,12 +50668,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-368",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-368"
     },
     {
       "Title": "El Relicario",
@@ -51553,12 +50683,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Paso Doble",
       "Voicing": "Concert Band",
-      "Library ID": "F-369",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Alto Sax 2, Tenor Sax"
+      "Library ID": "F-369"
     },
     {
       "Title": "El Capitan (Selections)",
@@ -51678,12 +50803,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Waltz",
       "Voicing": "Concert Band",
-      "Library ID": "F-375",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Score, Sax"
+      "Library ID": "F-375"
     },
     {
       "Title": "Indian Summer (An American Idyl)",
@@ -51741,7 +50861,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Folk",
       "Voicing": "Concert Band",
       "Library ID": "F-379"
     },
@@ -51818,12 +50938,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Concert Band",
-      "Library ID": "F-383",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "No Sax"
+      "Library ID": "F-383"
     },
     {
       "Title": "Jolly Peter",
@@ -52126,10 +51241,10 @@ const isb_library ={
       "Library ID": "J-15"
     },
     {
-      "Title": "Beaver Junction",
-      "Composer": "Edison, Harry",
-      "Arranger": "Harding, Buster",
-      "Publisher": "",
+      "Title": "Half And Half",
+      "Composer": "Niehaus, Lennie",
+      "Arranger": "",
+      "Publisher": "Hal Leonard Corporation",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -52412,7 +51527,7 @@ const isb_library ={
     },
     {
       "Title": "By The Embers",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -52471,7 +51586,7 @@ const isb_library ={
       "Library ID": "J-38"
     },
     {
-      "Title": "A Cat's Ninth Life",
+      "Title": "Cat's Ninth Life, A",
       "Composer": "Slack, Freddie",
       "Arranger": "Hudson, Will",
       "Publisher": "Robbins Music Corporation",
@@ -52547,7 +51662,7 @@ const isb_library ={
     },
     {
       "Title": "Chopin Waltz Medley No. 1",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "Barovick, Fred",
       "Publisher": "",
       "Copies": "",
@@ -52636,9 +51751,9 @@ const isb_library ={
       "Library ID": "J-48"
     },
     {
-      "Title": "Color My World",
+      "Title": "Greensleeves (What Child Is This)",
       "Composer": "",
-      "Arranger": "",
+      "Arranger": "Metzger, David",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -52646,7 +51761,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Christmas",
       "Voicing": "Jazz Band",
       "Library ID": "J-49"
     },
@@ -52773,7 +51888,7 @@ const isb_library ={
     {
       "Title": "Cubano Bop",
       "Composer": "Gillespie, Dizzy",
-      "Arranger": "\"Gil\" Fuller",
+      "Arranger": "Fuller, Gil",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -52802,7 +51917,7 @@ const isb_library ={
     },
     {
       "Title": "Danubio Azul (Cha Cha Cha)",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -52817,7 +51932,7 @@ const isb_library ={
     },
     {
       "Title": "Dark Eyes",
-      "Composer": "A. Salami",
+      "Composer": "Salami, A.",
       "Arranger": "Dorsey, Tommy",
       "Publisher": "",
       "Copies": "",
@@ -52877,7 +51992,7 @@ const isb_library ={
     },
     {
       "Title": "Drigo's Serenade (Waltz)",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "Dale, Jimmy",
       "Publisher": "",
       "Copies": "",
@@ -52923,7 +52038,7 @@ const isb_library ={
     {
       "Title": "Easy Go",
       "Composer": "Kenton, Stan",
-      "Arranger": "Kenton, Stan",
+      "Arranger": "",
       "Publisher": "Criterion Music Corp.",
       "Copies": "",
       "Cost": "",
@@ -52981,21 +52096,6 @@ const isb_library ={
       "Library ID": "J-71"
     },
     {
-      "Title": "Espana Can I",
-      "Composer": "Marquina, Pascual",
-      "Arranger": "Prince, Graham",
-      "Publisher": "Edward B. Marks Music Company",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "Jazz Band",
-      "Library ID": "J-72"
-    },
-    {
       "Title": "Espana Cani",
       "Composer": "Marquina, Pascual",
       "Arranger": "Prince, Graham",
@@ -53006,14 +52106,24 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
+      "Music Type": "Paso Doble",
+      "Voicing": "Jazz Band",
+      "Library ID": "J-72"
+    },
+    {
+      "Title": "Christmas Song, The",
+      "Composer": "Torme, Mel",
+      "Arranger": "Wells, Robert",
+      "Publisher": "Van Heusen Music",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Jazz Band",
-      "Library ID": "J-73",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Piano"
+      "Library ID": "J-73"
     },
     {
       "Title": "Euphoria",
@@ -53376,10 +52486,10 @@ const isb_library ={
       "Library ID": "J-97"
     },
     {
-      "Title": "I Can't Get Started (Fox Trot)",
-      "Composer": "Duke, Vernon",
-      "Arranger": "Mason, Jack",
-      "Publisher": "",
+      "Title": "Old Devil Moon",
+      "Composer": "Lake & Harburg",
+      "Arranger": "Nestico, Sammy",
+      "Publisher": "Chappell Music Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -53482,7 +52592,7 @@ const isb_library ={
     },
     {
       "Title": "I'm In The Mood For Love",
-      "Composer": "Warrington, Johnny",
+      "Composer": "McHugh & Fields",
       "Arranger": "Warrington, Johnny",
       "Publisher": "Robbins Music Corporation",
       "Copies": "",
@@ -53498,8 +52608,8 @@ const isb_library ={
     {
       "Title": "I May Be Wrong (But, I Think You're Wonderful)",
       "Composer": "Sullivan, Henry",
-      "Arranger": "Ruskin, Harry",
-      "Publisher": "",
+      "Arranger": "Sauter, Eddie",
+      "Publisher": "A-R Editions, Inc.",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -53988,12 +53098,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Jazz Band",
-      "Library ID": "J-138",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "The same sheet music is also in J-137"
+      "Library ID": "J-138"
     },
     {
       "Title": "Mama's Gone to Capa City",
@@ -54008,12 +53113,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Jazz Band",
-      "Library ID": "J-139",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "There's quite literally nothing else to this. It's a trombone part."
+      "Library ID": "J-139"
     },
     {
       "Title": "Mambo Jambo",
@@ -54209,21 +53309,6 @@ const isb_library ={
       "Music Type": "",
       "Voicing": "Jazz Band",
       "Library ID": "J-158"
-    },
-    {
-      "Title": "Moon Was Yellow (El Amor Llamo)",
-      "Composer": "",
-      "Arranger": "",
-      "Publisher": "",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "Jazz Band",
-      "Library ID": "J-159"
     },
     {
       "Title": "Moon Was Yellow (El Amor Llamo)",
@@ -54661,7 +53746,7 @@ const isb_library ={
       "Library ID": "J-186"
     },
     {
-      "Title": "A Pretty Girl Is Like A Melody",
+      "Title": "Pretty Girl Is Like A Melody, A",
       "Composer": "Berlin, Irving",
       "Arranger": "Ades, Hawley",
       "Publisher": "Irving Berlin Music Company",
@@ -55003,12 +54088,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "",
       "Voicing": "Jazz Band",
-      "Library ID": "J-208",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "There are two J-208's."
+      "Library ID": "J-208"
     },
     {
       "Title": "Shadows (Fox Trot)",
@@ -55536,9 +54616,9 @@ const isb_library ={
       "Library ID": "J-244"
     },
     {
-      "Title": "A String Of Pearls",
+      "Title": "String Of Pearls, A",
       "Composer": "Gray, Jerry",
-      "Arranger": "Gray, Jerry",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56063,7 +55143,7 @@ const isb_library ={
     {
       "Title": "Velvet Moon",
       "Composer": "Myrow, Josef",
-      "Arranger": "Camarata, \"Toots\"",
+      "Arranger": "Camarata, Toots\"\"",
       "Publisher": "M. Witmark ",
       "Copies": "",
       "Cost": "",
@@ -56376,10 +55456,10 @@ const isb_library ={
       "Library ID": "J-305"
     },
     {
-      "Title": "All The Things You Are",
-      "Composer": "",
-      "Arranger": "",
-      "Publisher": "",
+      "Title": "There You'll Be",
+      "Composer": "Warren, Diane",
+      "Arranger": "Lewis, Mike",
+      "Publisher": "Warner Brothers",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -56406,10 +55486,10 @@ const isb_library ={
       "Library ID": "J-307"
     },
     {
-      "Title": "A Fool Such As I",
-      "Composer": "",
-      "Arranger": "",
-      "Publisher": "",
+      "Title": "These Foolish Things (Remind Me Of You)",
+      "Composer": "Strachey & Link",
+      "Arranger": "Cacavas, John",
+      "Publisher": "Bourne Company Music Publishing",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
@@ -56438,7 +55518,7 @@ const isb_library ={
     {
       "Title": "And Why Not ",
       "Composer": "Ogerman, Claus",
-      "Arranger": "Ogerman, Claus",
+      "Arranger": "",
       "Publisher": "Kendor Music, Inc.",
       "Copies": "",
       "Cost": "",
@@ -56453,7 +55533,7 @@ const isb_library ={
     {
       "Title": "Andriel",
       "Composer": "Buggs, Tillman",
-      "Arranger": "Buggs, Tillman",
+      "Arranger": "",
       "Publisher": "Studio P.R.",
       "Copies": "",
       "Cost": "",
@@ -56483,7 +55563,7 @@ const isb_library ={
     {
       "Title": "Anteres",
       "Composer": "Biegler, Bob",
-      "Arranger": "Biegler, Bob",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56526,24 +55606,9 @@ const isb_library ={
       "Library ID": "J-315"
     },
     {
-      "Title": "Autumn In New York",
-      "Composer": "",
-      "Arranger": "",
-      "Publisher": "",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "Jazz Band",
-      "Library ID": "J-316"
-    },
-    {
-      "Title": "Ballin' The Jack",
-      "Composer": "",
-      "Arranger": "",
+      "Title": "They Can't Take That Away From Me",
+      "Composer": "Gershwin, George",
+      "Arranger": "Wolpe, Dave",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56558,7 +55623,7 @@ const isb_library ={
     {
       "Title": "Basie(C)",
       "Composer": "Lowden, Bob",
-      "Arranger": "Lowden, Bob",
+      "Arranger": "",
       "Publisher": "Columbia Lady/Torch Lady Music",
       "Copies": "",
       "Cost": "",
@@ -56573,7 +55638,7 @@ const isb_library ={
     {
       "Title": "Blues for Billie D.",
       "Composer": "Seibert, Bob",
-      "Arranger": "Seibert, Bob",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56588,7 +55653,7 @@ const isb_library ={
     {
       "Title": "Blue Is The Rose",
       "Composer": "Richards, Johny",
-      "Arranger": "Richards, Johnny",
+      "Arranger": "",
       "Publisher": "Peer International Corporation",
       "Copies": "",
       "Cost": "",
@@ -56633,7 +55698,7 @@ const isb_library ={
     {
       "Title": "Bon Homme Richard",
       "Composer": "Hanna, Ken",
-      "Arranger": "Hanna, Ken",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56663,7 +55728,7 @@ const isb_library ={
     {
       "Title": "Bach's Back With A Beat",
       "Composer": "Maltby, Richard",
-      "Arranger": "Maltby, Richard",
+      "Arranger": "",
       "Publisher": "Shapiro, Bernstein & Co., Inc.",
       "Copies": "",
       "Cost": "",
@@ -56678,7 +55743,7 @@ const isb_library ={
     {
       "Title": "Ballad For Alto ",
       "Composer": "Laurent, William",
-      "Arranger": "Laurent, William",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56693,7 +55758,7 @@ const isb_library ={
     {
       "Title": "Ballad For Trumpet",
       "Composer": "Laurent, William ",
-      "Arranger": "Laurent, William",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56722,7 +55787,7 @@ const isb_library ={
     },
     {
       "Title": "Blue Light Special",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -56737,7 +55802,7 @@ const isb_library ={
     },
     {
       "Title": "Blue Rain",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -56753,7 +55818,7 @@ const isb_library ={
     {
       "Title": "Blue Snow",
       "Composer": "Lance, Milt",
-      "Arranger": "Lance, Milt",
+      "Arranger": "",
       "Publisher": "Leeds Music Company",
       "Copies": "",
       "Cost": "",
@@ -56767,7 +55832,7 @@ const isb_library ={
     },
     {
       "Title": "Body And Soul",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -56782,7 +55847,7 @@ const isb_library ={
     },
     {
       "Title": "Box Tops ",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -56798,7 +55863,7 @@ const isb_library ={
     {
       "Title": "Bygones",
       "Composer": "Maiden, Willie",
-      "Arranger": "Maiden, Willie",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56811,9 +55876,9 @@ const isb_library ={
       "Library ID": "J-334"
     },
     {
-      "Title": "\"Casey\"",
+      "Title": "Casey",
       "Composer": "Otterson, Cathy",
-      "Arranger": "Otterson, Cathy",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56827,7 +55892,7 @@ const isb_library ={
     },
     {
       "Title": "Chattanooga",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -56842,7 +55907,7 @@ const isb_library ={
     },
     {
       "Title": "Chelsea Bridge",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -56857,7 +55922,7 @@ const isb_library ={
     },
     {
       "Title": "Cherokee",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -56873,7 +55938,7 @@ const isb_library ={
     {
       "Title": "Collage",
       "Composer": "Lowden, Bob",
-      "Arranger": "Lowden, Bob",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56903,7 +55968,7 @@ const isb_library ={
     {
       "Title": "Call Me Easy",
       "Composer": "Richards, Johnny",
-      "Arranger": "Richards, Johnny",
+      "Arranger": "",
       "Publisher": "Peer International Corporation",
       "Copies": "",
       "Cost": "",
@@ -56933,7 +55998,7 @@ const isb_library ={
     {
       "Title": "Country Road ",
       "Composer": "Wheeler, Kenny",
-      "Arranger": "Wheeler, Kenny",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56948,7 +56013,7 @@ const isb_library ={
     {
       "Title": "Circumvent",
       "Composer": "Hooper, Les",
-      "Arranger": "Hooper, Les",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56963,7 +56028,7 @@ const isb_library ={
     {
       "Title": "Calypso Tune",
       "Composer": "Brown, Marshall",
-      "Arranger": "Brown, Marshall",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -56992,7 +56057,7 @@ const isb_library ={
     },
     {
       "Title": "Caravan",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -57022,7 +56087,7 @@ const isb_library ={
     },
     {
       "Title": "Cheek (To Cheek)",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -57053,7 +56118,7 @@ const isb_library ={
     {
       "Title": "Cinnamon Kisses",
       "Composer": "Brown, Marshall ",
-      "Arranger": "Brown, Marhsall",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57068,7 +56133,7 @@ const isb_library ={
     {
       "Title": "Clarinade",
       "Composer": "Powell, Mel",
-      "Arranger": "Powell, Mel",
+      "Arranger": "",
       "Publisher": "Regent Music Corp.",
       "Copies": "",
       "Cost": "",
@@ -57083,7 +56148,7 @@ const isb_library ={
     {
       "Title": "Country Toad",
       "Composer": "Gallaher, Chris",
-      "Arranger": "Gallaher, Chris",
+      "Arranger": "",
       "Publisher": "Studio P.R.",
       "Copies": "",
       "Cost": "",
@@ -57097,7 +56162,7 @@ const isb_library ={
     },
     {
       "Title": "Coquina",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -57113,7 +56178,7 @@ const isb_library ={
     {
       "Title": "Creation for Cox",
       "Composer": "Mills, Donn",
-      "Arranger": "Mills, Donn",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57142,7 +56207,7 @@ const isb_library ={
     },
     {
       "Title": "Darn That Dream",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -57158,7 +56223,7 @@ const isb_library ={
     {
       "Title": "Deena",
       "Composer": "Miller, Ken",
-      "Arranger": "Miller, Ken",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57173,7 +56238,7 @@ const isb_library ={
     {
       "Title": "Doin' Everything With You",
       "Composer": "Mangione, Chuck",
-      "Arranger": "Mangione, Chuck",
+      "Arranger": "",
       "Publisher": "Gates Music, Inc.",
       "Copies": "",
       "Cost": "",
@@ -57188,7 +56253,7 @@ const isb_library ={
     {
       "Title": "Disapproachment",
       "Composer": "Foster, Frank",
-      "Arranger": "Foster, Frank",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57203,7 +56268,7 @@ const isb_library ={
     {
       "Title": "Don't Git Sassy",
       "Composer": "Jones, Thad",
-      "Arranger": "Jones, Thad",
+      "Arranger": "",
       "Publisher": "Kendor Music, Inc.",
       "Copies": "",
       "Cost": "",
@@ -57218,7 +56283,7 @@ const isb_library ={
     {
       "Title": "Dichotomy",
       "Composer": "Labarbera, John",
-      "Arranger": "Labarbera, John",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57277,7 +56342,7 @@ const isb_library ={
     },
     {
       "Title": "Desiderata",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -57351,9 +56416,9 @@ const isb_library ={
       "Library ID": "J-365"
     },
     {
-      "Title": "\"The Dancing Puppet\"",
+      "Title": "The Dancing Puppet",
       "Composer": "Russo, William",
-      "Arranger": "Russo, William",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57382,7 +56447,7 @@ const isb_library ={
     },
     {
       "Title": "Dark Eyes",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -57413,7 +56478,7 @@ const isb_library ={
     {
       "Title": "Design For Autumn",
       "Composer": "Dedrick, Art",
-      "Arranger": "Dedrick, Art",
+      "Arranger": "",
       "Publisher": "Kendor Music, Inc.",
       "Copies": "",
       "Cost": "",
@@ -57443,7 +56508,7 @@ const isb_library ={
     {
       "Title": "Diggin'",
       "Composer": "Mutchler, Ralph",
-      "Arranger": "Mutchler, Ralph",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57473,7 +56538,7 @@ const isb_library ={
     {
       "Title": "Do It!",
       "Composer": "Mutchler, Ralph",
-      "Arranger": "Mutchler, Ralph",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57503,7 +56568,7 @@ const isb_library ={
     {
       "Title": "Don't Go 'Way",
       "Composer": "Cobine, Al",
-      "Arranger": "Cobine, Al",
+      "Arranger": "",
       "Publisher": "Kendor Music, Inc.",
       "Copies": "",
       "Cost": "",
@@ -57533,7 +56598,7 @@ const isb_library ={
     {
       "Title": "Drigonesque",
       "Composer": "Katzman, Louis",
-      "Arranger": "Katzman, Louis",
+      "Arranger": "",
       "Publisher": "Alfred Publishing Company",
       "Copies": "",
       "Cost": "",
@@ -57561,21 +56626,6 @@ const isb_library ={
       "Library ID": "J-372"
     },
     {
-      "Title": "Dusk",
-      "Composer": "",
-      "Arranger": "",
-      "Publisher": "",
-      "Copies": "",
-      "Cost": "",
-      "Grade Level": "",
-      "State List": "",
-      "Media Link": "",
-      "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "Jazz Band",
-      "Library ID": "J-373"
-    },
-    {
       "Title": "Where It's At",
       "Composer": "Niehaus, Lennie",
       "Arranger": "Niehaus, Lennie",
@@ -57592,7 +56642,7 @@ const isb_library ={
     },
     {
       "Title": "Dust",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -57622,7 +56672,7 @@ const isb_library ={
     },
     {
       "Title": "East of the Sun",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -57653,7 +56703,7 @@ const isb_library ={
     {
       "Title": "Eine Kleine Bluesmusik",
       "Composer": "Stegmeyer, William",
-      "Arranger": "Stegmeyer, William",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57682,7 +56732,7 @@ const isb_library ={
     },
     {
       "Title": "Embracable You",
-      "Composer": "",
+      "Composer": "Manuscript",
       "Arranger": "Bacon, Wally",
       "Publisher": "",
       "Copies": "",
@@ -57713,7 +56763,7 @@ const isb_library ={
     {
       "Title": "End of a Love Affair ",
       "Composer": "Redding, Edward",
-      "Arranger": "Redding, Edward",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -57743,7 +56793,7 @@ const isb_library ={
     {
       "Title": "Entr\u00e9e to Andr\u00e9",
       "Composer": "Sherman, Garry",
-      "Arranger": "Sherman, Garry",
+      "Arranger": "",
       "Publisher": "Sam Fox Publishing Company, Inc.",
       "Copies": "",
       "Cost": "",
@@ -58087,7 +57137,7 @@ const isb_library ={
     },
     {
       "Title": "Modal Model",
-      "Composer": "\"Doc\" Severinsen",
+      "Composer": "Seversian, Doc",
       "Arranger": "Newson, Tom",
       "Publisher": "",
       "Copies": "",
@@ -58096,7 +57146,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Jazz",
       "Voicing": "Jazz Band",
       "Library ID": "J-399"
     },
@@ -58313,7 +57363,7 @@ const isb_library ={
     {
       "Title": "110th Street & 5th Ave.",
       "Composer": "Morales, Noro",
-      "Arranger": "Morales, Noro",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -58986,8 +58036,8 @@ const isb_library ={
       "Library ID": "J-459"
     },
     {
-      "Title": "A Step Beyond",
-      "Composer": "",
+      "Title": "Step Beyond, A",
+      "Composer": "Levy",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -59123,7 +58173,7 @@ const isb_library ={
     {
       "Title": "16 Bars Of Blues",
       "Composer": "Paich, Marty",
-      "Arranger": "Paich, Marty",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -59513,7 +58563,7 @@ const isb_library ={
     {
       "Title": "Grand Slam",
       "Composer": "Lyons, Jodie",
-      "Arranger": "Lyons, Jodie",
+      "Arranger": "",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -59528,7 +58578,7 @@ const isb_library ={
     {
       "Title": "Gladstone",
       "Composer": "Svarda, William",
-      "Arranger": "Svarda, William",
+      "Arranger": "",
       "Publisher": "Studio 224",
       "Copies": "",
       "Cost": "",
@@ -59571,9 +58621,9 @@ const isb_library ={
       "Library ID": "J-498"
     },
     {
-      "Title": "Grand Slam",
-      "Composer": "Lyons, Jodic",
-      "Arranger": "Lyons, Jodic",
+      "Title": "Winter Wonderland",
+      "Composer": "",
+      "Arranger": "McDonald, Chris",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -59581,7 +58631,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Christmas",
       "Voicing": "Jazz Band",
       "Library ID": "J-499"
     },
@@ -59902,7 +58952,7 @@ const isb_library ={
     },
     {
       "Title": "I Can't Get Started",
-      "Composer": "",
+      "Composer": "Hand Written",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -59932,7 +58982,7 @@ const isb_library ={
     },
     {
       "Title": "I May Be Wrong",
-      "Composer": "",
+      "Composer": "Hand Written",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -59946,9 +58996,9 @@ const isb_library ={
       "Library ID": "J-523"
     },
     {
-      "Title": "I'm In The Mood For Love",
-      "Composer": "",
-      "Arranger": "",
+      "Title": "Then I'll Be Tired of You",
+      "Composer": "Weiss & Thiele",
+      "Arranger": "French, Al",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
@@ -60007,7 +59057,7 @@ const isb_library ={
     },
     {
       "Title": "I Surrender, Dear",
-      "Composer": "",
+      "Composer": "Hand Written",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -60681,7 +59731,7 @@ const isb_library ={
       "Library ID": "J-572"
     },
     {
-      "Title": "Stardust - Kitchen",
+      "Title": "Star Dust - Kitchen",
       "Composer": "",
       "Arranger": "",
       "Publisher": "",
@@ -60696,7 +59746,7 @@ const isb_library ={
       "Library ID": "J-573"
     },
     {
-      "Title": "Stardust",
+      "Title": "Star Dust",
       "Composer": "",
       "Arranger": "",
       "Publisher": "",
@@ -62358,12 +61408,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "March",
       "Voicing": "",
-      "Library ID": "M-96",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "IN Composer"
+      "Library ID": "M-96"
     },
     {
       "Title": "Columbia Calls",
@@ -64341,7 +63386,7 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
+      "Music Type": "Polka",
       "Voicing": "Concert Band",
       "Library ID": "M-359"
     },
@@ -64361,7 +63406,7 @@ const isb_library ={
       "Library ID": "M-360"
     },
     {
-      "Title": "Santa Lucia",
+      "Title": "Santa Lucia (Cornet Duet)",
       "Composer": "Anonymous",
       "Arranger": "Morton, Frank ",
       "Publisher": "",
@@ -64372,7 +63417,22 @@ const isb_library ={
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
-      "Voicing": "",
+      "Voicing": "Concert Band w/soloist",
+      "Library ID": "M-361"
+    },
+    {
+      "Title": "Believe Me If All Those Enduring Young Charms (Cornet Solo)",
+      "Composer": "",
+      "Arranger": "Morton, Frank",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band w/soloist",
       "Library ID": "M-361"
     },
     {
@@ -64821,8 +63881,8 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
       "Library ID": "M-406"
     },
     {
@@ -64852,7 +63912,7 @@ const isb_library ={
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "March",
-      "Voicing": "",
+      "Voicing": "Concert Band",
       "Library ID": "M-408"
     },
     {
@@ -64896,8 +63956,8 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
       "Library ID": "M-411"
     },
     {
@@ -64911,8 +63971,8 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
       "Library ID": "M-412"
     },
     {
@@ -64927,7 +63987,7 @@ const isb_library ={
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "March",
-      "Voicing": "",
+      "Voicing": "Concert Band",
       "Library ID": "M-413"
     },
     {
@@ -64941,8 +64001,8 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
       "Library ID": "M-414"
     },
     {
@@ -64956,8 +64016,8 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
       "Library ID": "M-415"
     },
     {
@@ -64972,7 +64032,7 @@ const isb_library ={
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "",
-      "Voicing": "",
+      "Voicing": "Concert Band",
       "Library ID": "M-419"
     },
     {
@@ -65321,6 +64381,21 @@ const isb_library ={
       "Library ID": "M-444"
     },
     {
+      "Title": "Birdland",
+      "Composer": "Zawinul",
+      "Arranger": "Story, Mike",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Rock",
+      "Voicing": "Concert Band",
+      "Library ID": "M-445"
+    },
+    {
       "Title": "German Band Encores",
       "Composer": "Butts, Carrol M.",
       "Arranger": "Butts, Carrol M.",
@@ -65366,6 +64441,66 @@ const isb_library ={
       "Library ID": "M-448"
     },
     {
+      "Title": "More Blood & Guts Fanfares",
+      "Composer": "Seibert, Bob",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Fanfare",
+      "Voicing": "Concert Band",
+      "Library ID": "M-449"
+    },
+    {
+      "Title": "Williamson Fanfares - Set A",
+      "Composer": "Williamson, Douglas",
+      "Arranger": "",
+      "Publisher": "Southern Music Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Fanfare",
+      "Voicing": "Concert Band",
+      "Library ID": "M-450"
+    },
+    {
+      "Title": "Camptown March And Blues",
+      "Composer": "Fielding, Jerry",
+      "Arranger": "Ployhar, James D.",
+      "Publisher": "Gordon Music Company, Inc.",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "",
+      "Voicing": "Concert Band",
+      "Library ID": "M-451"
+    },
+    {
+      "Title": "I Love A Rainy Night",
+      "Composer": "Rabbitt,Stevens & Malloy",
+      "Arranger": "Norred, Larry",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Jazz",
+      "Voicing": "Concert Band",
+      "Library ID": "M-452"
+    },
+    {
       "Title": "Rameses March",
       "Composer": "Richards, J.J.",
       "Arranger": "",
@@ -65396,8 +64531,128 @@ const isb_library ={
       "Library ID": "M-455"
     },
     {
-      "Title": "Royal Bridesmaids Mar",
+      "Title": "Royal Bridesmaids March",
       "Composer": "Casto, John W.",
+      "Arranger": "",
+      "Publisher": "C.L. Barnhouse Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
+      "Library ID": "M-456"
+    },
+    {
+      "Title": "Prestissimo (Galop)",
+      "Composer": "King, Karl L.",
+      "Arranger": "",
+      "Publisher": "K.L. King Music House",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
+      "Library ID": "M-457"
+    },
+    {
+      "Title": "We Stand United",
+      "Composer": "King, Karl L.",
+      "Arranger": "",
+      "Publisher": "C.L. Barnhouse Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
+      "Library ID": "M-458"
+    },
+    {
+      "Title": "Step On It",
+      "Composer": "King, Karl L.",
+      "Arranger": "",
+      "Publisher": "Edwin F. Kalmus & Company Inc.",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
+      "Library ID": "M-459"
+    },
+    {
+      "Title": "U.S. Field Artillery March, The",
+      "Composer": "Sousa, John Philip",
+      "Arranger": "Lake, M.L.",
+      "Publisher": "Carl Fischer, LLC",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
+      "Library ID": "M-460"
+    },
+    {
+      "Title": "Vanished Army, The (They Never Die)",
+      "Composer": "Alford, Kenneth J.",
+      "Arranger": "",
+      "Publisher": "Boosey & Hawkes, Inc.",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "March",
+      "Voicing": "Concert Band",
+      "Library ID": "M-461"
+    },
+    {
+      "Title": "Two Fanfares",
+      "Composer": "McBeth, W. Francis",
+      "Arranger": "",
+      "Publisher": "Southern Music Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Fanfare",
+      "Voicing": "Concert Band",
+      "Library ID": "M-462"
+    },
+    {
+      "Title": "Williamson Fanfares - Set B",
+      "Composer": "Williamson, Douglas",
+      "Arranger": "",
+      "Publisher": "Southern Music Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Fanfare",
+      "Voicing": "Concert Band",
+      "Library ID": "M-463"
+    },
+    {
+      "Title": "4 Blood & Guts Fanfares",
+      "Composer": "Seibert, Bob",
       "Arranger": "",
       "Publisher": "",
       "Copies": "",
@@ -65406,9 +64661,9 @@ const isb_library ={
       "State List": "",
       "Media Link": "",
       "Media Link 2": "",
-      "Music Type": "",
-      "Voicing": "",
-      "Library ID": "M-456"
+      "Music Type": "Fanfare",
+      "Voicing": "Concert Band",
+      "Library ID": "M-464"
     },
     {
       "Title": "And the Mountains Echoed: Gloria!",
@@ -65468,11 +64723,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-3",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-12-13"
+      "Library ID": "X-3"
     },
     {
       "Title": "Preghiera ",
@@ -65502,12 +64753,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-4",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Needs first horn"
+      "Library ID": "X-4"
     },
     {
       "Title": "Carol of the Night",
@@ -65522,12 +64768,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-5",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing"
+      "Library ID": "X-5"
     },
     {
       "Title": "Celebrate Christmas!",
@@ -65557,11 +64798,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-7",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-7"
     },
     {
       "Title": "Christmas Bandfare",
@@ -65576,12 +64813,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-8",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Four Part Carols"
+      "Library ID": "X-8"
     },
     {
       "Title": "Christmas Fancies",
@@ -65641,30 +64873,22 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-12",
-      "Date Purchased": "2022-09-01",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-12-13"
+      "Library ID": "X-12"
     },
     {
-      "Title": "Christmas Legends",
+      "Title": "Christmas Legends - e",
       "Composer": "Gilroy, Gary P.",
       "Arranger": "",
       "Publisher": "Wingert-Jones Publications",
       "Copies": "",
       "Cost": "",
       "Grade Level": "4",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-13",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-13"
     },
     {
       "Title": "Christmas Portrait, A",
@@ -65679,11 +64903,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-14",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-14"
     },
     {
       "Title": "Christmas Tryptich",
@@ -65698,11 +64918,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-15",
-      "Date Purchased": "2014-12-14",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-15"
     },
     {
       "Title": "Christmas Variants",
@@ -65717,11 +64933,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-16",
-      "Date Purchased": "2021-12-14",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-16"
     },
     {
       "Title": "Christmas Waltz, A (w/ Optional Choir)",
@@ -65751,11 +64963,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-18",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-18"
     },
     {
       "Title": "Deck the Halls with Boughs of Holly (A Merrie Fugue)",
@@ -65770,8 +64978,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-19",
-      "Date Purchased": "2021-12-14"
+      "Library ID": "X-19"
     },
     {
       "Title": "Do You Hear What I Hear?",
@@ -65801,12 +65008,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-21",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Missing Parts"
+      "Library ID": "X-21"
     },
     {
       "Title": "Emmanuel  Variants",
@@ -65836,12 +65038,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-23",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-12-13",
-      "Comments": "Jazz versions"
+      "Library ID": "X-23"
     },
     {
       "Title": "English Christmas, An",
@@ -65871,11 +65068,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-25",
-      "Date Purchased": "2021-12-14",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-25"
     },
     {
       "Title": "Fireside Tale, A (Novelette)",
@@ -65935,32 +65128,22 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-29",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-12-13",
-      "Comments": "Copy of Warren"
+      "Library ID": "X-29"
     },
     {
-      "Title": "Greensleeves",
+      "Title": "Greensleeves - e",
       "Composer": "Traditional",
       "Arranger": "Reed, Alfred",
       "Publisher": "C.L. Barnhouse Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "3",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-30",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Score, Cor 1, Horn 3/4, Trombone 1,2,3, Percussion"
+      "Library ID": "X-30"
     },
     {
       "Title": "Hanukkah Begins Tonight",
@@ -66023,23 +65206,19 @@ const isb_library ={
       "Library ID": "X-34"
     },
     {
-      "Title": "I Wonder as I Wander",
+      "Title": "I Wonder as I Wander (Vocal solo) - e",
       "Composer": "Traditional",
       "Arranger": "Erwin, Paul",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Christmas",
-      "Voicing": "Concert Band",
-      "Library ID": "X-35",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-12-13"
+      "Voicing": "Concert Band w/soloist",
+      "Library ID": "X-35"
     },
     {
       "Title": "In Dulci Jubilo (A Chorale Prelude w/opt. Organ)",
@@ -66099,11 +65278,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-39",
-      "Date Purchased": "2022-09-01",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-12-13"
+      "Library ID": "X-39"
     },
     {
       "Title": "Jingle Bells Forever (Concert March)",
@@ -66148,11 +65323,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-42",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-12-13"
+      "Library ID": "X-42"
     },
     {
       "Title": "Messiah, And the Glory of the Lord",
@@ -66182,11 +65353,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-44",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-44"
     },
     {
       "Title": "Messiah, He Shall Feed His Flock",
@@ -66231,11 +65398,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-47",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-47"
     },
     {
       "Title": "New Age Christmas",
@@ -66250,11 +65413,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-48",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2021-12-14"
+      "Library ID": "X-48"
     },
     {
       "Title": "Night Before Christmas",
@@ -66299,22 +65458,17 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-51",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "Russian"
+      "Library ID": "X-51"
     },
     {
-      "Title": "Nutcracker, The: Valse Des Fleurs",
+      "Title": "Nutcracker, The: Valse Des Fleurs - e",
       "Composer": "Tchaikovsky, Pyotr Ilyich",
       "Arranger": "Lake, Mathew L.",
       "Publisher": "",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Christmas",
@@ -66394,11 +65548,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-57",
-      "Date Purchased": "",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-12-13"
+      "Library ID": "X-57"
     },
     {
       "Title": "Rhapsody on Christmas Carols, A",
@@ -66536,14 +65686,14 @@ const isb_library ={
       "Library ID": "X-66"
     },
     {
-      "Title": "Symphonic Prelude On Adeste Fidelis",
+      "Title": "Symphonic Prelude On Adeste Fidelis - e",
       "Composer": "Smith, Claude T.",
       "Arranger": "",
       "Publisher": "Jenson Publications",
       "Copies": "",
       "Cost": "",
       "Grade Level": "3",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Christmas",
@@ -66713,8 +65863,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-79",
-      "Date Purchased": "2022-11-01"
+      "Library ID": "X-79"
     },
     {
       "Title": "Fantasia For Christmas (based on The Ukrainian Bell Carol)",
@@ -66729,11 +65878,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-80",
-      "Date Purchased": "2022-11-01",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "2022-12-13"
+      "Library ID": "X-80"
     },
     {
       "Title": "Waltzing Carolers",
@@ -66763,8 +65908,7 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-82",
-      "Date Purchased": "2023-10-02"
+      "Library ID": "X-82"
     },
     {
       "Title": "Most Wonderful Christmas, A",
@@ -66779,16 +65923,11 @@ const isb_library ={
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-83",
-      "Date Purchased": "2023-10-02",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "GD"
+      "Library ID": "X-83"
     },
     {
       "Title": "Sleigh Ride",
-      "Composer": "Anderson, Leory",
+      "Composer": "Anderson, Leroy",
       "Arranger": "",
       "Publisher": "Mills Music, Inc.",
       "Copies": "",
@@ -66802,24 +65941,109 @@ const isb_library ={
       "Library ID": "X-84"
     },
     {
-      "Title": "Mariah Carey Christmas, A",
+      "Title": "Mariah Carey Christmas, A - e",
       "Composer": "Carey, Mariah/Afanasieff, Walter",
       "Arranger": "Murphy, Joe",
       "Publisher": "Arrangers Publishing Company",
       "Copies": "",
       "Cost": "",
       "Grade Level": "",
-      "State List": "",
+      "State List": "E",
       "Media Link": "",
       "Media Link 2": "",
       "Music Type": "Christmas",
       "Voicing": "Concert Band",
-      "Library ID": "X-85",
-      "Date Purchased": "2023-10-02",
-      "Purchased From": "",
-      "Performance Info": "",
-      "Last Performance Date": "",
-      "Comments": "GD"
+      "Library ID": "X-85"
+    },
+    {
+      "Title": "O Holy Night (Vocal solo) - e",
+      "Composer": "Adam, Adolphe Charles",
+      "Arranger": "Giroux, Julie",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Christmas",
+      "Voicing": "Concert Band",
+      "Library ID": "X-86"
+    },
+    {
+      "Title": "Christmas Wishes - e",
+      "Composer": "Smith, Tim",
+      "Arranger": "",
+      "Publisher": "",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Christmas",
+      "Voicing": "Concert Band",
+      "Library ID": "X-87"
+    },
+    {
+      "Title": "Yes, Virginia, There Is A Santa Clause (w-narrator)  - e",
+      "Composer": "Smith, Robert W.",
+      "Arranger": "",
+      "Publisher": "C.L. Barnhouse Company",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Christmas",
+      "Voicing": "Concert Band w/soloist",
+      "Library ID": "X-88"
+    },
+    {
+      "Title": "Holiday Rhapsody, A - e",
+      "Composer": "Various",
+      "Arranger": "MacTaggart, Larry",
+      "Publisher": "Wingert-Jones Publications",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "5",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Christmas",
+      "Voicing": "Concert Band",
+      "Library ID": "X-89"
+    },
+    {
+      "Title": "Christmas on Broadway (opt choir, strings) - e",
+      "Composer": "Various",
+      "Arranger": "Higgins, John",
+      "Publisher": "Hal Leonard Corporation",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "3",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Christmas",
+      "Voicing": "Concert Band",
+      "Library ID": "X-90"
+    },
+    {
+      "Title": "Quiet Christmas - e",
+      "Composer": "Grundman, Clare",
+      "Arranger": "",
+      "Publisher": "Boosey & Hawkes, Inc.",
+      "Copies": "",
+      "Cost": "",
+      "Grade Level": "",
+      "State List": "E",
+      "Media Link": "",
+      "Media Link 2": "",
+      "Music Type": "Christmas",
+      "Voicing": "Concert Band",
+      "Library ID": "X-91"
     }
   ]
 }
