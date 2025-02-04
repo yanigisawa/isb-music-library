@@ -18,7 +18,7 @@ Barcode Number
 def get_scores_from_file():
     music_records = []
     keys = keys_to_delete.strip().split("\n")
-    file_path = '/Users/jalexander/Downloads/musiclibrary (9).csv'
+    file_path = '/Users/jalexander/Downloads/musiclibrary (10).csv'
     with open(file_path, 'r') as f:
         csv_reader = csv.DictReader(f)
         for row in csv_reader:
@@ -157,7 +157,7 @@ def find_gaps():
             expected = f"{l}-{i}"
             if expected not in library_ids:
                 print(expected)
-    # print(gaps)
+    print(gaps)
 
 
 def get_score_by_id(library_id):
@@ -204,7 +204,7 @@ if __name__ == "__main__":
 
     # print("Script DOES NOT automatically download from MyMusicOffice. The CSV download has not be automated yet. An attempt is made in the get_library_from_my_music_office function.")
 
-    get_scores_from_file()
+    # get_scores_from_file()
     update_json_music_library()
     # get_library_from_my_music_office()
     # get_bulk_youtube_searches()
